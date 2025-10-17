@@ -1,0 +1,288 @@
+market_title,city,target_date,strike_type,market_low_temp,market_high_temp,market_single_strike,yes_ask,no_ask,state_collected_at,actual_high_temperature,actual_low_temperature,market_result
+"Will the **high temp in Austin** be 94-95° on Jul 18, 2025?",Austin,2025-07-18,between,94,95,,59.00,53.00,2025-07-18 07:02:15,95,70,YES
+"Will the high temp in Chicago be 81-82° on Jul 18, 2025?",Chicago,2025-07-18,between,81,82,,39.00,69.00,2025-07-18 07:02:17,80,58,NO
+"Will the **high temp in Denver** be 90-91° on Jul 18, 2025?",Denver,2025-07-18,between,90,91,,50.00,79.00,2025-07-18 07:02:14,93,62,NO
+"Will the **high temp in LA** be 72-73° on Jul 18, 2025?",Los Angeles,2025-07-18,between,72,73,,57.00,53.00,2025-07-18 07:02:14,73,64,YES
+"Will the **high temp in Miami** be 92-93° on Jul 18, 2025?",Miami,2025-07-18,between,92,93,,55.00,49.00,2025-07-18 07:02:16,92,83,YES
+"Will the **high temp in NYC** be 83-84° on Jul 18, 2025?",New York,2025-07-18,between,83,84,,51.00,52.00,2025-07-18 07:02:15,88,73,NO
+"Will the **high temp in Philadelphia** be 86-87° on Jul 18, 2025?",Philadelphia,2025-07-18,between,86,87,,45.00,60.00,2025-07-18 07:02:16,93,79,NO
+"Will the **high temp in Austin** be 96-97° on Jul 17, 2025?",Austin,2025-07-17,between,96,97,,57.00,59.00,2025-07-17 07:01:30,95,72,NO
+"Will the high temp in Chicago be <75° on Jul 17, 2025?",Chicago,2025-07-17,less,,75,,63.00,79.00,2025-07-17 07:01:32,78,65,NO
+"Will the **high temp in Denver** be 88-89° on Jul 17, 2025?",Denver,2025-07-17,between,88,89,,42.00,71.00,2025-07-17 07:01:28,90,56,NO
+"Will the **high temp in LA** be 71-72° on Jul 17, 2025?",Los Angeles,2025-07-17,between,71,72,,49.00,61.00,2025-07-17 07:01:29,73,63,NO
+"Will the **high temp in Miami** be 89-90° on Jul 17, 2025?",Miami,2025-07-17,between,89,90,,48.00,54.00,2025-07-17 07:01:30,91,82,NO
+"Will the **high temp in NYC** be 91-92° on Jul 17, 2025?",New York,2025-07-17,between,91,92,,57.00,58.00,2025-07-17 07:01:29,90,75,NO
+"Will the **high temp in Philadelphia** be 94-95° on Jul 17, 2025?",Philadelphia,2025-07-17,between,94,95,,42.00,75.00,2025-07-17 07:01:31,95,75,YES
+"Will the **high temp in Austin** be 95-96° on Jul 16, 2025?",Austin,2025-07-16,between,95,96,,52.00,60.00,2025-07-16 07:02:15,95,78,YES
+"Will the high temp in Chicago be 93-94° on Jul 16, 2025?",Chicago,2025-07-16,between,93,94,,42.00,73.00,2025-07-16 07:02:16,90,72,NO
+"Will the **high temp in Denver** be <85° on Jul 16, 2025?",Denver,2025-07-16,less,,85,,84.00,18.00,2025-07-16 07:02:13,77,60,NO
+"Will the **high temp in LA** be 73-74° on Jul 16, 2025?",Los Angeles,2025-07-16,between,73,74,,54.00,60.00,2025-07-16 07:02:13,74,64,YES
+"Will the **high temp in Miami** be 89-90° on Jul 16, 2025?",Miami,2025-07-16,between,89,90,,50.00,53.00,2025-07-16 07:02:15,90,75,YES
+"Will the **high temp in NYC** be 88-89° on Jul 16, 2025?",New York,2025-07-16,between,88,89,,69.00,44.00,2025-07-16 07:02:14,87,77,NO
+"Will the **high temp in Philadelphia** be 91-92° on Jul 16, 2025?",Philadelphia,2025-07-16,between,91,92,,45.00,61.00,2025-07-16 07:02:16,93,76,NO
+"Will the **high temp in Austin** be 94-95° on Jul 15, 2025?",Austin,2025-07-15,between,94,95,,44.00,57.00,2025-07-15 07:02:36,93,74,NO
+"Will the high temp in Chicago be 90-91° on Jul 15, 2025?",Chicago,2025-07-15,between,90,91,,41.00,62.00,2025-07-15 07:02:37,91,70,YES
+"Will the **high temp in Denver** be 95-96° on Jul 15, 2025?",Denver,2025-07-15,between,95,96,,56.00,68.00,2025-07-15 07:02:34,95,65,YES
+"Will the **high temp in LA** be 71-72° on Jul 15, 2025?",Los Angeles,2025-07-15,between,71,72,,41.00,83.00,2025-07-15 07:02:35,74,63,NO
+"Will the **high temp in Miami** be 86-87° on Jul 15, 2025?",Miami,2025-07-15,between,86,87,,44.00,60.00,2025-07-15 07:02:36,88,75,NO
+"Will the **high temp in NYC** be 86-87° on Jul 15, 2025?",New York,2025-07-15,between,86,87,,46.00,57.00,2025-07-15 07:02:35,86,72,YES
+"Will the **high temp in Philadelphia** be >90° on Jul 15, 2025?",Philadelphia,2025-07-15,greater,,90,,72.00,69.00,2025-07-15 07:02:37,90,75,NO
+"Will the **high temp in Austin** be 91-92° on Jul 14, 2025?",Austin,2025-07-14,between,91,92,,45.00,62.00,2025-07-14 07:01:38,93,72,NO
+"Will the high temp in Chicago be 90-91° on Jul 14, 2025?",Chicago,2025-07-14,between,90,91,,48.00,67.00,2025-07-14 07:01:39,87,66,NO
+"Will the **high temp in Denver** be 96-97° on Jul 14, 2025?",Denver,2025-07-14,between,96,97,,50.00,60.00,2025-07-14 07:01:36,94,68,NO
+"Will the **high temp in LA** be 71-72° on Jul 14, 2025?",Los Angeles,2025-07-14,between,71,72,,62.00,44.00,2025-07-14 07:01:37,70,60,NO
+"Will the **high temp in Miami** be 85-86° on Jul 14, 2025?",Miami,2025-07-14,between,85,86,,45.00,75.00,2025-07-14 07:01:38,91,74,NO
+"Will the **high temp in NYC** be 84-85° on Jul 14, 2025?",New York,2025-07-14,between,84,85,,51.00,52.00,2025-07-14 07:01:37,85,73,YES
+"Will the **high temp in Philadelphia** be 87-88° on Jul 14, 2025?",Philadelphia,2025-07-14,between,87,88,,54.00,75.00,2025-07-14 07:01:39,91,76,NO
+"Will the **high temp in Austin** be 87-88° on Jul 13, 2025?",Austin,2025-07-13,between,87,88,,43.00,72.00,2025-07-13 07:01:36,90,72,NO
+"Will the high temp in Chicago be 83-84° on Jul 13, 2025?",Chicago,2025-07-13,between,83,84,,49.00,54.00,2025-07-13 07:01:38,83,67,YES
+"Will the **high temp in Denver** be 91-92° on Jul 13, 2025?",Denver,2025-07-13,between,91,92,,55.00,57.00,2025-07-13 07:01:35,92,62,YES
+"Will the **high temp in LA** be 71-72° on Jul 13, 2025?",Los Angeles,2025-07-13,between,71,72,,40.00,66.00,2025-07-13 07:01:35,71,61,YES
+"Will the **high temp in Miami** be 91-92° on Jul 13, 2025?",Miami,2025-07-13,between,91,92,,53.00,67.00,2025-07-13 07:01:37,88,79,NO
+"Will the **high temp in NYC** be 82-83° on Jul 13, 2025?",New York,2025-07-13,between,82,83,,59.00,67.00,2025-07-13 07:01:36,83,71,YES
+"Will the **high temp in Philadelphia** be 88-89° on Jul 13, 2025?",Philadelphia,2025-07-13,between,88,89,,46.00,57.00,2025-07-13 07:01:37,92,75,NO
+"Will the **high temp in Austin** be 92-93° on Jul 12, 2025?",Austin,2025-07-12,between,92,93,,55.00,63.00,2025-07-12 07:02:16,93,76,YES
+"Will the high temp in Chicago be 88-89° on Jul 12, 2025?",Chicago,2025-07-12,between,88,89,,42.00,82.00,2025-07-12 07:02:18,87,69,NO
+"Will the **high temp in Denver** be 83-84° on Jul 12, 2025?",Denver,2025-07-12,between,83,84,,42.00,63.00,2025-07-12 07:02:15,86,57,NO
+"Will the **high temp in LA** be 73-74° on Jul 12, 2025?",Los Angeles,2025-07-12,between,73,74,,66.00,38.00,2025-07-12 07:02:15,75,65,NO
+"Will the **high temp in Miami** be 89-90° on Jul 12, 2025?",Miami,2025-07-12,between,89,90,,53.00,49.00,2025-07-12 07:02:17,92,77,NO
+"Will the **high temp in NYC** be 84-85° on Jul 12, 2025?",New York,2025-07-12,between,84,85,,49.00,58.00,2025-07-12 07:02:16,83,74,NO
+"Will the **high temp in Philadelphia** be 89-90° on Jul 12, 2025?",Philadelphia,2025-07-12,between,89,90,,50.00,56.00,2025-07-12 07:02:18,91,74,NO
+"Will the **high temp in Austin** be 92-93° on Jul 11, 2025?",Austin,2025-07-11,between,92,93,,72.00,37.00,2025-07-11 07:02:27,93,73,YES
+"Will the high temp in Chicago be <90° on Jul 11, 2025?",Chicago,2025-07-11,less,,90,,55.00,51.00,2025-07-11 07:02:28,90,69,NO
+"Will the **high temp in Denver** be 86-87° on Jul 11, 2025?",Denver,2025-07-11,between,86,87,,44.00,64.00,2025-07-11 07:02:25,89,54,NO
+"Will the **high temp in LA** be 74-75° on Jul 11, 2025?",Los Angeles,2025-07-11,between,74,75,,49.00,52.00,2025-07-11 07:02:26,75,63,YES
+"Will the **high temp in Miami** be 89-90° on Jul 11, 2025?",Miami,2025-07-11,between,89,90,,58.00,43.00,2025-07-11 07:02:27,90,77,YES
+"Will the **high temp in NYC** be 85-86° on Jul 11, 2025?",New York,2025-07-11,between,85,86,,51.00,55.00,2025-07-11 07:02:26,84,73,NO
+"Will the **high temp in Philadelphia** be 89-90° on Jul 11, 2025?",Philadelphia,2025-07-11,between,89,90,,49.00,56.00,2025-07-11 07:02:28,90,73,YES
+"Will the **high temp in Austin** be 93-94° on Jul 10, 2025?",Austin,2025-07-10,between,93,94,,47.00,67.00,2025-07-10 07:01:31,89,68,NO
+"Will the high temp in Chicago be 84-85° on Jul 10, 2025?",Chicago,2025-07-10,between,84,85,,52.00,80.00,2025-07-10 07:01:33,85,67,YES
+"Will the **high temp in Denver** be 92-93° on Jul 10, 2025?",Denver,2025-07-10,between,92,93,,40.00,66.00,2025-07-10 07:01:30,91,59,NO
+"Will the **high temp in LA** be 75-76° on Jul 10, 2025?",Los Angeles,2025-07-10,between,75,76,,60.00,44.00,2025-07-10 07:01:30,75,62,YES
+"Will the **high temp in Miami** be 90-91° on Jul 10, 2025?",Miami,2025-07-10,between,90,91,,57.00,54.00,2025-07-10 07:01:32,91,77,YES
+"Will the **high temp in NYC** be 81-82° on Jul 10, 2025?",New York,2025-07-10,between,81,82,,42.00,60.00,2025-07-10 07:01:31,85,70,NO
+"Will the **high temp in Philadelphia** be 83-84° on Jul 10, 2025?",Philadelphia,2025-07-10,between,83,84,,41.00,61.00,2025-07-10 07:01:32,86,72,NO
+"Will the **high temp in Austin** be 92-93° on Jul 9, 2025?",Austin,2025-07-09,between,92,93,,51.00,57.00,2025-07-09 07:02:17,91,73,NO
+"Will the high temp in Chicago be 83-84° on Jul 9, 2025?",Chicago,2025-07-09,between,83,84,,44.00,57.00,2025-07-09 07:02:21,85,70,NO
+"Will the **high temp in Denver** be 99-100° on Jul 9, 2025?",Denver,2025-07-09,between,99,100,,42.00,59.00,2025-07-09 07:02:16,100,63,YES
+"Will the **high temp in LA** be 75-76° on Jul 9, 2025?",Los Angeles,2025-07-09,between,75,76,,54.00,47.00,2025-07-09 07:02:17,75,63,YES
+"Will the **high temp in Miami** be 91-92° on Jul 9, 2025?",Miami,2025-07-09,between,91,92,,52.00,51.00,2025-07-09 07:02:19,92,80,YES
+"Will the **high temp in NYC** be 90-91° on Jul 9, 2025?",New York,2025-07-09,between,90,91,,41.00,61.00,2025-07-09 07:02:17,90,73,YES
+"Will the **high temp in Philadelphia** be 90-91° on Jul 9, 2025?",Philadelphia,2025-07-09,between,90,91,,45.00,61.00,2025-07-09 07:02:21,91,75,YES
+"Will the **high temp in Austin** be 91-92° on Jul 8, 2025?",Austin,2025-07-08,between,91,92,,56.00,48.00,2025-07-08 07:02:22,94,72,NO
+"Will the high temp in Chicago be 87-88° on Jul 8, 2025?",Chicago,2025-07-08,between,87,88,,37.00,67.00,2025-07-08 07:02:24,84,69,NO
+"Will the **high temp in Denver** be 96-97° on Jul 8, 2025?",Denver,2025-07-08,between,96,97,,47.00,66.00,2025-07-08 07:02:20,96,59,YES
+"Will the **high temp in LA** be 73-74° on Jul 8, 2025?",Los Angeles,2025-07-08,between,73,74,,53.00,49.00,2025-07-08 07:02:21,73,62,YES
+"Will the **high temp in Miami** be 91-92° on Jul 8, 2025?",Miami,2025-07-08,between,91,92,,58.00,45.00,2025-07-08 07:02:23,92,79,YES
+"Will the **high temp in NYC** be 92-93° on Jul 8, 2025?",New York,2025-07-08,between,92,93,,43.00,58.00,2025-07-08 07:02:22,93,77,YES
+"Will the **high temp in Philadelphia** be 94-95° on Jul 8, 2025?",Philadelphia,2025-07-08,between,94,95,,55.00,75.00,2025-07-08 07:02:23,96,74,NO
+"Will the **high temp in Austin** be 92-93° on Jul 7, 2025?",Austin,2025-07-07,between,92,93,,43.00,61.00,2025-07-07 07:01:22,91,76,NO
+"Will the high temp in Chicago be 81-82° on Jul 7, 2025?",Chicago,2025-07-07,between,81,82,,46.00,60.00,2025-07-07 07:01:25,83,65,NO
+"Will the **high temp in Denver** be 92-93° on Jul 7, 2025?",Denver,2025-07-07,between,92,93,,55.00,50.00,2025-07-07 07:01:20,92,56,YES
+"Will the **high temp in LA** be 71-72° on Jul 7, 2025?",Los Angeles,2025-07-07,between,71,72,,60.00,42.00,2025-07-07 07:01:21,72,62,YES
+"Will the **high temp in Miami** be 91-92° on Jul 7, 2025?",Miami,2025-07-07,between,91,92,,53.00,51.00,2025-07-07 07:01:23,92,76,YES
+"Will the **high temp in NYC** be 83-84° on Jul 7, 2025?",New York,2025-07-07,between,83,84,,50.00,55.00,2025-07-07 07:01:21,87,76,NO
+"Will the **high temp in Philadelphia** be 88-89° on Jul 7, 2025?",Philadelphia,2025-07-07,between,88,89,,46.00,59.00,2025-07-07 07:01:24,91,76,NO
+"Will the **high temp in Austin** be 89-90° on Jul 6, 2025?",Austin,2025-07-06,between,89,90,,35.00,66.00,2025-07-06 07:02:16,91,72,NO
+"Will the high temp in Chicago be 86-87° on Jul 6, 2025?",Chicago,2025-07-06,between,86,87,,44.00,61.00,2025-07-06 07:02:18,91,70,NO
+"Will the **high temp in Denver** be 90-91° on Jul 6, 2025?",Denver,2025-07-06,between,90,91,,40.00,65.00,2025-07-06 07:02:14,91,59,YES
+"Will the **high temp in LA** be 72-73° on Jul 6, 2025?",Los Angeles,2025-07-06,between,72,73,,53.00,50.00,2025-07-06 07:02:15,71,61,NO
+"Will the **high temp in Miami** be 90-91° on Jul 6, 2025?",Miami,2025-07-06,between,90,91,,60.00,44.00,2025-07-06 07:02:17,88,75,NO
+"Will the **high temp in NYC** be 88-89° on Jul 6, 2025?",New York,2025-07-06,between,88,89,,52.00,49.00,2025-07-06 07:02:16,87,72,NO
+"Will the **high temp in Philadelphia** be 90-91° on Jul 6, 2025?",Philadelphia,2025-07-06,between,90,91,,53.00,53.00,2025-07-06 07:02:17,90,71,YES
+"Will the **high temp in Austin** be <87° on Jul 5, 2025?",Austin,2025-07-05,less,,87,,90.00,11.00,2025-07-05 07:01:53,83,74,NO
+"Will the high temp in Chicago be 95-96° on Jul 5, 2025?",Chicago,2025-07-05,between,95,96,,42.00,61.00,2025-07-05 07:01:54,94,76,NO
+"Will the **high temp in Denver** be 90-91° on Jul 5, 2025?",Denver,2025-07-05,between,90,91,,43.00,63.00,2025-07-05 07:01:52,92,60,NO
+"Will the **high temp in LA** be 74-75° on Jul 5, 2025?",Los Angeles,2025-07-05,between,74,75,,49.00,52.00,2025-07-05 07:01:52,73,63,NO
+"Will the **high temp in Miami** be 89-90° on Jul 5, 2025?",Miami,2025-07-05,between,89,90,,58.00,55.00,2025-07-05 07:01:53,89,76,YES
+"Will the **high temp in NYC** be 84-85° on Jul 5, 2025?",New York,2025-07-05,between,84,85,,46.00,57.00,2025-07-05 07:01:53,84,68,YES
+"Will the **high temp in Philadelphia** be 89-90° on Jul 5, 2025?",Philadelphia,2025-07-05,between,89,90,,40.00,66.00,2025-07-05 07:01:54,88,66,NO
+"Will the **high temp in Austin** be <88° on Jul 4, 2025?",Austin,2025-07-04,less,,88,,74.00,42.00,2025-07-04 07:01:33,84,77,NO
+"Will the high temp in Chicago be 92-93° on Jul 4, 2025?",Chicago,2025-07-04,between,92,93,,42.00,63.00,2025-07-04 07:01:35,92,74,YES
+"Will the **high temp in Denver** be 88-89° on Jul 4, 2025?",Denver,2025-07-04,between,88,89,,40.00,66.00,2025-07-04 07:01:32,87,65,NO
+"Will the **high temp in LA** be 73-74° on Jul 4, 2025?",Los Angeles,2025-07-04,between,73,74,,66.00,40.00,2025-07-04 07:01:32,74,62,YES
+"Will the **high temp in Miami** be 85-86° on Jul 4, 2025?",Miami,2025-07-04,between,85,86,,48.00,80.00,2025-07-04 07:01:34,86,74,YES
+"Will the **high temp in NYC** be 82-83° on Jul 4, 2025?",New York,2025-07-04,between,82,83,,56.00,60.00,2025-07-04 07:01:33,83,67,YES
+"Will the **high temp in Philadelphia** be 87-88° on Jul 4, 2025?",Philadelphia,2025-07-04,between,87,88,,58.00,72.00,2025-07-04 07:01:34,89,68,NO
+"Will the **high temp in Austin** be 87-88° on Jul 3, 2025?",Austin,2025-07-03,between,87,88,,37.00,66.00,2025-07-03 07:02:11,87,77,YES
+"Will the high temp in Chicago be 91-92° on Jul 3, 2025?",Chicago,2025-07-03,between,91,92,,52.00,51.00,2025-07-03 07:02:13,95,72,NO
+"Will the **high temp in Denver** be 92-93° on Jul 3, 2025?",Denver,2025-07-03,between,92,93,,56.00,49.00,2025-07-03 07:02:09,93,57,YES
+"Will the **high temp in LA** be 71-72° on Jul 3, 2025?",Los Angeles,2025-07-03,between,71,72,,51.00,53.00,2025-07-03 07:02:09,73,63,NO
+"Will the **high temp in Miami** be 89-90° on Jul 3, 2025?",Miami,2025-07-03,between,89,90,,57.00,69.00,2025-07-03 07:02:11,87,75,NO
+"Will the **high temp in NYC** be 89-90° on Jul 3, 2025?",New York,2025-07-03,between,89,90,,44.00,63.00,2025-07-03 07:02:10,88,72,NO
+"Will the **high temp in Philadelphia** be 90-91° on Jul 3, 2025?",Philadelphia,2025-07-03,between,90,91,,48.00,58.00,2025-07-03 07:02:12,92,75,NO
+"Will the **high temp in Austin** be 93-94° on Jul 2, 2025?",Austin,2025-07-02,between,93,94,,53.00,55.00,2025-07-02 07:02:43,94,73,YES
+"Will the high temp in Chicago be 90-91° on Jul 2, 2025?",Chicago,2025-07-02,between,90,91,,51.00,52.00,2025-07-02 07:02:45,91,71,YES
+"Will the **high temp in Denver** be 93-94° on Jul 2, 2025?",Denver,2025-07-02,between,93,94,,55.00,49.00,2025-07-02 07:02:41,92,56,NO
+"Will the **high temp in LA** be 70-71° on Jul 2, 2025?",Los Angeles,2025-07-02,between,70,71,,61.00,49.00,2025-07-02 07:02:42,70,60,YES
+"Will the **high temp in Miami** be 88-89° on Jul 2, 2025?",Miami,2025-07-02,between,88,89,,51.00,52.00,2025-07-02 07:02:44,89,76,YES
+"Will the **high temp in NYC** be 85-86° on Jul 2, 2025?",New York,2025-07-02,between,85,86,,43.00,61.00,2025-07-02 07:02:42,84,71,NO
+"Will the **high temp in Philadelphia** be 85-86° on Jul 2, 2025?",Philadelphia,2025-07-02,between,85,86,,43.00,62.00,2025-07-02 07:02:44,87,72,NO
+"Will the **high temp in Austin** be 95-96° on Jul 1, 2025?",Austin,2025-07-01,between,95,96,,49.00,63.00,2025-07-01 07:01:20,93,71,NO
+"Will the high temp in Chicago be 86-87° on Jul 1, 2025?",Chicago,2025-07-01,between,86,87,,45.00,57.00,2025-07-01 07:01:21,87,70,YES
+"Will the **high temp in Denver** be 91-92° on Jul 1, 2025?",Denver,2025-07-01,between,91,92,,45.00,57.00,2025-07-01 07:01:17,93,58,NO
+"Will the **high temp in LA** be 71-72° on Jul 1, 2025?",Los Angeles,2025-07-01,between,71,72,,58.00,53.00,2025-07-01 07:01:18,70,61,NO
+"Will the **high temp in Miami** be 88-89° on Jul 1, 2025?",Miami,2025-07-01,between,88,89,,49.00,54.00,2025-07-01 07:01:20,89,75,YES
+"Will the **high temp in NYC** be 88-89° on Jul 1, 2025?",New York,2025-07-01,between,88,89,,42.00,60.00,2025-07-01 07:01:19,89,73,YES
+"Will the **high temp in Philadelphia** be 90-91° on Jul 1, 2025?",Philadelphia,2025-07-01,between,90,91,,51.00,72.00,2025-07-01 07:01:21,93,74,NO
+"Will the **high temp in Austin** be 94-95° on Jun 30, 2025?",Austin,2025-06-30,between,94,95,,41.00,63.00,2025-06-30 07:01:59,86,72,NO
+"Will the high temp in Chicago be 90-91° on Jun 30, 2025?",Chicago,2025-06-30,between,90,91,,39.00,66.00,2025-06-30 07:02:00,90,74,YES
+"Will the **high temp in Denver** be 78-79° on Jun 30, 2025?",Denver,2025-06-30,between,78,79,,48.00,57.00,2025-06-30 07:01:57,81,57,NO
+"Will the **high temp in LA** be 71-72° on Jun 30, 2025?",Los Angeles,2025-06-30,between,71,72,,62.00,39.00,2025-06-30 07:01:58,72,62,YES
+"Will the **high temp in Miami** be 90-91° on Jun 30, 2025?",Miami,2025-06-30,between,90,91,,49.00,54.00,2025-06-30 07:01:59,91,76,YES
+"Will the **high temp in NYC** be 88-89° on Jun 30, 2025?",New York,2025-06-30,between,88,89,,42.00,62.00,2025-06-30 07:01:58,90,71,NO
+"Will the **high temp in Philadelphia** be 88-89° on Jun 30, 2025?",Philadelphia,2025-06-30,between,88,89,,38.00,63.00,2025-06-30 07:02:00,94,76,NO
+"Will the **high temp in Austin** be 94-95° on Jun 29, 2025?",Austin,2025-06-29,between,94,95,,62.00,43.00,2025-06-29 07:02:35,96,71,NO
+"Will the high temp in Chicago be 95-96° on Jun 29, 2025?",Chicago,2025-06-29,between,95,96,,55.00,48.00,2025-06-29 07:02:37,94,73,NO
+"Will the **high temp in Denver** be 86-87° on Jun 29, 2025?",Denver,2025-06-29,between,86,87,,56.00,48.00,2025-06-29 07:02:33,85,59,NO
+"Will the **high temp in LA** be 73-74° on Jun 29, 2025?",Los Angeles,2025-06-29,between,73,74,,56.00,48.00,2025-06-29 07:02:34,71,61,NO
+"Will the **high temp in Miami** be 90-91° on Jun 29, 2025?",Miami,2025-06-29,between,90,91,,52.00,63.00,2025-06-29 07:02:36,90,77,YES
+"Will the **high temp in NYC** be 88-89° on Jun 29, 2025?",New York,2025-06-29,between,88,89,,53.00,50.00,2025-06-29 07:02:35,89,77,YES
+"Will the **high temp in Philadelphia** be 89-90° on Jun 29, 2025?",Philadelphia,2025-06-29,between,89,90,,50.00,53.00,2025-06-29 07:02:36,93,76,NO
+"Will the **high temp in Austin** be 95-96° on Jun 28, 2025?",Austin,2025-06-28,between,95,96,,69.00,35.00,2025-06-28 07:01:22,95,73,YES
+"Will the high temp in Chicago be >88° on Jun 28, 2025?",Chicago,2025-06-28,greater,,88,,53.00,52.00,2025-06-28 07:01:23,90,68,NO
+"Will the **high temp in Denver** be 93-94° on Jun 28, 2025?",Denver,2025-06-28,between,93,94,,49.00,52.00,2025-06-28 07:01:21,95,58,NO
+"Will the **high temp in LA** be 73-74° on Jun 28, 2025?",Los Angeles,2025-06-28,between,73,74,,64.00,38.00,2025-06-28 07:01:21,74,62,YES
+"Will the **high temp in Miami** be 89-90° on Jun 28, 2025?",Miami,2025-06-28,between,89,90,,62.00,47.00,2025-06-28 07:01:22,90,81,YES
+"Will the **high temp in NYC** be 84-85° on Jun 28, 2025?",New York,2025-06-28,between,84,85,,53.00,52.00,2025-06-28 07:01:21,83,63,NO
+"Will the **high temp in Philadelphia** be 89-90° on Jun 28, 2025?",Philadelphia,2025-06-28,between,89,90,,48.00,57.00,2025-06-28 07:01:23,88,64,NO
+"Will the **high temp in Austin** be 94-95° on Jun 27, 2025?",Austin,2025-06-27,between,94,95,,50.00,55.00,2025-06-27 07:01:18,95,71,YES
+"Will the high temp in Chicago be 90-91° on Jun 27, 2025?",Chicago,2025-06-27,between,90,91,,54.00,50.00,2025-06-27 07:01:20,91,77,YES
+"Will the **high temp in Denver** be 91-92° on Jun 27, 2025?",Denver,2025-06-27,between,91,92,,65.00,41.00,2025-06-27 07:01:17,92,64,YES
+"Will the **high temp in LA** be 73-74° on Jun 27, 2025?",Los Angeles,2025-06-27,between,73,74,,50.00,57.00,2025-06-27 07:01:17,73,63,YES
+"Will the **high temp in Miami** be 88-89° on Jun 27, 2025?",Miami,2025-06-27,between,88,89,,47.00,59.00,2025-06-27 07:01:19,90,80,NO
+"Will the **high temp in NYC** be >74° on Jun 27, 2025?",New York,2025-06-27,greater,,74,,56.00,50.00,2025-06-27 07:01:18,72,62,NO
+"Will the **high temp in Philadelphia** be 74-75° on Jun 27, 2025?",Philadelphia,2025-06-27,between,74,75,,35.00,88.00,2025-06-27 07:01:19,74,64,YES
+"Will the **high temp in Austin** be 92-93° on Jun 26, 2025?",Austin,2025-06-26,between,92,93,,50.00,56.00,2025-06-26 07:01:00,94,73,NO
+"Will the high temp in Chicago be 92-93° on Jun 26, 2025?",Chicago,2025-06-26,between,92,93,,47.00,59.00,2025-06-26 07:01:01,94,75,NO
+"Will the **high temp in Denver** be 86-87° on Jun 26, 2025?",Denver,2025-06-26,between,86,87,,49.00,57.00,2025-06-26 07:00:58,87,54,YES
+"Will the **high temp in LA** be 72-73° on Jun 26, 2025?",Los Angeles,2025-06-26,between,72,73,,46.00,60.00,2025-06-26 07:00:59,72,62,YES
+"Will the **high temp in Miami** be 88-89° on Jun 26, 2025?",Miami,2025-06-26,between,88,89,,49.00,76.00,2025-06-26 07:01:00,86,77,NO
+"Will the **high temp in NYC** be 85-86° on Jun 26, 2025?",New York,2025-06-26,between,85,86,,100.00,1.00,2025-06-26 07:00:59,89,67,NO
+"Will the **high temp in Philadelphia** be 89-90° on Jun 26, 2025?",Philadelphia,2025-06-26,between,89,90,,57.00,63.00,2025-06-26 07:01:01,92,75,NO
+"Will the **high temp in Austin** be 91-92° on Jun 25, 2025?",Austin,2025-06-25,between,91,92,,54.00,52.00,2025-06-25 07:01:17,94,71,NO
+"Will the high temp in Chicago be 85-86° on Jun 25, 2025?",Chicago,2025-06-25,between,85,86,,41.00,62.00,2025-06-25 07:01:19,89,71,NO
+"Will the **high temp in Denver** be 79-80° on Jun 25, 2025?",Denver,2025-06-25,between,79,80,,42.00,61.00,2025-06-25 07:01:16,77,56,NO
+"Will the **high temp in LA** be <72° on Jun 25, 2025?",Los Angeles,2025-06-25,less,,72,,67.00,36.00,2025-06-25 07:01:16,72,62,NO
+"Will the **high temp in Miami** be 89-90° on Jun 25, 2025?",Miami,2025-06-25,between,89,90,,57.00,44.00,2025-06-25 07:01:18,88,74,NO
+"Will the **high temp in NYC** be 96-97° on Jun 25, 2025?",New York,2025-06-25,between,96,97,,48.00,57.00,2025-06-25 07:01:17,96,81,YES
+"Will the **high temp in Philadelphia** be 98-99° on Jun 25, 2025?",Philadelphia,2025-06-25,between,98,99,,56.00,48.00,2025-06-25 07:01:18,99,80,YES
+"Will the **high temp in Austin** be 95-96° on Jun 24, 2025?",Austin,2025-06-24,between,95,96,,57.00,48.00,2025-06-24 07:01:09,95,70,YES
+"Will the high temp in Chicago be 93-94° on Jun 24, 2025?",Chicago,2025-06-24,between,93,94,,41.00,64.00,2025-06-24 07:01:10,94,77,YES
+"Will the **high temp in Denver** be 80-81° on Jun 24, 2025?",Denver,2025-06-24,between,80,81,,39.00,75.00,2025-06-24 07:01:08,80,58,YES
+"Will the **high temp in LA** be 72-73° on Jun 24, 2025?",Los Angeles,2025-06-24,between,72,73,,42.00,63.00,2025-06-24 07:01:08,69,63,NO
+"Will the **high temp in Miami** be 89-90° on Jun 24, 2025?",Miami,2025-06-24,between,89,90,,83.00,27.00,2025-06-24 07:01:09,91,74,NO
+"Will the **high temp in NYC** be 100-101° on Jun 24, 2025?",New York,2025-06-24,between,100,101,,55.00,48.00,2025-06-24 07:01:08,99,81,NO
+"Will the **high temp in Philadelphia** be 101-102° on Jun 24, 2025?",Philadelphia,2025-06-24,between,101,102,,55.00,46.00,2025-06-24 07:01:10,101,80,YES
+"Will the **high temp in Austin** be 96-97° on Jun 23, 2025?",Austin,2025-06-23,between,96,97,,64.00,44.00,2025-06-23 07:01:35,97,76,YES
+"Will the high temp in Chicago be 97-98° on Jun 23, 2025?",Chicago,2025-06-23,between,97,98,,44.00,58.00,2025-06-23 07:01:36,95,79,NO
+"Will the **high temp in Denver** be 76-77° on Jun 23, 2025?",Denver,2025-06-23,between,76,77,,40.00,67.00,2025-06-23 07:01:33,78,52,NO
+"Will the **high temp in LA** be 72-73° on Jun 23, 2025?",Los Angeles,2025-06-23,between,72,73,,57.00,47.00,2025-06-23 07:01:34,74,62,NO
+"Will the **high temp in Miami** be 89-90° on Jun 23, 2025?",Miami,2025-06-23,between,89,90,,69.00,33.00,2025-06-23 07:01:35,90,81,YES
+"Will the **high temp in NYC** be 94-95° on Jun 23, 2025?",New York,2025-06-23,between,94,95,,41.00,60.00,2025-06-23 07:01:34,96,80,NO
+"Will the **high temp in Philadelphia** be 100-101° on Jun 23, 2025?",Philadelphia,2025-06-23,between,100,101,,51.00,54.00,2025-06-23 07:01:36,99,77,NO
+"Will the **high temp in Austin** be 96-97° on Jun 22, 2025?",Austin,2025-06-22,between,96,97,,50.00,52.00,2025-06-22 07:00:58,96,74,YES
+"Will the high temp in Chicago be 97-98° on Jun 22, 2025?",Chicago,2025-06-22,between,97,98,,50.00,55.00,2025-06-22 07:00:59,94,80,NO
+"Will the **high temp in Denver** be 94-95° on Jun 22, 2025?",Denver,2025-06-22,between,94,95,,54.00,53.00,2025-06-22 07:00:57,93,58,NO
+"Will the **high temp in LA** be 73-74° on Jun 22, 2025?",Los Angeles,2025-06-22,between,73,74,,59.00,47.00,2025-06-22 07:00:57,74,59,YES
+"Will the **high temp in Miami** be 89-90° on Jun 22, 2025?",Miami,2025-06-22,between,89,90,,63.00,44.00,2025-06-22 07:00:58,89,78,YES
+"Will the **high temp in NYC** be 93-94° on Jun 22, 2025?",New York,2025-06-22,between,93,94,,39.00,65.00,2025-06-22 07:00:57,88,71,NO
+"Will the **high temp in Philadelphia** be 95-96° on Jun 22, 2025?",Philadelphia,2025-06-22,between,95,96,,45.00,56.00,2025-06-22 07:00:59,88,75,NO
+"Will the **high temp in Austin** be 95-96° on Jun 21, 2025?",Austin,2025-06-21,between,95,96,,66.00,51.00,2025-06-21 07:01:20,95,76,YES
+"Will the high temp in Chicago be 98-99° on Jun 21, 2025?",Chicago,2025-06-21,between,98,99,,55.00,96.00,2025-06-21 07:01:21,94,78,NO
+"Will the **high temp in Denver** be 97-98° on Jun 21, 2025?",Denver,2025-06-21,between,97,98,,50.00,63.00,2025-06-21 07:01:18,98,60,YES
+"Will the **high temp in LA** be 71-72° on Jun 21, 2025?",Los Angeles,2025-06-21,between,71,72,,54.00,54.00,2025-06-21 07:01:19,71,63,YES
+"Will the **high temp in Miami** be 89-90° on Jun 21, 2025?",Miami,2025-06-21,between,89,90,,74.00,31.00,2025-06-21 07:01:20,90,78,YES
+"Will the **high temp in NYC** be 88-89° on Jun 21, 2025?",New York,2025-06-21,between,88,89,,39.00,89.00,2025-06-21 07:01:19,86,72,NO
+"Will the **high temp in Philadelphia** be 92-93° on Jun 21, 2025?",Philadelphia,2025-06-21,between,92,93,,57.00,64.00,2025-06-21 07:01:21,91,74,NO
+"Will the **high temp in Austin** be 94-95° on Jun 20, 2025?",Austin,2025-06-20,between,94,95,,58.00,58.00,2025-06-20 07:01:23,95,76,YES
+"Will the high temp in Chicago be 86-87° on Jun 20, 2025?",Chicago,2025-06-20,between,86,87,,38.00,67.00,2025-06-20 07:01:24,86,69,YES
+"Will the **high temp in Denver** be 98-99° on Jun 20, 2025?",Denver,2025-06-20,between,98,99,,45.00,61.00,2025-06-20 07:01:22,99,63,YES
+"Will the **high temp in LA** be 71-72° on Jun 20, 2025?",Los Angeles,2025-06-20,between,71,72,,51.00,50.00,2025-06-20 07:01:22,72,63,YES
+"Will the **high temp in Miami** be 89-90° on Jun 20, 2025?",Miami,2025-06-20,between,89,90,,61.00,42.00,2025-06-20 07:01:23,90,77,YES
+"Will the **high temp in NYC** be 83-84° on Jun 20, 2025?",New York,2025-06-20,between,83,84,,41.00,63.00,2025-06-20 07:01:23,82,67,NO
+"Will the **high temp in Philadelphia** be 86-87° on Jun 20, 2025?",Philadelphia,2025-06-20,between,86,87,,47.00,57.00,2025-06-20 07:01:24,86,67,YES
+"Will the **high temp in Austin** be 95-96° on Jun 19, 2025?",Austin,2025-06-19,between,95,96,,47.00,57.00,2025-06-19 07:01:12,96,77,YES
+"Will the high temp in Chicago be 84-85° on Jun 19, 2025?",Chicago,2025-06-19,between,84,85,,45.00,60.00,2025-06-19 07:01:14,85,65,YES
+"Will the **high temp in Denver** be 94-95° on Jun 19, 2025?",Denver,2025-06-19,between,94,95,,48.00,57.00,2025-06-19 07:01:11,93,58,NO
+"Will the **high temp in LA** be 72-73° on Jun 19, 2025?",Los Angeles,2025-06-19,between,72,73,,54.00,50.00,2025-06-19 07:01:11,73,63,YES
+"Will the **high temp in Miami** be 90-91° on Jun 19, 2025?",Miami,2025-06-19,between,90,91,,70.00,46.00,2025-06-19 07:01:13,90,79,YES
+"Will the **high temp in NYC** be 89-90° on Jun 19, 2025?",New York,2025-06-19,between,89,90,,39.00,65.00,2025-06-19 07:01:12,88,71,NO
+"Will the **high temp in Philadelphia** be 91-92° on Jun 19, 2025?",Philadelphia,2025-06-19,between,91,92,,52.00,53.00,2025-06-19 07:01:14,93,72,NO
+"Will the **high temp in Austin** be 94-95° on Jun 18, 2025?",Austin,2025-06-18,between,94,95,,52.00,53.00,2025-06-18 07:02:02,94,78,YES
+"Will the high temp in Chicago be 82-83° on Jun 18, 2025?",Chicago,2025-06-18,between,82,83,,31.00,74.00,2025-06-18 07:02:04,89,70,NO
+"Will the **high temp in Denver** be 82-83° on Jun 18, 2025?",Denver,2025-06-18,between,82,83,,45.00,59.00,2025-06-18 07:01:59,80,50,NO
+"Will the **high temp in LA** be >77° on Jun 18, 2025?",Los Angeles,2025-06-18,greater,,77,,45.00,60.00,2025-06-18 07:02:00,76,63,NO
+"Will the **high temp in Miami** be 89-90° on Jun 18, 2025?",Miami,2025-06-18,between,89,90,,70.00,32.00,2025-06-18 07:02:02,90,76,YES
+"Will the **high temp in NYC** be 79-80° on Jun 18, 2025?",New York,2025-06-18,between,79,80,,40.00,61.00,2025-06-18 07:02:01,84,65,NO
+"Will the **high temp in Philadelphia** be 87-88° on Jun 18, 2025?",Philadelphia,2025-06-18,between,87,88,,42.00,84.00,2025-06-18 07:02:03,86,70,NO
+"Will the **high temp in Austin** be 94-95° on Jun 17, 2025?",Austin,2025-06-17,between,94,95,,43.00,62.00,2025-06-17 07:01:08,94,70,YES
+"Will the high temp in Chicago be 91-92° on Jun 17, 2025?",Chicago,2025-06-17,between,91,92,,43.00,63.00,2025-06-17 07:01:09,92,71,YES
+"Will the **high temp in Denver** be <77° on Jun 17, 2025?",Denver,2025-06-17,less,,77,,86.00,22.00,2025-06-17 07:01:07,66,51,NO
+"Will the **high temp in LA** be 75-76° on Jun 17, 2025?",Los Angeles,2025-06-17,between,75,76,,40.00,66.00,2025-06-17 07:01:07,78,62,NO
+"Will the **high temp in Miami** be 90-91° on Jun 17, 2025?",Miami,2025-06-17,between,90,91,,61.00,41.00,2025-06-17 07:01:09,90,75,YES
+"Will the **high temp in NYC** be 69-70° on Jun 17, 2025?",New York,2025-06-17,between,69,70,,40.00,65.00,2025-06-17 07:01:08,67,62,NO
+"Will the **high temp in Philadelphia** be 78-79° on Jun 17, 2025?",Philadelphia,2025-06-17,between,78,79,,43.00,74.00,2025-06-17 07:01:09,79,63,YES
+"Will the **high temp in Austin** be 95-96° on Jun 16, 2025?",Austin,2025-06-16,between,95,96,,39.00,62.00,2025-06-16 07:01:01,93,70,NO
+"Will the high temp in Chicago be 86-87° on Jun 16, 2025?",Chicago,2025-06-16,between,86,87,,49.00,57.00,2025-06-16 07:01:03,88,61,NO
+"Will the **high temp in Denver** be 92-93° on Jun 16, 2025?",Denver,2025-06-16,between,92,93,,45.00,60.00,2025-06-16 07:00:59,91,57,NO
+"Will the **high temp in LA** be 75-76° on Jun 16, 2025?",Los Angeles,2025-06-16,between,75,76,,62.00,43.00,2025-06-16 07:01:00,75,61,YES
+"Will the **high temp in Miami** be 89-90° on Jun 16, 2025?",Miami,2025-06-16,between,89,90,,74.00,39.00,2025-06-16 07:01:02,90,81,YES
+"Will the **high temp in NYC** be 66-67° on Jun 16, 2025?",New York,2025-06-16,between,66,67,,48.00,53.00,2025-06-16 07:01:01,69,59,NO
+"Will the **high temp in Philadelphia** be 69-70° on Jun 16, 2025?",Philadelphia,2025-06-16,between,69,70,,46.00,59.00,2025-06-16 07:01:03,67,61,NO
+"Will the **high temp in Austin** be 94-95° on Jun 15, 2025?",Austin,2025-06-15,between,94,95,,45.00,58.00,2025-06-15 07:00:49,97,70,NO
+"Will the high temp in Chicago be 80-81° on Jun 15, 2025?",Chicago,2025-06-15,between,80,81,,50.00,53.00,2025-06-15 07:00:50,82,57,NO
+"Will the **high temp in Denver** be 92-93° on Jun 15, 2025?",Denver,2025-06-15,between,92,93,,45.00,60.00,2025-06-15 07:00:48,94,54,NO
+"Will the **high temp in LA** be 75-76° on Jun 15, 2025?",Los Angeles,2025-06-15,between,75,76,,52.00,50.00,2025-06-15 07:00:48,75,60,YES
+"Will the **high temp in Miami** be 89-90° on Jun 15, 2025?",Miami,2025-06-15,between,89,90,,58.00,46.00,2025-06-15 07:00:50,90,79,YES
+"Will the **high temp in NYC** be 64-65° on Jun 15, 2025?",New York,2025-06-15,between,64,65,,44.00,61.00,2025-06-15 07:00:49,64,59,YES
+"Will the **high temp in Philadelphia** be 67-68° on Jun 15, 2025?",Philadelphia,2025-06-15,between,67,68,,42.00,63.00,2025-06-15 07:00:50,65,59,NO
+"Will the **high temp in Austin** be 93-94° on Jun 14, 2025?",Austin,2025-06-14,between,93,94,,46.00,57.00,2025-06-14 07:01:05,95,72,NO
+"Will the high temp in Chicago be <77° on Jun 14, 2025?",Chicago,2025-06-14,less,,77,,72.00,29.00,2025-06-14 07:01:07,76,58,NO
+"Will the **high temp in Denver** be 93-94° on Jun 14, 2025?",Denver,2025-06-14,between,93,94,,52.00,53.00,2025-06-14 07:01:04,92,53,NO
+"Will the **high temp in LA** be 72-73° on Jun 14, 2025?",Los Angeles,2025-06-14,between,72,73,,49.00,57.00,2025-06-14 07:01:04,73,62,YES
+"Will the **high temp in Miami** be 89-90° on Jun 14, 2025?",Miami,2025-06-14,between,89,90,,63.00,48.00,2025-06-14 07:01:06,89,80,YES
+"Will the **high temp in NYC** be 67-68° on Jun 14, 2025?",New York,2025-06-14,between,67,68,,97.00,6.00,2025-06-14 07:01:05,73,60,NO
+"Will the **high temp in Philadelphia** be 70-71° on Jun 14, 2025?",Philadelphia,2025-06-14,between,70,71,,62.00,44.00,2025-06-14 07:01:06,75,65,NO
+"Will the **high temp in Austin** be 91-92° on Jun 13, 2025?",Austin,2025-06-13,between,91,92,,37.00,68.00,2025-06-13 07:00:15,95,65,NO
+"Will the high temp in Chicago be <78° on Jun 13, 2025?",Chicago,2025-06-13,less,,78,,43.00,62.00,2025-06-13 07:00:16,71,60,NO
+"Will the **high temp in Denver** be 89-90° on Jun 13, 2025?",Denver,2025-06-13,between,89,90,,45.00,62.00,2025-06-13 07:00:15,86,54,NO
+"Will the **high temp in LA** be 71-72° on Jun 13, 2025?",Los Angeles,2025-06-13,between,71,72,,44.00,60.00,2025-06-13 07:00:15,72,63,YES
+"Will the **high temp in Miami** be 89-90° on Jun 13, 2025?",Miami,2025-06-13,between,89,90,,53.00,53.00,2025-06-13 07:00:15,89,76,YES
+"Will the **high temp in NYC** be 78-79° on Jun 13, 2025?",New York,2025-06-13,between,78,79,,44.00,77.00,2025-06-13 07:00:15,83,68,NO
+"Will the **high temp in Philadelphia** be 84-85° on Jun 13, 2025?",Philadelphia,2025-06-13,between,84,85,,50.00,51.00,2025-06-13 07:00:16,87,72,NO
+"Will the **high temp in Austin** be 85-86° on Jun 12, 2025?",Austin,2025-06-12,between,85,86,,35.00,67.00,2025-06-12 07:00:25,86,70,YES
+"Will the high temp in Chicago be 81-82° on Jun 12, 2025?",Chicago,2025-06-12,between,81,82,,37.00,66.00,2025-06-12 07:00:26,89,66,NO
+"Will the **high temp in Denver** be 88-89° on Jun 12, 2025?",Denver,2025-06-12,between,88,89,,50.00,60.00,2025-06-12 07:00:24,88,55,YES
+"Will the **high temp in LA** be 69-70° on Jun 12, 2025?",Los Angeles,2025-06-12,between,69,70,,50.00,60.00,2025-06-12 07:00:25,71,62,NO
+"Will the **high temp in Miami** be 88-89° on Jun 12, 2025?",Miami,2025-06-12,between,88,89,,57.00,50.00,2025-06-12 07:00:25,90,76,NO
+"Will the **high temp in NYC** be 91-92° on Jun 12, 2025?",New York,2025-06-12,between,91,92,,49.00,89.00,2025-06-12 07:00:25,87,70,NO
+"Will the **high temp in Philadelphia** be 91-92° on Jun 12, 2025?",Philadelphia,2025-06-12,between,91,92,,48.00,57.00,2025-06-12 07:00:26,92,68,YES
+"Will the **high temp in Austin** be <85° on Jun 11, 2025?",Austin,2025-06-11,less,,85,,55.00,73.00,2025-06-11 07:00:15,89,70,NO
+"Will the high temp in Chicago be 92-93° on Jun 11, 2025?",Chicago,2025-06-11,between,92,93,,44.00,62.00,2025-06-11 07:00:16,92,64,YES
+"Will the **high temp in Denver** be 88-89° on Jun 11, 2025?",Denver,2025-06-11,between,88,89,,50.00,63.00,2025-06-11 07:00:14,87,61,NO
+"Will the **high temp in LA** be 71-72° on Jun 11, 2025?",Los Angeles,2025-06-11,between,71,72,,54.00,54.00,2025-06-11 07:00:15,70,61,NO
+"Will the **high temp in Miami** be 87-88° on Jun 11, 2025?",Miami,2025-06-11,between,87,88,,50.00,96.00,2025-06-11 07:00:15,90,81,NO
+"Will the **high temp in NYC** be 82-83° on Jun 11, 2025?",New York,2025-06-11,between,82,83,,47.00,56.00,2025-06-11 07:00:15,81,65,NO
+"Will the **high temp in Philadelphia** be 86-87° on Jun 11, 2025?",Philadelphia,2025-06-11,between,86,87,,50.00,55.00,2025-06-11 07:00:15,85,67,NO
+"Will the **high temp in Austin** be 90-91° on Jun 10, 2025?",Austin,2025-06-10,between,90,91,,39.00,67.00,2025-06-10 07:00:15,92,74,NO
+"Will the high temp in Chicago be 78-79° on Jun 10, 2025?",Chicago,2025-06-10,between,78,79,,40.00,66.00,2025-06-10 07:00:16,78,55,YES
+"Will the **high temp in Denver** be >89° on Jun 10, 2025?",Denver,2025-06-10,greater,,89,,50.00,56.00,2025-06-10 07:00:14,87,55,NO
+"Will the **high temp in LA** be 71-72° on Jun 10, 2025?",Los Angeles,2025-06-10,between,71,72,,50.00,53.00,2025-06-10 07:00:15,72,61,YES
+"Will the **high temp in Miami** be 88-89° on Jun 10, 2025?",Miami,2025-06-10,between,88,89,,58.00,58.00,2025-06-10 07:00:15,91,80,NO
+"Will the **high temp in NYC** be 75-76° on Jun 10, 2025?",New York,2025-06-10,between,75,76,,45.00,61.00,2025-06-10 07:00:15,73,62,NO
+"Will the **high temp in Philadelphia** be >82° on Jun 10, 2025?",Philadelphia,2025-06-10,greater,,82,,54.00,61.00,2025-06-10 07:00:16,84,64,NO
+"Will the **high temp in Austin** be 95-96° on Jun 9, 2025?",Austin,2025-06-09,between,95,96,,48.00,60.00,2025-06-09 07:00:15,99,69,NO
+"Will the high temp in Chicago be 76-77° on Jun 9, 2025?",Chicago,2025-06-09,between,76,77,,33.00,69.00,2025-06-09 07:00:16,71,55,NO
+"Will the **high temp in Denver** be 80-81° on Jun 9, 2025?",Denver,2025-06-09,between,80,81,,47.00,59.00,2025-06-09 07:00:15,80,49,YES
+"Will the **high temp in LA** be 68-69° on Jun 9, 2025?",Los Angeles,2025-06-09,between,68,69,,52.00,60.00,2025-06-09 07:00:15,69,60,YES
+"Will the **high temp in Miami** be 89-90° on Jun 9, 2025?",Miami,2025-06-09,between,89,90,,63.00,42.00,2025-06-09 07:00:16,90,80,YES
+"Will the **high temp in NYC** be <69° on Jun 9, 2025?",New York,2025-06-09,less,,69,,79.00,22.00,2025-06-09 07:00:15,67,62,NO
+"Will the **high temp in Philadelphia** be 74-75° on Jun 9, 2025?",Philadelphia,2025-06-09,between,74,75,,45.00,61.00,2025-06-09 07:00:16,74,63,YES
+"Will the **high temp in Austin** be 98-99° on Jun 8, 2025?",Austin,2025-06-08,between,98,99,,51.00,55.00,2025-06-08 07:00:15,96,75,NO
+"Will the high temp in Chicago be 82-83° on Jun 8, 2025?",Chicago,2025-06-08,between,82,83,,39.00,67.00,2025-06-08 07:00:16,81,60,NO
+"Will the **high temp in Denver** be 74-75° on Jun 8, 2025?",Denver,2025-06-08,between,74,75,,42.00,63.00,2025-06-08 07:00:15,70,52,NO
+"Will the **high temp in LA** be 69-70° on Jun 8, 2025?",Los Angeles,2025-06-08,between,69,70,,52.00,54.00,2025-06-08 07:00:15,69,59,YES
+"Will the **high temp in Miami** be 89-90° on Jun 8, 2025?",Miami,2025-06-08,between,89,90,,51.00,54.00,2025-06-08 07:00:15,91,78,NO
+"Will the **high temp in NYC** be 74-75° on Jun 8, 2025?",New York,2025-06-08,between,74,75,,53.00,48.00,2025-06-08 07:00:15,76,63,NO
+"Will the **high temp in Philadelphia** be <75° on Jun 8, 2025?",Philadelphia,2025-06-08,less,,75,,63.00,52.00,2025-06-08 07:00:16,75,65,NO

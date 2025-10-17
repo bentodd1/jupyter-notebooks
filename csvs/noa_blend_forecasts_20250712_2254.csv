@@ -1,0 +1,9 @@
+city,date,time,datetime,temp_c,temp_f,model,time_label
+denver,2025-07-12,06:00,2025-07-12T06:00,14.9,58.82,NOA_blend_equivalent,6AM Today
+denver,2025-07-11,18:00,2025-07-11T18:00,17.5,63.5,NOA_blend_equivalent,6PM Yesterday
+miami,2025-07-12,06:00,2025-07-12T06:00,29.0,84.2,NOA_blend_equivalent,6AM Today
+miami,2025-07-11,18:00,2025-07-11T18:00,32.6,90.68,NOA_blend_equivalent,6PM Yesterday
+chicago,2025-07-12,06:00,2025-07-12T06:00,20.5,68.9,NOA_blend_equivalent,6AM Today
+chicago,2025-07-11,18:00,2025-07-11T18:00,27.7,81.86,NOA_blend_equivalent,6PM Yesterday
+los_angeles,2025-07-12,06:00,2025-07-12T06:00,17.7,63.86,NOA_blend_equivalent,6AM Today
+los_angeles,2025-07-11,18:00,2025-07-11T18:00,21.3,70.34,NOA_blend_equivalent,6PM Yesterday

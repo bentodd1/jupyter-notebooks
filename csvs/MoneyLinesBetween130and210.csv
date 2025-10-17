@@ -1,0 +1,2064 @@
+commence_time,home_team_name,away_team_name,spread,home_spread_odds,away_spread_odds,home_money_line_odds,away_money_line_odds,home_score,away_score
+2023-03-30 17:05:00,New York Yankees,San Francisco Giants,-1.5,125.00,-145.00,-184.00,154.00,5,0
+2023-03-30 19:10:00,Tampa Bay Rays,Detroit Tigers,-1.5,-110.00,-110.00,-230.00,190.00,4,0
+2023-03-31 01:40:00,San Diego Padres,Colorado Rockies,-1.5,105.00,-125.00,-210.00,176.00,2,7
+2023-03-30 23:08:00,Houston Astros,Chicago White Sox,-1.5,135.00,-155.00,-156.00,132.00,2,3
+2023-03-31 02:07:00,Oakland Athletics,Los Angeles Angels,1.5,100.00,-120.00,194.00,-235.00,2,1
+2023-03-31 02:10:00,Los Angeles Dodgers,Arizona Diamondbacks,-1.5,120.00,-140.00,-184.00,154.00,8,2
+2023-03-30 20:20:00,St. Louis Cardinals,Toronto Blue Jays,1.5,-170.00,145.00,176.00,-230.00,9,10
+2023-04-01 00:10:00,Houston Astros,Chicago White Sox,-1.5,135.00,-155.00,-156.00,132.00,6,3
+2023-04-01 01:40:00,San Diego Padres,Colorado Rockies,-1.5,115.00,-135.00,-184.00,154.00,1,4
+2023-04-01 02:10:00,Los Angeles Dodgers,Arizona Diamondbacks,-1.5,130.00,-150.00,-188.00,158.00,1,2
+2023-04-01 02:10:00,Seattle Mariners,Cleveland Guardians,-1.5,125.00,-145.00,-172.00,144.00,4,9
+2023-04-01 20:07:00,Oakland Athletics,Los Angeles Angels,1.5,-115.00,-105.00,146.00,-174.00,1,13
+2023-04-01 20:10:00,Boston Red Sox,Baltimore Orioles,-1.5,105.00,-125.00,-162.00,136.00,9,8
+2023-04-01 20:10:00,Tampa Bay Rays,Detroit Tigers,-1.5,125.00,-145.00,-174.00,146.00,12,2
+2023-04-01 20:10:00,Kansas City Royals,Minnesota Twins,1.5,-120.00,100.00,136.00,-162.00,0,2
+2023-04-02 00:40:00,San Diego Padres,Colorado Rockies,-1.5,-115.00,-105.00,-220.00,184.00,8,4
+2023-04-02 17:10:00,Tampa Bay Rays,Detroit Tigers,-1.5,100.00,-120.00,-225.00,188.00,5,1
+2023-04-02 17:35:00,Washington Nationals,Atlanta Braves,1.5,-105.00,-115.00,152.00,-180.00,4,1
+2023-04-02 18:10:00,Houston Astros,Chicago White Sox,-1.5,115.00,-135.00,-166.00,140.00,3,6
+2023-04-02 18:10:00,Kansas City Royals,Minnesota Twins,1.5,-125.00,105.00,134.00,-158.00,4,7
+2023-04-02 20:07:00,Oakland Athletics,Los Angeles Angels,1.5,-125.00,105.00,144.00,-172.00,0,6
+2023-04-02 20:10:00,Los Angeles Dodgers,Arizona Diamondbacks,-1.5,115.00,-135.00,-190.00,160.00,1,2
+2023-04-02 20:10:00,San Diego Padres,Colorado Rockies,-1.5,-115.00,-105.00,-225.00,188.00,3,1
+2023-04-02 23:08:00,Texas Rangers,Philadelphia Phillies,-1.5,160.00,-190.00,-240.00,186.00,2,1
+2023-04-03 23:06:00,New York Yankees,Philadelphia Phillies,-1.5,125.00,-145.00,-164.00,138.00,8,1
+2023-04-03 23:05:00,Washington Nationals,Tampa Bay Rays,1.5,-105.00,-115.00,154.00,-184.00,2,6
+2023-04-03 23:10:00,Boston Red Sox,Pittsburgh Pirates,-1.5,110.00,-130.00,-178.00,150.00,6,7
+2023-04-04 00:05:00,Texas Rangers,Baltimore Orioles,-1.5,135.00,-155.00,-154.00,130.00,0,2
+2023-04-04 00:10:00,Houston Astros,Detroit Tigers,-1.5,-115.00,-105.00,-230.00,190.00,6,7
+2023-04-04 01:40:00,Seattle Mariners,Los Angeles Angels,-1.5,145.00,-170.00,-154.00,130.00,3,7
+2023-04-04 02:10:00,Los Angeles Dodgers,Colorado Rockies,-1.5,-115.00,-105.00,-240.00,198.00,13,4
+2023-04-03 22:40:00,Cincinnati Reds,Chicago Cubs,1.5,-150.00,130.00,-215.00,166.00,7,6
+2023-04-04 01:40:00,Oakland Athletics,Cleveland Guardians,1.5,-145.00,125.00,130.00,-154.00,11,12
+2023-04-04 22:40:00,Miami Marlins,Minnesota Twins,-1.5,150.00,-175.00,-154.00,130.00,1,0
+2023-04-04 23:05:00,New York Yankees,Philadelphia Phillies,-1.5,125.00,-145.00,-158.00,134.00,1,4
+2023-04-04 23:05:00,Washington Nationals,Tampa Bay Rays,1.5,-115.00,-105.00,144.00,-172.00,6,10
+2023-04-04 23:40:00,Kansas City Royals,Toronto Blue Jays,1.5,-115.00,-105.00,132.00,-156.00,1,4
+2023-04-04 23:39:42,Milwaukee Brewers,New York Mets,1.5,-125.00,105.00,138.00,-164.00,9,0
+2023-04-05 01:40:00,Oakland Athletics,Cleveland Guardians,1.5,-105.00,-115.00,172.00,-205.00,4,3
+2023-04-05 01:40:00,Seattle Mariners,Los Angeles Angels,-1.5,135.00,-155.00,-164.00,138.00,11,2
+2023-04-04 22:40:00,Cincinnati Reds,Chicago Cubs,1.5,-145.00,125.00,-260.00,194.00,5,12
+2023-04-04 23:10:00,Boston Red Sox,Pittsburgh Pirates,-1.5,140.00,-165.00,148.00,-190.00,1,4
+2023-04-05 17:05:00,Washington Nationals,Tampa Bay Rays,1.5,115.00,-135.00,205.00,-250.00,2,7
+2023-04-05 17:35:00,Boston Red Sox,Pittsburgh Pirates,-1.5,135.00,-155.00,-154.00,130.00,1,4
+2023-04-05 18:10:00,Houston Astros,Detroit Tigers,-1.5,-105.00,-115.00,-245.00,200.00,8,2
+2023-04-05 20:10:00,Seattle Mariners,Los Angeles Angels,1.5,-150.00,130.00,134.00,-158.00,3,4
+2023-04-05 23:40:00,Kansas City Royals,Toronto Blue Jays,1.5,-115.00,-105.00,164.00,-196.00,0,3
+2023-04-06 17:10:00,Detroit Tigers,Boston Red Sox,1.5,-130.00,110.00,130.00,-154.00,3,6
+2023-04-06 18:10:00,Kansas City Royals,Toronto Blue Jays,1.5,100.00,-120.00,168.00,-200.00,3,6
+2023-04-06 23:20:00,Atlanta Braves,San Diego Padres,-1.5,130.00,-150.00,-164.00,138.00,7,6
+2023-04-07 02:10:00,Arizona Diamondbacks,Los Angeles Dodgers,1.5,-125.00,105.00,138.00,-164.00,2,5
+2023-04-07 17:10:00,New York Mets,Miami Marlins,-1.5,130.00,-150.00,-156.00,132.00,9,3
+2023-04-07 19:05:00,Philadelphia Phillies,Cincinnati Reds,-1.5,110.00,-130.00,-210.00,176.00,5,2
+2023-04-07 20:35:00,San Francisco Giants,Kansas City Royals,-1.5,120.00,-140.00,-168.00,142.00,1,3
+2023-04-07 22:40:00,Tampa Bay Rays,Oakland Athletics,-1.5,-105.00,-115.00,-225.00,188.00,9,5
+2023-04-08 00:10:00,Milwaukee Brewers,St. Louis Cardinals,-1.5,135.00,-155.00,-162.00,136.00,4,0
+2023-04-08 01:40:00,Arizona Diamondbacks,Los Angeles Dodgers,1.5,105.00,-125.00,188.00,-225.00,6,3
+2023-04-08 20:10:00,Detroit Tigers,Boston Red Sox,1.5,-135.00,115.00,130.00,-154.00,5,14
+2023-04-08 23:20:00,Atlanta Braves,San Diego Padres,-1.5,130.00,-150.00,-168.00,142.00,1,4
+2023-04-09 00:10:00,Arizona Diamondbacks,Los Angeles Dodgers,1.5,-140.00,120.00,130.00,-154.00,12,8
+2023-04-08 23:05:00,Baltimore Orioles,New York Yankees,1.5,-155.00,135.00,-210.00,160.00,1,4
+2023-04-09 17:05:00,Philadelphia Phillies,Cincinnati Reds,-1.5,105.00,-125.00,-188.00,158.00,4,6
+2023-04-09 17:40:00,New York Mets,Miami Marlins,-1.5,130.00,-150.00,-162.00,136.00,2,7
+2023-04-09 18:10:00,Milwaukee Brewers,St. Louis Cardinals,-1.5,140.00,-165.00,-156.00,132.00,6,1
+2023-04-09 20:05:00,San Francisco Giants,Kansas City Royals,-1.5,115.00,-135.00,-162.00,136.00,3,1
+2023-04-10 22:35:00,Baltimore Orioles,Oakland Athletics,-1.5,110.00,-130.00,-186.00,156.00,5,1
+2023-04-10 22:35:00,Pittsburgh Pirates,Houston Astros,1.5,-110.00,-110.00,158.00,-188.00,2,8
+2023-04-11 00:05:00,Texas Rangers,Kansas City Royals,-1.5,115.00,-135.00,-166.00,140.00,11,2
+2023-04-11 01:38:00,Los Angeles Angels,Washington Nationals,-1.5,-105.00,-115.00,-220.00,184.00,4,6
+2023-04-11 01:45:00,San Francisco Giants,Los Angeles Dodgers,1.5,-130.00,110.00,130.00,-154.00,1,9
+2023-04-11 22:09:05,Cleveland Guardians,New York Yankees,1.5,-125.00,105.00,144.00,-172.00,2,11
+2023-04-11 22:35:00,Baltimore Orioles,Oakland Athletics,-1.5,130.00,-150.00,-164.00,138.00,12,8
+2023-04-11 22:35:00,Pittsburgh Pirates,Houston Astros,1.5,-115.00,-105.00,148.00,-176.00,7,4
+2023-04-11 22:40:00,Philadelphia Phillies,Miami Marlins,-1.5,140.00,-165.00,-162.00,136.00,4,8
+2023-04-12 00:40:00,Colorado Rockies,St. Louis Cardinals,1.5,-110.00,-110.00,138.00,-164.00,6,9
+2023-04-11 23:40:00,Chicago Cubs,Seattle Mariners,1.5,-170.00,150.00,160.00,-210.00,14,9
+2023-04-11 23:40:00,Minnesota Twins,Chicago White Sox,-1.5,160.00,-190.00,136.00,-174.00,4,3
+2023-04-12 01:45:00,San Francisco Giants,Los Angeles Dodgers,1.5,-135.00,115.00,134.00,-158.00,5,0
+2023-04-12 16:35:00,Pittsburgh Pirates,Houston Astros,1.5,-125.00,105.00,158.00,-188.00,0,7
+2023-04-12 17:10:00,Minnesota Twins,Chicago White Sox,-1.5,140.00,-165.00,-156.00,132.00,3,1
+2023-04-12 19:10:00,Colorado Rockies,St. Louis Cardinals,1.5,105.00,-125.00,152.00,-180.00,4,7
+2023-04-12 20:05:00,Philadelphia Phillies,Miami Marlins,-1.5,105.00,-125.00,-190.00,160.00,2,3
+2023-04-12 20:07:00,Los Angeles Angels,Washington Nationals,-1.5,115.00,-135.00,-172.00,144.00,3,2
+2023-04-12 22:35:00,Baltimore Orioles,Oakland Athletics,-1.5,100.00,-120.00,-190.00,160.00,4,8
+2023-04-13 00:05:00,Texas Rangers,Kansas City Royals,-1.5,115.00,-135.00,-174.00,146.00,1,10
+2023-04-13 01:45:00,San Francisco Giants,Los Angeles Dodgers,1.5,-115.00,-105.00,148.00,-176.00,5,10
+2023-04-12 23:07:00,Toronto Blue Jays,Detroit Tigers,-1.5,-125.00,105.00,-174.00,136.00,4,3
+2023-04-12 23:20:00,Atlanta Braves,Cincinnati Reds,-1.5,-120.00,100.00,-196.00,152.00,5,4
+2023-04-13 17:05:00,Baltimore Orioles,Oakland Athletics,-1.5,-105.00,-115.00,-205.00,172.00,8,7
+2023-04-13 17:10:00,Tampa Bay Rays,Boston Red Sox,-1.5,115.00,-135.00,-184.00,154.00,9,3
+2023-04-13 23:05:00,New York Yankees,Minnesota Twins,-1.5,145.00,-170.00,-154.00,130.00,2,11
+2023-04-13 23:07:00,Toronto Blue Jays,Detroit Tigers,-1.5,-110.00,-110.00,-230.00,190.00,1,3
+2023-04-13 23:45:00,St. Louis Cardinals,Pittsburgh Pirates,-1.5,-110.00,-110.00,-235.00,194.00,0,5
+2023-04-14 01:40:00,San Diego Padres,Milwaukee Brewers,-1.5,140.00,-165.00,-164.00,138.00,3,4
+2023-04-14 23:05:00,New York Yankees,Minnesota Twins,-1.5,125.00,-145.00,-184.00,154.00,3,4
+2023-04-15 00:10:00,Houston Astros,Texas Rangers,-1.5,135.00,-155.00,-168.00,142.00,2,6
+2023-04-15 00:15:00,St. Louis Cardinals,Pittsburgh Pirates,-1.5,125.00,-145.00,-162.00,136.00,3,0
+2023-04-15 01:40:00,Oakland Athletics,New York Mets,1.5,-110.00,-110.00,158.00,-188.00,6,17
+2023-04-15 02:10:00,Los Angeles Dodgers,Chicago Cubs,-1.5,125.00,-145.00,-174.00,146.00,2,8
+2023-04-15 02:10:00,Seattle Mariners,Colorado Rockies,-1.5,130.00,-150.00,-172.00,144.00,5,3
+2023-04-14 22:40:00,Detroit Tigers,San Francisco Giants,1.5,-150.00,130.00,-174.00,134.00,7,5
+2023-04-14 23:10:00,Chicago White Sox,Baltimore Orioles,1.5,-175.00,150.00,-166.00,140.00,3,6
+2023-04-15 01:40:00,San Diego Padres,Milwaukee Brewers,-1.5,115.00,-135.00,-168.00,142.00,2,11
+2023-04-15 18:15:00,St. Louis Cardinals,Pittsburgh Pirates,-1.5,105.00,-125.00,-180.00,152.00,3,6
+2023-04-15 21:45:25,Washington Nationals,Cleveland Guardians,1.5,-120.00,100.00,142.00,-168.00,4,6
+2023-04-15 20:07:00,Oakland Athletics,New York Mets,1.5,-110.00,-110.00,162.00,-194.00,2,3
+2023-04-15 23:09:42,Houston Astros,Texas Rangers,-1.5,120.00,-140.00,-168.00,142.00,8,2
+2023-04-16 01:10:00,Los Angeles Dodgers,Chicago Cubs,-1.5,125.00,-145.00,-162.00,136.00,2,1
+2023-04-16 01:40:00,Seattle Mariners,Colorado Rockies,-1.5,-110.00,-110.00,-255.00,210.00,9,2
+2023-04-16 17:35:00,Washington Nationals,Cleveland Guardians,1.5,115.00,-135.00,194.00,-240.00,7,6
+2023-04-16 17:35:00,New York Yankees,Minnesota Twins,-1.5,145.00,-170.00,-168.00,142.00,2,0
+2023-04-16 17:40:00,Cincinnati Reds,Philadelphia Phillies,1.5,-105.00,-115.00,158.00,-188.00,3,14
+2023-04-16 18:10:00,Kansas City Royals,Atlanta Braves,1.5,-120.00,100.00,136.00,-162.00,4,5
+2023-04-16 18:15:00,St. Louis Cardinals,Pittsburgh Pirates,-1.5,110.00,-130.00,-184.00,154.00,5,4
+2023-04-16 20:10:00,Los Angeles Dodgers,Chicago Cubs,-1.5,100.00,-120.00,-245.00,200.00,2,3
+2023-04-16 20:10:00,San Diego Padres,Milwaukee Brewers,-1.5,120.00,-140.00,-174.00,146.00,0,1
+2023-04-16 23:10:00,Houston Astros,Texas Rangers,-1.5,110.00,-130.00,-210.00,176.00,1,9
+2023-04-17 15:10:00,Boston Red Sox,Los Angeles Angels,1.5,-125.00,105.00,132.00,-156.00,4,5
+2023-04-17 23:39:31,Kansas City Royals,Texas Rangers,1.5,-105.00,-115.00,176.00,-210.00,0,4
+2023-04-17 23:45:00,St. Louis Cardinals,Arizona Diamondbacks,-1.5,130.00,-150.00,-158.00,134.00,3,6
+2023-04-18 01:40:00,San Diego Padres,Atlanta Braves,1.5,-130.00,110.00,132.00,-156.00,0,2
+2023-04-18 02:10:00,Los Angeles Dodgers,New York Mets,-1.5,130.00,-150.00,-164.00,138.00,6,8
+2023-04-18 23:45:00,St. Louis Cardinals,Arizona Diamondbacks,-1.5,115.00,-135.00,-180.00,152.00,7,8
+2023-04-19 01:40:00,Oakland Athletics,Chicago Cubs,1.5,-115.00,-105.00,144.00,-172.00,0,4
+2023-04-19 01:40:00,Seattle Mariners,Milwaukee Brewers,-1.5,125.00,-145.00,-164.00,138.00,5,6
+2023-04-19 02:10:00,Los Angeles Dodgers,New York Mets,-1.5,130.00,-150.00,-180.00,152.00,5,0
+2023-04-18 23:05:00,New York Yankees,Los Angeles Angels,-1.5,145.00,-170.00,134.00,-172.00,2,5
+2023-04-18 23:10:00,Boston Red Sox,Minnesota Twins,-1.5,-125.00,-105.00,-290.00,210.00,5,4
+2023-04-18 23:40:00,Chicago White Sox,Philadelphia Phillies,1.5,-140.00,120.00,-220.00,172.00,3,0
+2023-04-18 23:40:00,Kansas City Royals,Texas Rangers,1.5,-165.00,140.00,-174.00,136.00,2,12
+2023-04-19 16:35:00,Cincinnati Reds,Tampa Bay Rays,1.5,105.00,-125.00,176.00,-210.00,0,8
+2023-04-19 17:15:00,St. Louis Cardinals,Arizona Diamondbacks,-1.5,105.00,-125.00,-196.00,164.00,14,5
+2023-04-19 19:37:00,Oakland Athletics,Chicago Cubs,1.5,-126.00,105.00,144.00,-172.00,2,12
+2023-04-20 22:35:00,Pittsburgh Pirates,Cincinnati Reds,-1.5,140.00,-165.00,-154.00,130.00,4,3
+2023-04-20 22:40:00,Philadelphia Phillies,Colorado Rockies,-1.5,-110.00,-110.00,-200.00,168.00,0,5
+2023-04-21 18:20:00,Chicago Cubs,Los Angeles Dodgers,1.5,-120.00,100.00,138.00,-164.00,13,0
+2023-04-21 22:40:00,Tampa Bay Rays,Chicago White Sox,-1.5,120.00,-140.00,-168.00,142.00,8,7
+2023-04-21 23:05:00,Baltimore Orioles,Detroit Tigers,-1.5,120.00,-140.00,-180.00,152.00,2,1
+2023-04-22 00:05:00,Texas Rangers,Oakland Athletics,-1.5,100.00,-120.00,-200.00,168.00,4,5
+2023-04-22 00:10:00,Milwaukee Brewers,Boston Red Sox,-1.5,120.00,-140.00,-166.00,140.00,3,5
+2023-04-22 00:10:00,Minnesota Twins,Washington Nationals,-1.5,105.00,-125.00,-205.00,172.00,2,3
+2023-04-21 23:05:00,Philadelphia Phillies,Colorado Rockies,-1.5,-130.00,110.00,178.00,-230.00,4,3
+2023-04-22 01:38:00,Los Angeles Angels,Kansas City Royals,-1.5,-135.00,115.00,-255.00,210.00,2,0
+2023-04-22 17:05:00,New York Yankees,Toronto Blue Jays,-1.5,140.00,-165.00,-162.00,136.00,3,2
+2023-04-22 19:05:00,Philadelphia Phillies,Colorado Rockies,-1.5,110.00,-130.00,-168.00,142.00,4,3
+2023-04-22 20:05:00,Tampa Bay Rays,Chicago White Sox,-1.5,125.00,-145.00,-172.00,144.00,4,3
+2023-04-22 23:04:58,Baltimore Orioles,Detroit Tigers,-1.5,115.00,-135.00,-172.00,144.00,5,1
+2023-04-22 23:05:00,Texas Rangers,Oakland Athletics,-1.5,-110.00,-110.00,-210.00,176.00,18,3
+2023-04-23 01:07:00,Los Angeles Angels,Kansas City Royals,-1.5,105.00,-125.00,-178.00,150.00,8,11
+2023-04-23 01:40:00,Seattle Mariners,St. Louis Cardinals,-1.5,140.00,-165.00,-164.00,138.00,5,4
+2023-04-23 17:35:00,Baltimore Orioles,Detroit Tigers,-1.5,120.00,-140.00,-166.00,140.00,2,1
+2023-04-23 18:10:00,Milwaukee Brewers,Boston Red Sox,-1.5,115.00,-135.00,-172.00,144.00,5,12
+2023-04-23 18:10:00,Minnesota Twins,Washington Nationals,-1.5,-115.00,-105.00,-200.00,168.00,3,1
+2023-04-23 20:07:00,Los Angeles Angels,Kansas City Royals,-1.5,100.00,-120.00,-200.00,168.00,4,3
+2023-04-23 23:10:00,San Francisco Giants,New York Mets,1.5,-165.00,140.00,-190.00,148.00,5,4
+2023-04-24 22:09:31,Cleveland Guardians,Colorado Rockies,-1.5,105.00,-125.00,-200.00,168.00,0,6
+2023-04-24 23:07:00,Toronto Blue Jays,Chicago White Sox,-1.5,125.00,-145.00,-172.00,144.00,5,2
+2023-04-24 23:20:00,Atlanta Braves,Miami Marlins,-1.5,-120.00,100.00,-255.00,210.00,11,0
+2023-04-25 01:38:00,Los Angeles Angels,Oakland Athletics,-1.5,-110.00,-110.00,-200.00,168.00,10,11
+2023-04-24 23:40:00,Minnesota Twins,New York Yankees,-1.5,150.00,-175.00,-200.00,154.00,6,1
+2023-04-25 01:40:00,Arizona Diamondbacks,Kansas City Royals,1.5,-170.00,145.00,-156.00,132.00,5,4
+2023-04-25 22:10:00,Cleveland Guardians,Colorado Rockies,-1.5,105.00,-125.00,-190.00,160.00,1,5
+2023-04-25 22:39:52,Tampa Bay Rays,Houston Astros,-1.5,140.00,-165.00,-164.00,138.00,0,5
+2023-04-25 23:07:00,Toronto Blue Jays,Chicago White Sox,-1.5,105.00,-125.00,-184.00,154.00,7,0
+2023-04-25 23:40:00,Milwaukee Brewers,Detroit Tigers,-1.5,125.00,-145.00,-166.00,140.00,3,4
+2023-04-26 01:38:00,Los Angeles Angels,Oakland Athletics,-1.5,110.00,-130.00,-184.00,154.00,5,3
+2023-04-25 23:10:00,New York Mets,Washington Nationals,1.5,-130.00,100.00,138.00,-176.00,0,5
+2023-04-25 23:19:56,Atlanta Braves,Miami Marlins,-1.5,-115.00,-105.00,-260.00,194.00,7,4
+2023-04-26 17:07:00,Toronto Blue Jays,Chicago White Sox,-1.5,110.00,-130.00,-166.00,140.00,8,0
+2023-04-26 17:40:00,Milwaukee Brewers,Detroit Tigers,-1.5,-105.00,-115.00,-225.00,188.00,6,2
+2023-04-26 19:40:00,Arizona Diamondbacks,Kansas City Royals,-1.5,-130.00,110.00,-255.00,210.00,2,0
+2023-04-26 23:10:00,New York Mets,Washington Nationals,-1.5,-105.00,-115.00,-190.00,160.00,1,4
+2023-04-26 23:20:00,Atlanta Braves,Miami Marlins,-1.5,140.00,-165.00,-162.00,136.00,6,4
+2023-04-26 22:35:00,Pittsburgh Pirates,Los Angeles Dodgers,1.5,-155.00,135.00,-192.00,150.00,8,1
+2023-04-26 22:40:00,Tampa Bay Rays,Houston Astros,1.5,-190.00,155.00,132.00,-168.00,0,1
+2023-04-27 16:20:00,Atlanta Braves,Miami Marlins,-1.5,105.00,-125.00,-198.00,166.00,4,5
+2023-04-27 16:35:00,Pittsburgh Pirates,Los Angeles Dodgers,1.5,-115.00,-105.00,144.00,-172.00,6,2
+2023-04-27 23:10:00,New York Mets,Washington Nationals,-1.5,100.00,-120.00,-235.00,194.00,9,8
+2023-04-27 23:40:00,Minnesota Twins,Kansas City Royals,-1.5,100.00,-120.00,-190.00,160.00,7,1
+2023-04-28 00:05:00,Texas Rangers,New York Yankees,1.5,-130.00,110.00,134.00,-158.00,2,4
+2023-04-28 22:05:00,Minnesota Twins,Kansas City Royals,-1.5,-110.00,-110.00,-225.00,188.00,8,6
+2023-04-29 00:05:00,Texas Rangers,New York Yankees,-1.5,115.00,-135.00,-188.00,158.00,5,2
+2023-04-29 00:10:00,Houston Astros,Philadelphia Phillies,-1.5,140.00,-165.00,-158.00,134.00,1,3
+2023-04-29 18:10:00,Minnesota Twins,Kansas City Royals,-1.5,-115.00,-105.00,-230.00,190.00,2,3
+2023-04-29 22:05:00,San Diego Padres,San Francisco Giants,-1.5,-105.00,-115.00,-172.00,144.00,16,11
+2023-04-29 23:05:00,Texas Rangers,New York Yankees,-1.5,145.00,-170.00,-182.00,142.00,2,0
+2023-04-29 23:10:00,Chicago White Sox,Tampa Bay Rays,1.5,-145.00,125.00,-230.00,178.00,3,12
+2023-04-29 23:10:00,Milwaukee Brewers,Los Angeles Angels,-1.5,125.00,-145.00,-166.00,130.00,7,5
+2023-04-30 01:10:00,Los Angeles Dodgers,St. Louis Cardinals,-1.5,140.00,-165.00,-156.00,132.00,1,0
+2023-04-30 17:37:00,Toronto Blue Jays,Seattle Mariners,-1.5,110.00,-130.00,-168.00,142.00,8,10
+2023-04-30 18:10:00,Chicago White Sox,Tampa Bay Rays,1.5,-115.00,-105.00,158.00,-188.00,12,9
+2023-04-30 18:10:00,Minnesota Twins,Kansas City Royals,-1.5,100.00,-120.00,-205.00,172.00,8,4
+2023-04-30 20:07:00,Oakland Athletics,Cincinnati Reds,1.5,-140.00,120.00,130.00,-154.00,5,4
+2023-05-02 00:10:00,Houston Astros,San Francisco Giants,-1.5,105.00,-125.00,-198.00,166.00,7,3
+2023-05-02 01:40:00,San Diego Padres,Cincinnati Reds,-1.5,-110.00,-110.00,-215.00,180.00,8,3
+2023-05-02 02:10:00,Los Angeles Dodgers,Philadelphia Phillies,-1.5,125.00,-145.00,-178.00,150.00,13,4
+2023-05-01 23:05:00,Washington Nationals,Chicago Cubs,1.5,-135.00,115.00,172.00,-225.00,1,5
+2023-05-01 23:10:00,Boston Red Sox,Toronto Blue Jays,1.5,-135.00,115.00,138.00,-174.00,6,5
+2023-05-02 23:05:00,New York Yankees,Cleveland Guardians,-1.5,120.00,-140.00,-172.00,144.00,4,2
+2023-05-02 23:10:00,Chicago White Sox,Minnesota Twins,1.5,-135.00,115.00,134.00,-158.00,3,2
+2023-05-03 00:10:00,Houston Astros,San Francisco Giants,-1.5,115.00,-135.00,-168.00,142.00,0,2
+2023-05-03 00:40:00,Colorado Rockies,Milwaukee Brewers,1.5,-120.00,100.00,130.00,-154.00,3,2
+2023-05-03 01:40:00,San Diego Padres,Cincinnati Reds,-1.5,115.00,-135.00,-166.00,140.00,1,2
+2023-05-03 01:40:00,Oakland Athletics,Seattle Mariners,1.5,-140.00,120.00,134.00,-158.00,1,2
+2023-05-03 02:10:00,Los Angeles Dodgers,Philadelphia Phillies,-1.5,115.00,-135.00,-184.00,154.00,13,1
+2023-05-02 23:10:00,Boston Red Sox,Toronto Blue Jays,1.5,-165.00,140.00,-240.00,186.00,7,6
+2023-05-03 00:05:00,Texas Rangers,Arizona Diamondbacks,1.5,-145.00,125.00,130.00,-154.00,6,4
+2023-05-03 18:10:00,Houston Astros,San Francisco Giants,-1.5,130.00,-150.00,-166.00,140.00,2,4
+2023-05-03 20:10:00,San Diego Padres,Cincinnati Reds,-1.5,-125.00,105.00,-250.00,205.00,7,1
+2023-05-03 22:40:00,Detroit Tigers,New York Mets,1.5,110.00,-130.00,176.00,-210.00,8,1
+2023-05-03 22:39:46,Tampa Bay Rays,Pittsburgh Pirates,-1.5,110.00,-130.00,-235.00,194.00,8,1
+2023-05-03 23:10:00,Boston Red Sox,Toronto Blue Jays,1.5,-150.00,130.00,130.00,-154.00,8,3
+2023-05-04 01:40:00,Oakland Athletics,Seattle Mariners,1.5,-120.00,100.00,158.00,-188.00,2,7
+2023-05-03 23:05:00,Washington Nationals,Chicago Cubs,1.5,-135.00,105.00,146.00,-186.00,2,1
+2023-05-04 17:10:00,Detroit Tigers,New York Mets,1.5,-110.00,-110.00,160.00,-190.00,2,0
+2023-05-04 17:10:00,Tampa Bay Rays,Pittsburgh Pirates,-1.5,120.00,-140.00,-205.00,172.00,3,2
+2023-05-04 18:10:00,Kansas City Royals,Baltimore Orioles,1.5,-125.00,105.00,138.00,-164.00,10,13
+2023-05-04 19:10:00,Colorado Rockies,Milwaukee Brewers,1.5,-120.00,100.00,130.00,-154.00,9,6
+2023-05-04 19:37:00,Oakland Athletics,Seattle Mariners,1.5,105.00,-125.00,205.00,-250.00,3,5
+2023-05-04 22:10:00,Boston Red Sox,Toronto Blue Jays,1.5,-130.00,110.00,138.00,-164.00,11,5
+2023-05-05 18:20:00,Chicago Cubs,Miami Marlins,-1.0,-110.00,-110.00,-168.00,142.00,4,1
+2023-05-05 22:35:00,Pittsburgh Pirates,Toronto Blue Jays,1.5,-130.00,110.00,132.00,-156.00,0,4
+2023-05-05 23:05:00,Philadelphia Phillies,Boston Red Sox,-1.5,125.00,-145.00,-178.00,150.00,3,5
+2023-05-05 23:10:00,New York Mets,Colorado Rockies,-1.5,-115.00,-105.00,-250.00,205.00,1,0
+2023-05-05 23:20:00,Atlanta Braves,Baltimore Orioles,-1.5,-105.00,-115.00,-210.00,176.00,4,9
+2023-05-06 00:10:00,Kansas City Royals,Oakland Athletics,-1.5,125.00,-145.00,-162.00,136.00,8,12
+2023-05-06 00:15:00,St. Louis Cardinals,Detroit Tigers,-1.5,-115.00,-105.00,-245.00,200.00,4,5
+2023-05-06 01:40:00,Arizona Diamondbacks,Washington Nationals,-1.5,105.00,-125.00,-180.00,152.00,3,1
+2023-05-06 18:15:00,St. Louis Cardinals,Detroit Tigers,-1.5,-105.00,-115.00,-215.00,180.00,5,6
+2023-05-06 18:20:00,Chicago Cubs,Miami Marlins,-1.5,115.00,-135.00,-172.00,144.00,4,2
+2023-05-06 20:10:00,New York Mets,Colorado Rockies,-1.5,-110.00,-110.00,-220.00,184.00,2,5
+2023-05-06 20:10:00,Tampa Bay Rays,New York Yankees,-1.5,120.00,-140.00,-190.00,160.00,2,3
+2023-05-06 23:10:00,Kansas City Royals,Oakland Athletics,-1.5,115.00,-135.00,-174.00,146.00,4,5
+2023-05-06 23:15:00,Atlanta Braves,Baltimore Orioles,-1.5,-110.00,-110.00,-235.00,194.00,5,4
+2023-05-06 23:15:00,San Francisco Giants,Milwaukee Brewers,-1.5,130.00,-150.00,-166.00,140.00,4,1
+2023-05-06 22:40:00,Cincinnati Reds,Chicago White Sox,-1.5,155.00,-180.00,178.00,-230.00,5,3
+2023-05-07 15:35:00,Atlanta Braves,Baltimore Orioles,-1.5,125.00,-145.00,-162.00,136.00,3,2
+2023-05-07 17:40:00,New York Mets,Colorado Rockies,-1.5,-105.00,-115.00,-210.00,176.00,6,13
+2023-05-07 20:10:00,Arizona Diamondbacks,Washington Nationals,-1.5,120.00,-140.00,-162.00,136.00,8,9
+2023-05-08 22:10:00,Cleveland Guardians,Detroit Tigers,-1.5,105.00,-125.00,194.00,-260.00,2,6
+2023-05-08 22:35:00,Baltimore Orioles,Tampa Bay Rays,1.5,-120.00,100.00,136.00,-174.00,0,3
+2023-05-08 22:35:00,Pittsburgh Pirates,Colorado Rockies,-1.5,120.00,-140.00,-205.00,158.00,2,0
+2023-05-08 23:05:00,New York Yankees,Oakland Athletics,-1.5,100.00,-120.00,-186.00,144.00,7,2
+2023-05-09 01:40:00,Arizona Diamondbacks,Miami Marlins,-1.5,-105.00,-115.00,-205.00,172.00,5,2
+2023-05-09 01:40:00,Seattle Mariners,Texas Rangers,-1.5,140.00,-165.00,-190.00,160.00,1,2
+2023-05-09 01:45:00,San Francisco Giants,Washington Nationals,-1.5,100.00,-120.00,-230.00,190.00,1,5
+2023-05-09 22:10:22,Cleveland Guardians,Detroit Tigers,-1.5,-105.00,-115.00,-225.00,188.00,2,0
+2023-05-09 22:35:00,Pittsburgh Pirates,Colorado Rockies,-1.5,125.00,-145.00,-164.00,138.00,1,10
+2023-05-09 22:40:00,Cincinnati Reds,New York Mets,1.5,115.00,-135.00,188.00,-225.00,7,6
+2023-05-09 23:10:01,New York Yankees,Oakland Athletics,-1.5,-110.00,-110.00,-225.00,188.00,10,5
+2023-05-09 23:20:00,Atlanta Braves,Boston Red Sox,-1.5,115.00,-135.00,-178.00,150.00,9,3
+2023-05-10 01:40:00,Seattle Mariners,Texas Rangers,-1.5,130.00,-150.00,-168.00,142.00,5,0
+2023-05-10 01:45:00,San Francisco Giants,Washington Nationals,-1.5,-115.00,-105.00,-250.00,205.00,4,1
+2023-05-09 23:39:16,Chicago Cubs,St. Louis Cardinals,-1.5,164.00,-200.00,-225.00,172.00,4,6
+2023-05-09 23:40:00,Milwaukee Brewers,Los Angeles Dodgers,1.5,-155.00,135.00,176.00,-230.00,2,6
+2023-05-10 16:35:00,New York Yankees,Oakland Athletics,-1.5,-110.00,-110.00,-250.00,205.00,11,3
+2023-05-10 17:40:00,Milwaukee Brewers,Los Angeles Dodgers,1.5,-115.00,-105.00,138.00,-164.00,1,8
+2023-05-10 19:40:00,Arizona Diamondbacks,Miami Marlins,-1.5,135.00,-155.00,-164.00,138.00,4,5
+2023-05-10 19:45:00,San Francisco Giants,Washington Nationals,-1.5,130.00,-150.00,-164.00,138.00,6,11
+2023-05-10 22:39:53,Cincinnati Reds,New York Mets,1.5,-115.00,-105.00,148.00,-176.00,1,2
+2023-05-10 23:19:23,Atlanta Braves,Boston Red Sox,-1.5,-106.00,-121.00,-225.00,172.00,2,5
+2023-05-10 23:39:52,Chicago Cubs,St. Louis Cardinals,1.5,-178.00,146.00,132.00,-168.00,10,4
+2023-05-10 23:40:00,Kansas City Royals,Chicago White Sox,1.5,-140.00,120.00,-192.00,150.00,9,1
+2023-05-10 23:40:00,Minnesota Twins,San Diego Padres,-1.5,155.00,-180.00,-215.00,168.00,4,3
+2023-05-13 00:10:00,Minnesota Twins,Chicago Cubs,-1.5,135.00,-155.00,-166.00,140.00,2,6
+2023-05-13 01:40:00,Oakland Athletics,Texas Rangers,1.5,100.00,-120.00,168.00,-200.00,9,7
+2023-05-12 23:06:06,Washington Nationals,New York Mets,1.5,-135.00,115.00,-172.00,134.00,2,3
+2023-05-12 23:10:50,Boston Red Sox,St. Louis Cardinals,-1.5,160.00,-190.00,188.00,-250.00,6,8
+2023-05-13 00:10:00,Chicago White Sox,Houston Astros,1.5,-135.00,115.00,130.00,-154.00,1,5
+2023-05-13 17:10:00,Miami Marlins,Cincinnati Reds,-1.5,125.00,-145.00,-166.00,140.00,5,6
+2023-05-13 17:10:00,Detroit Tigers,Seattle Mariners,1.5,-115.00,-105.00,136.00,-162.00,0,5
+2023-05-13 18:10:00,Minnesota Twins,Chicago Cubs,-1.5,125.00,-145.00,-158.00,134.00,11,1
+2023-05-13 20:05:09,Washington Nationals,New York Mets,1.5,-135.00,115.00,130.00,-154.00,3,2
+2023-05-13 20:07:00,Oakland Athletics,Texas Rangers,1.5,-120.00,100.00,144.00,-172.00,0,5
+2023-05-14 00:10:00,Arizona Diamondbacks,San Francisco Giants,-1.5,115.00,-135.00,-166.00,140.00,7,2
+2023-05-13 22:10:00,Cleveland Guardians,Los Angeles Angels,1.5,-165.00,140.00,210.00,-280.00,8,6
+2023-05-13 23:10:00,Milwaukee Brewers,Kansas City Royals,-1.5,125.00,-145.00,152.00,-196.00,4,3
+2023-05-14 17:35:00,Washington Nationals,New York Mets,1.5,105.00,-125.00,176.00,-210.00,2,8
+2023-05-14 17:40:00,Miami Marlins,Cincinnati Reds,-1.5,125.00,-145.00,-158.00,134.00,3,1
+2023-05-14 17:40:00,Detroit Tigers,Seattle Mariners,1.5,-110.00,-110.00,144.00,-172.00,5,3
+2023-05-14 19:10:00,Colorado Rockies,Philadelphia Phillies,1.5,-115.00,-105.00,132.00,-156.00,4,0
+2023-05-14 20:07:00,Oakland Athletics,Texas Rangers,1.5,-120.00,100.00,142.00,-168.00,3,11
+2023-05-14 20:10:00,Los Angeles Dodgers,San Diego Padres,-1.5,110.00,-130.00,-174.00,146.00,4,0
+2023-05-14 23:10:00,Boston Red Sox,St. Louis Cardinals,1.5,-170.00,145.00,144.00,-186.00,1,9
+2023-05-15 20:05:00,Washington Nationals,New York Mets,1.5,-120.00,100.00,136.00,-162.00,10,3
+2023-05-16 00:10:00,Houston Astros,Chicago Cubs,-1.5,115.00,-135.00,-184.00,154.00,6,4
+2023-05-16 01:40:00,San Diego Padres,Kansas City Royals,-1.5,-105.00,-115.00,-210.00,176.00,4,0
+2023-05-15 23:10:47,Toronto Blue Jays,New York Yankees,1.5,-105.00,-125.00,200.00,-280.00,4,7
+2023-05-15 23:45:00,St. Louis Cardinals,Milwaukee Brewers,1.5,-175.00,150.00,140.00,-180.00,18,1
+2023-05-16 00:05:00,Texas Rangers,Atlanta Braves,1.5,-115.00,-105.00,146.00,-174.00,0,12
+2023-05-16 01:40:00,Oakland Athletics,Arizona Diamondbacks,1.5,-105.00,-115.00,184.00,-220.00,2,5
+2023-05-16 22:39:35,Miami Marlins,Washington Nationals,-1.5,145.00,-170.00,-158.00,134.00,5,4
+2023-05-16 23:07:00,Toronto Blue Jays,New York Yankees,-1.5,115.00,-135.00,-180.00,152.00,3,6
+2023-05-16 23:10:00,New York Mets,Tampa Bay Rays,-1.5,120.00,-140.00,-164.00,138.00,5,8
+2023-05-16 23:45:00,St. Louis Cardinals,Milwaukee Brewers,-1.5,130.00,-150.00,-180.00,152.00,2,3
+2023-05-17 00:10:00,Houston Astros,Chicago Cubs,-1.5,130.00,-150.00,-172.00,144.00,7,3
+2023-05-17 01:40:00,Oakland Athletics,Arizona Diamondbacks,1.5,-140.00,120.00,130.00,-154.00,9,8
+2023-05-17 01:40:00,San Diego Padres,Kansas City Royals,-1.5,-105.00,-115.00,-196.00,164.00,4,5
+2023-05-17 02:10:00,Los Angeles Dodgers,Minnesota Twins,-1.5,105.00,-125.00,-215.00,180.00,1,5
+2023-05-17 17:10:00,Detroit Tigers,Pittsburgh Pirates,-1.5,140.00,-165.00,-158.00,134.00,0,8
+2023-05-17 19:37:00,Oakland Athletics,Arizona Diamondbacks,1.5,-115.00,-105.00,140.00,-166.00,3,5
+2023-05-18 00:05:00,Texas Rangers,Atlanta Braves,1.5,-135.00,115.00,136.00,-162.00,5,6
+2023-05-18 00:10:00,Houston Astros,Chicago Cubs,-1.5,130.00,-150.00,-162.00,136.00,7,6
+2023-05-17 22:35:00,Baltimore Orioles,Los Angeles Angels,-1.5,145.00,-170.00,-280.00,205.00,3,1
+2023-05-18 17:10:00,Miami Marlins,Washington Nationals,-1.5,135.00,-155.00,-154.00,130.00,5,3
+2023-05-18 23:07:00,Toronto Blue Jays,New York Yankees,-1.5,145.00,-170.00,136.00,-174.00,2,4
+2023-05-18 23:45:00,St. Louis Cardinals,Los Angeles Dodgers,1.5,-125.00,105.00,156.00,-205.00,16,8
+2023-05-19 22:35:00,Pittsburgh Pirates,Arizona Diamondbacks,1.5,-125.00,105.00,146.00,-174.00,13,3
+2023-05-20 00:05:00,Texas Rangers,Colorado Rockies,-1.5,-105.00,-115.00,-215.00,180.00,7,2
+2023-05-20 00:10:00,Houston Astros,Oakland Athletics,-1.5,-125.00,105.00,-250.00,205.00,5,1
+2023-05-20 01:40:00,San Diego Padres,Boston Red Sox,-1.5,130.00,-150.00,-158.00,134.00,1,6
+2023-05-19 22:40:00,Cincinnati Reds,New York Yankees,1.5,100.00,-130.00,200.00,-270.00,2,6
+2023-05-19 22:40:00,Tampa Bay Rays,Milwaukee Brewers,-1.5,150.00,-185.00,-230.00,176.00,1,0
+2023-05-20 18:10:00,Chicago White Sox,Kansas City Royals,-1.5,115.00,-135.00,-164.00,138.00,5,1
+2023-05-20 20:05:00,Philadelphia Phillies,Chicago Cubs,-1.5,120.00,-140.00,-174.00,146.00,12,3
+2023-05-20 20:05:00,Texas Rangers,Colorado Rockies,-1.5,110.00,-130.00,-200.00,168.00,11,5
+2023-05-20 20:05:00,San Francisco Giants,Miami Marlins,-1.5,125.00,-145.00,-180.00,152.00,0,1
+2023-05-21 17:37:00,Toronto Blue Jays,Baltimore Orioles,-1.5,105.00,-125.00,-200.00,168.00,3,8
+2023-05-21 23:10:00,New York Mets,Cleveland Guardians,-1.5,125.00,-145.00,-168.00,142.00,2,1
+2023-05-21 18:35:00,Texas Rangers,Colorado Rockies,-1.5,100.00,-120.00,-215.00,180.00,13,3
+2023-05-21 20:07:00,Los Angeles Angels,Minnesota Twins,-1.5,145.00,-170.00,-156.00,132.00,4,2
+2023-05-22 22:40:00,Philadelphia Phillies,Arizona Diamondbacks,-1.5,100.00,-120.00,-210.00,176.00,3,6
+2023-05-22 22:40:00,Cincinnati Reds,St. Louis Cardinals,1.5,-110.00,-110.00,160.00,-190.00,6,5
+2023-05-22 23:40:00,Kansas City Royals,Detroit Tigers,1.5,-200.00,170.00,138.00,-176.00,5,8
+2023-05-23 00:00:00,Atlanta Braves,Los Angeles Dodgers,-1.5,145.00,-170.00,-156.00,132.00,6,8
+2023-05-23 22:35:00,Pittsburgh Pirates,Texas Rangers,1.5,-130.00,110.00,146.00,-174.00,1,6
+2023-05-23 23:05:00,New York Yankees,Baltimore Orioles,-1.5,120.00,-140.00,-184.00,154.00,6,5
+2023-05-23 23:05:00,Washington Nationals,San Diego Padres,1.5,-135.00,115.00,136.00,-162.00,4,7
+2023-05-23 23:20:00,Atlanta Braves,Los Angeles Dodgers,-1.5,-105.00,-115.00,-200.00,168.00,1,8
+2023-05-24 01:40:00,Seattle Mariners,Oakland Athletics,-1.5,-115.00,-105.00,-235.00,194.00,3,2
+2023-05-23 22:40:00,Philadelphia Phillies,Arizona Diamondbacks,1.5,100.00,-130.00,200.00,-270.00,3,4
+2023-05-24 17:10:00,Minnesota Twins,San Francisco Giants,-1.5,145.00,-170.00,-164.00,138.00,7,1
+2023-05-24 22:40:00,Cincinnati Reds,St. Louis Cardinals,1.5,-120.00,100.00,138.00,-164.00,10,3
+2023-05-24 22:38:00,Tampa Bay Rays,Toronto Blue Jays,-1.5,115.00,-135.00,-210.00,176.00,7,3
+2023-05-24 23:05:00,Washington Nationals,San Diego Padres,1.5,-140.00,120.00,130.00,-154.00,5,3
+2023-05-25 00:40:00,Colorado Rockies,Miami Marlins,1.5,-110.00,-110.00,138.00,-164.00,2,10
+2023-05-25 16:35:00,Cincinnati Reds,St. Louis Cardinals,1.5,-105.00,-115.00,142.00,-168.00,1,2
+2023-05-25 20:05:00,Washington Nationals,San Diego Padres,1.5,-105.00,-115.00,158.00,-188.00,6,8
+2023-05-26 01:40:00,Seattle Mariners,Oakland Athletics,-1.5,-115.00,-105.00,-250.00,205.00,3,2
+2023-05-25 23:40:08,Chicago Cubs,New York Mets,1.5,-205.00,168.00,132.00,-168.00,1,10
+2023-05-26 18:20:00,Chicago Cubs,Cincinnati Reds,-1.5,140.00,-170.00,-172.00,144.00,0,9
+2023-05-27 00:40:00,Colorado Rockies,New York Mets,1.5,130.00,-150.00,176.00,-210.00,2,5
+2023-05-27 02:10:00,Seattle Mariners,Pittsburgh Pirates,-1.5,125.00,-145.00,-168.00,142.00,6,11
+2023-05-27 20:10:00,Seattle Mariners,Pittsburgh Pirates,-1.5,110.00,-130.00,-215.00,180.00,5,0
+2023-05-27 23:16:43,Chicago Cubs,Cincinnati Reds,-1.5,112.00,-134.00,-178.00,150.00,5,8
+2023-05-28 01:10:00,Colorado Rockies,New York Mets,1.5,105.00,-125.00,168.00,-200.00,10,7
+2023-05-28 02:07:00,Los Angeles Angels,Miami Marlins,-1.5,100.00,-120.00,-210.00,176.00,5,8
+2023-05-27 23:15:00,Arizona Diamondbacks,Boston Red Sox,-1.5,125.00,-155.00,-190.00,148.00,1,2
+2023-05-27 23:15:00,Cleveland Guardians,St. Louis Cardinals,-1.5,160.00,-190.00,154.00,-200.00,1,2
+2023-05-28 17:35:00,New York Yankees,San Diego Padres,-1.5,135.00,-155.00,-158.00,134.00,10,7
+2023-05-28 20:10:00,Seattle Mariners,Pittsburgh Pirates,-1.5,130.00,-150.00,-156.00,132.00,6,3
+2023-05-28 23:10:00,Atlanta Braves,Philadelphia Phillies,-1.5,-125.00,105.00,-255.00,210.00,11,4
+2023-05-29 17:10:00,Detroit Tigers,Texas Rangers,1.5,-105.00,-115.00,142.00,-168.00,0,5
+2023-05-29 20:10:00,Arizona Diamondbacks,Colorado Rockies,-1.5,110.00,-130.00,-178.00,150.00,7,5
+2023-05-30 00:07:00,Oakland Athletics,Atlanta Braves,1.5,120.00,-140.00,198.00,-240.00,7,2
+2023-05-30 01:10:00,Los Angeles Dodgers,Washington Nationals,-1.5,-120.00,100.00,-250.00,205.00,6,1
+2023-05-30 22:40:00,Miami Marlins,San Diego Padres,-1.5,140.00,-165.00,-154.00,130.00,4,9
+2023-05-30 23:07:00,Toronto Blue Jays,Milwaukee Brewers,-1.5,115.00,-135.00,-162.00,136.00,7,2
+2023-05-30 23:10:00,Boston Red Sox,Cincinnati Reds,-1.5,100.00,-120.00,-198.00,166.00,8,9
+2023-05-30 23:45:00,St. Louis Cardinals,Kansas City Royals,-1.5,105.00,-125.00,-196.00,164.00,2,1
+2023-05-31 00:05:00,Chicago Cubs,Tampa Bay Rays,1.5,-110.00,-110.00,164.00,-196.00,2,1
+2023-05-31 01:40:00,Arizona Diamondbacks,Colorado Rockies,-1.5,-115.00,-105.00,-250.00,205.00,5,1
+2023-05-31 01:40:00,Oakland Athletics,Atlanta Braves,1.5,115.00,-135.00,200.00,-245.00,2,1
+2023-05-30 22:40:00,Detroit Tigers,Texas Rangers,1.5,-140.00,120.00,192.00,-260.00,6,10
+2023-05-30 23:10:00,New York Mets,Philadelphia Phillies,-1.5,155.00,-180.00,-190.00,148.00,2,0
+2023-05-31 01:45:00,San Francisco Giants,Pittsburgh Pirates,-1.5,130.00,-150.00,-162.00,136.00,1,2
+2023-05-31 19:37:00,Oakland Athletics,Atlanta Braves,1.5,105.00,-125.00,194.00,-240.00,2,4
+2023-05-31 20:10:00,Los Angeles Dodgers,Washington Nationals,-1.5,-125.00,105.00,-235.00,194.00,6,10
+2023-05-31 23:07:00,Toronto Blue Jays,Milwaukee Brewers,-1.5,-110.00,-110.00,-200.00,168.00,2,4
+2023-05-31 23:10:00,Boston Red Sox,Cincinnati Reds,-1.5,100.00,-120.00,-174.00,146.00,4,5
+2023-06-01 00:10:00,Houston Astros,Minnesota Twins,-1.5,115.00,-135.00,-178.00,150.00,2,8
+2023-06-01 01:40:00,Arizona Diamondbacks,Colorado Rockies,-1.5,105.00,-125.00,-178.00,150.00,6,0
+2023-05-31 22:40:00,Miami Marlins,San Diego Padres,1.5,-170.00,145.00,178.00,-235.00,2,1
+2023-05-31 23:10:00,New York Mets,Philadelphia Phillies,1.5,-155.00,135.00,-215.00,164.00,4,1
+2023-06-01 17:07:00,Toronto Blue Jays,Milwaukee Brewers,-1.5,105.00,-125.00,-200.00,168.00,3,1
+2023-06-01 17:10:00,New York Mets,Philadelphia Phillies,-1.5,125.00,-145.00,-172.00,144.00,4,2
+2023-06-01 19:40:00,Arizona Diamondbacks,Colorado Rockies,-1.5,110.00,-130.00,-174.00,146.00,5,4
+2023-06-01 23:10:00,Boston Red Sox,Cincinnati Reds,-1.5,110.00,-130.00,-180.00,152.00,8,2
+2023-06-02 21:10:00,Cincinnati Reds,Milwaukee Brewers,1.5,100.00,-120.00,164.00,-196.00,4,5
+2023-06-02 22:40:00,Miami Marlins,Oakland Athletics,-1.5,100.00,-120.00,-198.00,166.00,4,0
+2023-06-02 23:05:00,Washington Nationals,Philadelphia Phillies,1.5,-105.00,-115.00,160.00,-190.00,8,7
+2023-06-03 01:40:00,San Diego Padres,Chicago Cubs,-1.5,130.00,-150.00,-154.00,130.00,1,2
+2023-06-03 00:10:00,Chicago White Sox,Detroit Tigers,-1.5,125.00,-145.00,-154.00,130.00,3,0
+2023-06-03 02:15:00,San Francisco Giants,Baltimore Orioles,-1.5,135.00,-155.00,-162.00,136.00,2,3
+2023-06-03 20:05:00,Pittsburgh Pirates,St. Louis Cardinals,1.5,-115.00,-105.00,138.00,-164.00,4,3
+2023-06-03 20:10:00,Houston Astros,Los Angeles Angels,-1.5,120.00,-140.00,-180.00,152.00,9,6
+2023-06-03 20:10:00,Miami Marlins,Oakland Athletics,-1.5,120.00,-140.00,-180.00,152.00,12,1
+2023-06-04 02:10:00,Arizona Diamondbacks,Atlanta Braves,1.5,105.00,-125.00,176.00,-210.00,2,5
+2023-06-04 02:10:00,San Diego Padres,Chicago Cubs,-1.5,130.00,-150.00,-158.00,134.00,6,0
+2023-06-04 15:35:00,Pittsburgh Pirates,St. Louis Cardinals,1.5,-125.00,105.00,130.00,-154.00,2,1
+2023-06-04 17:35:00,Washington Nationals,Philadelphia Phillies,1.5,-115.00,-105.00,140.00,-166.00,3,11
+2023-06-04 17:40:00,Miami Marlins,Oakland Athletics,-1.5,-115.00,-105.00,-240.00,198.00,7,5
+2023-06-04 18:10:00,Chicago White Sox,Detroit Tigers,-1.5,120.00,-140.00,-158.00,134.00,6,2
+2023-06-04 18:10:00,Minnesota Twins,Cleveland Guardians,-1.5,120.00,-140.00,-162.00,136.00,1,2
+2023-06-04 23:09:59,Los Angeles Dodgers,New York Yankees,-1.5,130.00,-150.00,-172.00,134.00,1,4
+2023-06-05 20:05:00,Boston Red Sox,Tampa Bay Rays,1.5,-120.00,100.00,144.00,-172.00,1,4
+2023-06-05 22:40:00,Philadelphia Phillies,Detroit Tigers,-1.5,-110.00,-110.00,-230.00,190.00,8,3
+2023-06-05 23:05:00,Pittsburgh Pirates,Oakland Athletics,-1.5,105.00,-125.00,-174.00,146.00,5,4
+2023-06-06 01:10:00,San Diego Padres,Chicago Cubs,-1.5,125.00,-145.00,-162.00,136.00,5,0
+2023-06-05 23:10:00,Cincinnati Reds,Milwaukee Brewers,1.5,-165.00,140.00,-270.00,200.00,2,0
+2023-06-06 22:40:00,Tampa Bay Rays,Minnesota Twins,-1.5,125.00,-145.00,-178.00,150.00,7,0
+2023-06-06 23:05:00,New York Yankees,Chicago White Sox,-1.5,125.00,-145.00,-178.00,150.00,2,3
+2023-06-06 23:05:00,Pittsburgh Pirates,Oakland Athletics,-1.5,-110.00,-110.00,-230.00,190.00,2,11
+2023-06-06 23:10:00,Cincinnati Reds,Los Angeles Dodgers,1.5,105.00,-125.00,176.00,-210.00,9,8
+2023-06-07 00:30:00,Atlanta Braves,New York Mets,-1.5,115.00,-135.00,-162.00,136.00,6,4
+2023-06-06 23:07:00,Toronto Blue Jays,Houston Astros,-1.5,140.00,-165.00,-235.00,180.00,5,1
+2023-06-07 00:40:00,Colorado Rockies,San Francisco Giants,1.5,-115.00,-105.00,130.00,-154.00,4,10
+2023-06-07 16:35:00,Pittsburgh Pirates,Oakland Athletics,-1.5,125.00,-145.00,-178.00,150.00,5,9
+2023-06-07 22:10:00,Miami Marlins,Kansas City Royals,-1.5,115.00,-135.00,-164.00,138.00,6,1
+2023-06-07 23:07:00,Toronto Blue Jays,Houston Astros,-1.5,125.00,-145.00,-156.00,132.00,3,2
+2023-06-07 23:10:00,Cincinnati Reds,Los Angeles Dodgers,1.5,-110.00,-110.00,144.00,-172.00,8,6
+2023-06-08 00:40:00,Colorado Rockies,San Francisco Giants,1.5,105.00,-125.00,168.00,-200.00,4,5
+2023-06-07 22:40:00,Tampa Bay Rays,Minnesota Twins,-1.5,205.00,-255.00,-260.00,192.00,2,1
+2023-06-07 23:05:00,Washington Nationals,Arizona Diamondbacks,1.5,-150.00,130.00,158.00,-205.00,2,6
+2023-06-07 23:10:00,Cleveland Guardians,Boston Red Sox,-1.5,135.00,-165.00,-166.00,130.00,5,2
+2023-06-07 23:20:00,Atlanta Braves,New York Mets,1.5,-190.00,160.00,178.00,-235.00,7,5
+2023-06-07 23:40:00,Milwaukee Brewers,Baltimore Orioles,-1.5,140.00,-165.00,-235.00,180.00,10,2
+2023-06-08 16:35:00,Cincinnati Reds,Los Angeles Dodgers,1.5,105.00,-125.00,180.00,-215.00,0,6
+2023-06-08 17:10:00,Tampa Bay Rays,Minnesota Twins,-1.5,135.00,-155.00,-174.00,146.00,4,2
+2023-06-08 19:10:00,Colorado Rockies,San Francisco Giants,1.5,105.00,-125.00,152.00,-180.00,4,6
+2023-06-08 23:20:00,Atlanta Braves,New York Mets,-1.5,125.00,-145.00,-172.00,144.00,13,10
+2023-06-08 23:07:00,Toronto Blue Jays,Houston Astros,1.5,-150.00,130.00,196.00,-260.00,3,2
+2023-06-09 22:40:00,Tampa Bay Rays,Texas Rangers,-1.5,115.00,-135.00,-174.00,146.00,8,3
+2023-06-09 23:05:00,Baltimore Orioles,Kansas City Royals,-1.5,120.00,-140.00,-172.00,144.00,3,2
+2023-06-09 23:05:00,New York Yankees,Boston Red Sox,-1.5,130.00,-150.00,-168.00,142.00,2,3
+2023-06-09 23:20:00,Atlanta Braves,Washington Nationals,-1.5,-105.00,-115.00,-200.00,168.00,3,2
+2023-06-10 00:10:00,Milwaukee Brewers,Oakland Athletics,-1.5,-115.00,-105.00,-235.00,194.00,2,5
+2023-06-10 00:15:00,St. Louis Cardinals,Cincinnati Reds,-1.5,115.00,-135.00,-174.00,146.00,7,4
+2023-06-10 00:40:00,Colorado Rockies,San Diego Padres,1.5,105.00,-125.00,152.00,-180.00,6,9
+2023-06-09 22:40:00,Detroit Tigers,Arizona Diamondbacks,1.5,-130.00,110.00,205.00,-280.00,6,11
+2023-06-10 18:15:00,St. Louis Cardinals,Cincinnati Reds,-1.5,120.00,-140.00,-164.00,138.00,4,8
+2023-06-10 20:10:00,Atlanta Braves,Washington Nationals,-1.5,105.00,-125.00,-196.00,164.00,6,4
+2023-06-10 20:10:00,Milwaukee Brewers,Oakland Athletics,-1.5,-105.00,-115.00,-196.00,164.00,1,2
+2023-06-11 02:07:00,Los Angeles Angels,Seattle Mariners,-1.5,130.00,-150.00,-154.00,130.00,2,6
+2023-06-10 23:35:00,San Francisco Giants,Chicago Cubs,-1.5,120.00,-150.00,-192.00,150.00,0,4
+2023-06-11 15:35:00,Detroit Tigers,Arizona Diamondbacks,1.5,110.00,-130.00,194.00,-240.00,5,7
+2023-06-11 17:37:00,Toronto Blue Jays,Minnesota Twins,-1.5,-115.00,-105.00,-210.00,176.00,7,6
+2023-06-11 17:40:00,Tampa Bay Rays,Texas Rangers,-1.5,100.00,-120.00,-200.00,168.00,7,3
+2023-06-11 18:10:00,Milwaukee Brewers,Oakland Athletics,-1.5,-105.00,-115.00,-210.00,176.00,6,8
+2023-06-11 19:10:00,Colorado Rockies,San Diego Padres,1.5,110.00,-130.00,158.00,-188.00,5,4
+2023-06-11 23:10:00,New York Yankees,Boston Red Sox,-1.5,150.00,-175.00,-235.00,180.00,2,3
+2023-06-12 23:10:00,Boston Red Sox,Colorado Rockies,-1.5,-130.00,110.00,-250.00,205.00,3,4
+2023-06-13 00:05:00,Texas Rangers,Los Angeles Angels,-1.5,135.00,-155.00,-154.00,130.00,6,9
+2023-06-13 23:10:00,Boston Red Sox,Colorado Rockies,-1.5,-120.00,100.00,-215.00,180.00,6,7
+2023-06-14 01:40:00,San Diego Padres,Cleveland Guardians,-1.5,140.00,-165.00,-162.00,136.00,6,3
+2023-06-14 02:10:00,Los Angeles Dodgers,Chicago White Sox,-1.5,110.00,-130.00,-205.00,172.00,5,1
+2023-06-14 01:40:00,Seattle Mariners,Miami Marlins,-1.5,155.00,-180.00,-166.00,140.00,9,3
+2023-06-14 01:40:00,Oakland Athletics,Tampa Bay Rays,1.5,110.00,-130.00,176.00,-210.00,2,1
+2023-06-14 17:10:00,Detroit Tigers,Atlanta Braves,1.5,-115.00,-105.00,138.00,-164.00,5,6
+2023-06-14 17:10:00,Minnesota Twins,Milwaukee Brewers,-1.5,135.00,-155.00,-162.00,136.00,4,2
+2023-06-15 01:10:00,Boston Red Sox,Colorado Rockies,-1.5,-115.00,-105.00,-225.00,188.00,6,3
+2023-06-15 01:40:00,Seattle Mariners,Miami Marlins,-1.5,120.00,-140.00,-196.00,164.00,1,4
+2023-06-15 00:10:00,Houston Astros,Washington Nationals,-1.5,-120.00,100.00,-225.00,188.00,5,4
+2023-06-15 01:40:00,San Diego Padres,Cleveland Guardians,-1.5,145.00,-170.00,-168.00,142.00,5,0
+2023-06-15 02:10:00,Los Angeles Dodgers,Chicago White Sox,-1.5,-130.00,110.00,-250.00,205.00,4,8
+2023-06-15 19:37:00,Oakland Athletics,Tampa Bay Rays,1.5,100.00,-120.00,158.00,-188.00,3,4
+2023-06-15 23:10:00,Minnesota Twins,Detroit Tigers,-1.5,100.00,-120.00,-215.00,180.00,4,8
+2023-06-16 00:10:00,Houston Astros,Washington Nationals,-1.5,-115.00,-105.00,-250.00,205.00,1,4
+2023-06-16 00:40:00,San Diego Padres,Cleveland Guardians,-1.5,120.00,-140.00,-172.00,144.00,6,8
+2023-06-16 02:10:00,Los Angeles Dodgers,Chicago White Sox,-1.5,130.00,-150.00,-166.00,140.00,5,4
+2023-06-16 00:05:00,Chicago Cubs,Pittsburgh Pirates,-1.5,140.00,-165.00,-158.00,134.00,7,2
+2023-06-16 23:05:00,Washington Nationals,Miami Marlins,1.5,-115.00,-105.00,160.00,-190.00,5,6
+2023-06-16 23:20:00,Atlanta Braves,Colorado Rockies,-1.5,-125.00,105.00,-250.00,205.00,8,1
+2023-06-17 00:10:00,Houston Astros,Cincinnati Reds,-1.5,100.00,-120.00,-200.00,168.00,1,2
+2023-06-17 00:10:00,Kansas City Royals,Los Angeles Angels,1.5,-120.00,100.00,134.00,-158.00,0,3
+2023-06-17 01:40:00,Oakland Athletics,Philadelphia Phillies,1.5,-125.00,105.00,140.00,-166.00,1,6
+2023-06-17 00:05:00,Texas Rangers,Toronto Blue Jays,1.5,-135.00,115.00,130.00,-154.00,1,2
+2023-06-17 00:10:00,Minnesota Twins,Detroit Tigers,-1.5,-125.00,105.00,-255.00,210.00,1,7
+2023-06-17 01:40:00,Arizona Diamondbacks,Cleveland Guardians,-1.5,150.00,-175.00,-198.00,166.00,5,1
+2023-06-17 20:05:00,Washington Nationals,Miami Marlins,1.5,-115.00,-105.00,138.00,-164.00,2,5
+2023-06-17 20:10:00,Seattle Mariners,Chicago White Sox,-1.5,140.00,-165.00,-156.00,132.00,3,4
+2023-06-17 20:10:00,New York Mets,St. Louis Cardinals,-1.5,130.00,-150.00,-154.00,130.00,3,5
+2023-06-18 01:10:00,Los Angeles Dodgers,San Francisco Giants,-1.5,125.00,-145.00,-168.00,142.00,0,15
+2023-06-18 17:35:00,Washington Nationals,Miami Marlins,1.5,-120.00,100.00,132.00,-156.00,2,4
+2023-06-18 18:10:00,Houston Astros,Cincinnati Reds,-1.5,140.00,-165.00,-154.00,130.00,7,9
+2023-06-18 18:10:00,Milwaukee Brewers,Pittsburgh Pirates,-1.5,130.00,-150.00,-158.00,134.00,5,2
+2023-06-18 20:10:00,Seattle Mariners,Chicago White Sox,-1.5,115.00,-135.00,-166.00,140.00,5,1
+2023-06-19 20:05:00,Washington Nationals,St. Louis Cardinals,1.5,-125.00,105.00,130.00,-154.00,6,8
+2023-06-20 22:40:00,Philadelphia Phillies,Atlanta Braves,1.5,-140.00,120.00,134.00,-158.00,2,4
+2023-06-20 22:40:00,Tampa Bay Rays,Baltimore Orioles,-1.5,120.00,-140.00,-178.00,150.00,6,8
+2023-06-20 22:40:00,Detroit Tigers,Kansas City Royals,-1.5,130.00,-150.00,-162.00,136.00,0,1
+2023-06-20 23:05:00,Washington Nationals,St. Louis Cardinals,1.5,-120.00,100.00,130.00,-154.00,3,9
+2023-06-20 23:10:00,Cincinnati Reds,Colorado Rockies,-1.5,115.00,-135.00,-168.00,142.00,8,6
+2023-06-20 23:10:00,Cleveland Guardians,Oakland Athletics,-1.5,-115.00,-105.00,-240.00,198.00,3,2
+2023-06-21 02:07:00,Los Angeles Angels,Los Angeles Dodgers,1.5,-135.00,115.00,130.00,-154.00,0,2
+2023-06-21 00:10:00,Chicago White Sox,Texas Rangers,1.5,-150.00,130.00,134.00,-158.00,7,6
+2023-06-21 18:10:00,Houston Astros,New York Mets,-1.5,130.00,-150.00,-158.00,134.00,10,8
+2023-06-21 20:05:00,Washington Nationals,St. Louis Cardinals,1.5,-115.00,-105.00,144.00,-172.00,3,0
+2023-06-21 23:42:52,Minnesota Twins,Boston Red Sox,-1.5,160.00,-190.00,132.00,-168.00,5,4
+2023-06-22 17:10:00,Cleveland Guardians,Oakland Athletics,-1.5,125.00,-145.00,-188.00,158.00,6,1
+2023-06-22 22:39:55,Tampa Bay Rays,Kansas City Royals,-1.5,-110.00,-110.00,-196.00,152.00,5,6
+2023-06-23 22:40:00,Cincinnati Reds,Atlanta Braves,1.5,-125.00,105.00,136.00,-162.00,11,10
+2023-06-23 22:40:00,Tampa Bay Rays,Kansas City Royals,-1.5,-125.00,105.00,-255.00,210.00,11,3
+2023-06-23 22:40:00,Miami Marlins,Pittsburgh Pirates,-1.5,130.00,-150.00,-172.00,144.00,1,3
+2023-06-23 23:10:00,Cleveland Guardians,Milwaukee Brewers,-1.5,140.00,-165.00,-162.00,136.00,1,7
+2023-06-24 00:40:00,Colorado Rockies,Los Angeles Angels,1.5,-110.00,-110.00,130.00,-154.00,7,4
+2023-06-24 01:40:00,San Diego Padres,Washington Nationals,-1.5,-120.00,100.00,-255.00,210.00,13,3
+2023-06-24 02:15:00,San Francisco Giants,Arizona Diamondbacks,-1.5,120.00,-140.00,-190.00,160.00,8,5
+2023-06-23 23:05:00,Philadelphia Phillies,New York Mets,1.5,-180.00,155.00,-240.00,182.00,5,1
+2023-06-23 23:05:00,New York Yankees,Texas Rangers,-1.5,125.00,-155.00,-186.00,144.00,2,4
+2023-06-23 23:07:00,Toronto Blue Jays,Oakland Athletics,-1.5,-140.00,120.00,-180.00,140.00,4,5
+2023-06-24 20:10:00,Cincinnati Reds,Atlanta Braves,1.5,-120.00,100.00,136.00,-162.00,6,7
+2023-06-24 20:10:00,Miami Marlins,Pittsburgh Pirates,-1.5,130.00,-150.00,-162.00,136.00,4,3
+2023-06-24 23:15:00,Detroit Tigers,Minnesota Twins,1.5,-120.00,100.00,138.00,-164.00,3,2
+2023-06-24 23:15:00,Los Angeles Dodgers,Houston Astros,-1.5,100.00,-120.00,-184.00,154.00,8,7
+2023-06-25 01:10:00,Colorado Rockies,Los Angeles Angels,1.5,100.00,-120.00,142.00,-168.00,1,25
+2023-06-25 00:40:00,San Diego Padres,Washington Nationals,-1.5,-110.00,-110.00,-190.00,160.00,0,2
+2023-06-25 17:35:00,Philadelphia Phillies,New York Mets,-1.5,115.00,-135.00,-168.00,142.00,7,6
+2023-06-25 17:40:00,Miami Marlins,Pittsburgh Pirates,-1.5,125.00,-145.00,-174.00,146.00,2,0
+2023-06-25 20:10:00,San Diego Padres,Washington Nationals,-1.5,100.00,-120.00,-200.00,168.00,3,8
+2023-06-26 23:10:00,New York Mets,Milwaukee Brewers,-1.5,105.00,-125.00,-190.00,160.00,1,2
+2023-06-26 23:20:00,Atlanta Braves,Minnesota Twins,-1.5,105.00,-125.00,-190.00,160.00,4,1
+2023-06-27 00:05:00,Texas Rangers,Detroit Tigers,-1.5,100.00,-120.00,-200.00,168.00,2,7
+2023-06-27 23:05:00,Pittsburgh Pirates,San Diego Padres,1.5,-110.00,-110.00,152.00,-180.00,9,4
+2023-06-28 01:38:00,Los Angeles Angels,Chicago White Sox,-1.5,-105.00,-115.00,-205.00,172.00,4,2
+2023-06-28 01:40:00,Seattle Mariners,Washington Nationals,-1.5,-105.00,-115.00,-240.00,198.00,4,7
+2023-06-27 23:06:05,Baltimore Orioles,Cincinnati Reds,-1.5,145.00,-170.00,-230.00,176.00,1,3
+2023-06-27 23:07:00,Toronto Blue Jays,San Francisco Giants,-1.5,120.00,-150.00,-215.00,166.00,0,3
+2023-06-27 23:11:59,Boston Red Sox,Miami Marlins,1.5,-170.00,145.00,190.00,-260.00,1,10
+2023-06-27 23:45:00,St. Louis Cardinals,Houston Astros,1.5,-150.00,130.00,152.00,-196.00,4,2
+2023-06-28 00:05:00,Texas Rangers,Detroit Tigers,-1.5,104.00,-127.00,-188.00,158.00,8,3
+2023-06-28 23:05:00,Baltimore Orioles,Cincinnati Reds,-1.5,115.00,-135.00,-178.00,150.00,7,11
+2023-06-29 00:05:00,Texas Rangers,Detroit Tigers,-1.5,-110.00,-110.00,-240.00,198.00,10,2
+2023-06-29 01:40:00,Oakland Athletics,New York Yankees,1.5,-140.00,120.00,138.00,-164.00,0,11
+2023-06-28 23:05:00,Pittsburgh Pirates,San Diego Padres,1.5,-125.00,105.00,-250.00,186.00,7,1
+2023-06-28 23:10:00,Boston Red Sox,Miami Marlins,1.5,-140.00,110.00,156.00,-205.00,2,6
+2023-06-28 23:45:00,St. Louis Cardinals,Houston Astros,1.5,-180.00,155.00,198.00,-260.00,7,10
+2023-06-29 00:40:00,Colorado Rockies,Los Angeles Dodgers,1.5,110.00,-130.00,168.00,-200.00,9,8
+2023-06-29 16:35:00,Pittsburgh Pirates,San Diego Padres,1.5,100.00,-120.00,166.00,-198.00,5,4
+2023-06-29 18:10:00,Kansas City Royals,Cleveland Guardians,1.5,-110.00,-110.00,140.00,-166.00,4,3
+2023-06-29 23:10:00,New York Mets,Milwaukee Brewers,-1.5,100.00,-120.00,-184.00,154.00,2,3
+2023-06-30 00:40:00,Colorado Rockies,Los Angeles Dodgers,1.5,110.00,-130.00,176.00,-210.00,3,14
+2023-06-29 23:07:00,Toronto Blue Jays,San Francisco Giants,-1.5,155.00,-190.00,-168.00,132.00,2,1
+2023-06-30 18:20:00,Chicago Cubs,Cleveland Guardians,-1.5,126.00,-152.00,-156.00,132.00,10,1
+2023-07-01 01:38:00,Los Angeles Angels,Arizona Diamondbacks,-1.5,135.00,-155.00,-158.00,134.00,2,6
+2023-06-30 22:05:00,Philadelphia Phillies,Washington Nationals,1.5,-210.00,170.00,150.00,-192.00,1,2
+2023-06-30 23:07:00,Toronto Blue Jays,Boston Red Sox,-1.5,140.00,-165.00,-182.00,142.00,0,5
+2023-06-30 23:10:00,New York Mets,San Francisco Giants,1.5,-155.00,135.00,-205.00,158.00,4,5
+2023-07-01 00:05:00,Texas Rangers,Houston Astros,-1.5,140.00,-165.00,-178.00,150.00,3,5
+2023-07-01 00:10:00,Kansas City Royals,Los Angeles Dodgers,1.5,130.00,-150.00,200.00,-245.00,3,9
+2023-07-01 01:40:00,Oakland Athletics,Chicago White Sox,1.5,-120.00,100.00,136.00,-162.00,7,4
+2023-07-01 19:07:00,Toronto Blue Jays,Boston Red Sox,-1.5,125.00,-145.00,-154.00,130.00,6,7
+2023-07-01 20:05:00,Philadelphia Phillies,Washington Nationals,-1.5,100.00,-120.00,-215.00,180.00,19,4
+2023-07-01 20:10:00,Atlanta Braves,Miami Marlins,-1.5,110.00,-130.00,-168.00,142.00,7,0
+2023-07-01 23:15:00,Seattle Mariners,Tampa Bay Rays,1.5,-180.00,155.00,-215.00,164.00,8,3
+2023-07-02 00:40:00,Kansas City Royals,Los Angeles Dodgers,1.5,130.00,-150.00,205.00,-250.00,6,4
+2023-07-02 17:35:00,Atlanta Braves,Miami Marlins,-1.5,105.00,-125.00,-184.00,154.00,6,3
+2023-07-02 17:35:00,Philadelphia Phillies,Washington Nationals,-1.5,-120.00,100.00,-250.00,205.00,4,5
+2023-07-02 17:37:00,Toronto Blue Jays,Boston Red Sox,-1.5,115.00,-135.00,-190.00,160.00,4,5
+2023-07-02 18:10:00,Kansas City Royals,Los Angeles Dodgers,1.5,105.00,-125.00,172.00,-205.00,9,1
+2023-07-03 23:10:00,Cleveland Guardians,Atlanta Braves,1.5,-130.00,110.00,138.00,-164.00,2,4
+2023-07-03 22:30:00,Washington Nationals,Cincinnati Reds,1.5,-140.00,120.00,210.00,-280.00,2,3
+2023-07-04 00:10:00,Minnesota Twins,Kansas City Royals,-1.5,120.00,-140.00,-235.00,194.00,8,4
+2023-07-04 01:40:00,San Diego Padres,Los Angeles Angels,-1.5,105.00,-125.00,-200.00,168.00,10,3
+2023-07-04 02:10:00,Los Angeles Dodgers,Pittsburgh Pirates,-1.5,117.00,-141.00,-168.00,142.00,5,2
+2023-07-04 17:10:00,Miami Marlins,St. Louis Cardinals,-1.5,135.00,-155.00,-154.00,130.00,15,2
+2023-07-04 18:10:00,Minnesota Twins,Kansas City Royals,-1.5,105.00,-125.00,-190.00,160.00,9,3
+2023-07-04 22:40:00,Detroit Tigers,Oakland Athletics,-1.5,120.00,-140.00,-174.00,146.00,0,1
+2023-07-05 18:10:00,Houston Astros,Colorado Rockies,-1.5,-110.00,-110.00,-235.00,194.00,6,4
+2023-07-05 22:40:00,Detroit Tigers,Oakland Athletics,-1.5,100.00,-120.00,-205.00,172.00,3,12
+2023-07-05 23:10:00,Cleveland Guardians,Atlanta Braves,1.5,-125.00,105.00,130.00,-154.00,1,8
+2023-07-05 23:40:00,Minnesota Twins,Kansas City Royals,-1.5,-120.00,100.00,-250.00,205.00,5,0
+2023-07-06 02:10:00,Los Angeles Dodgers,Pittsburgh Pirates,-1.5,-120.00,100.00,-240.00,198.00,6,4
+2023-07-05 22:40:00,Miami Marlins,St. Louis Cardinals,-1.5,135.00,-165.00,-182.00,144.00,10,9
+2023-07-05 23:05:00,Washington Nationals,Cincinnati Reds,1.5,-145.00,125.00,205.00,-280.00,2,9
+2023-07-05 23:10:00,Boston Red Sox,Texas Rangers,1.5,-180.00,155.00,-260.00,190.00,4,2
+2023-07-06 00:40:00,San Diego Padres,Los Angeles Angels,-1.5,125.00,-145.00,-178.00,150.00,5,3
+2023-07-06 01:05:00,San Francisco Giants,Seattle Mariners,-1.5,115.00,-135.00,-174.00,146.00,2,0
+2023-07-06 17:10:00,Detroit Tigers,Oakland Athletics,-1.5,140.00,-165.00,-164.00,138.00,9,0
+2023-07-07 00:30:00,Cleveland Guardians,Kansas City Royals,-1.5,110.00,-130.00,-200.00,168.00,6,1
+2023-07-07 02:10:00,Los Angeles Dodgers,Pittsburgh Pirates,-1.5,-120.00,100.00,-245.00,200.00,5,2
+2023-07-06 22:38:00,Tampa Bay Rays,Philadelphia Phillies,-1.5,190.00,-235.00,-174.00,136.00,1,3
+2023-07-06 22:40:00,Miami Marlins,St. Louis Cardinals,-1.5,155.00,-180.00,-200.00,156.00,0,3
+2023-07-06 23:05:00,New York Yankees,Baltimore Orioles,1.5,-150.00,130.00,188.00,-250.00,1,14
+2023-07-07 23:08:11,New York Yankees,Chicago Cubs,-1.5,125.00,-145.00,-164.00,138.00,0,3
+2023-07-08 00:10:00,Minnesota Twins,Baltimore Orioles,-1.5,130.00,-150.00,-154.00,130.00,1,3
+2023-07-07 22:39:41,Tampa Bay Rays,Atlanta Braves,-1.5,155.00,-180.00,192.00,-260.00,1,2
+2023-07-07 23:04:44,Washington Nationals,Texas Rangers,2.5,-145.00,115.00,184.00,-240.00,2,7
+2023-07-08 01:40:00,Arizona Diamondbacks,Pittsburgh Pirates,-1.5,105.00,-125.00,-225.00,188.00,7,3
+2023-07-08 02:10:00,Los Angeles Dodgers,Los Angeles Angels,-1.5,120.00,-140.00,-172.00,144.00,11,4
+2023-07-08 02:15:00,San Francisco Giants,Colorado Rockies,-1.5,125.00,-145.00,-174.00,146.00,2,5
+2023-07-08 17:05:00,New York Yankees,Chicago Cubs,-1.5,110.00,-130.00,-184.00,154.00,6,3
+2023-07-08 17:10:00,Detroit Tigers,Toronto Blue Jays,1.5,105.00,-125.00,176.00,-210.00,2,0
+2023-07-08 20:05:00,Washington Nationals,Texas Rangers,1.5,-105.00,-115.00,148.00,-176.00,8,3
+2023-07-08 20:10:00,Boston Red Sox,Oakland Athletics,-1.5,-110.00,-110.00,-225.00,188.00,10,3
+2023-07-08 21:10:00,Cleveland Guardians,Kansas City Royals,-1.5,120.00,-140.00,-178.00,150.00,10,6
+2023-07-09 02:10:00,San Diego Padres,New York Mets,-1.5,110.00,-130.00,-174.00,146.00,3,1
+2023-07-09 16:05:00,Washington Nationals,Texas Rangers,1.5,110.00,-130.00,172.00,-205.00,7,2
+2023-07-09 18:10:00,Minnesota Twins,Baltimore Orioles,-1.5,135.00,-155.00,-156.00,132.00,2,15
+2023-07-14 23:20:00,Atlanta Braves,Chicago White Sox,-1.5,-130.00,110.00,-255.00,210.00,9,0
+2023-07-15 00:05:00,Texas Rangers,Cleveland Guardians,-1.5,135.00,-155.00,-156.00,132.00,12,4
+2023-07-15 00:40:00,Colorado Rockies,New York Yankees,1.5,120.00,-140.00,176.00,-210.00,7,2
+2023-07-15 01:38:00,Los Angeles Angels,Houston Astros,-1.5,130.00,-150.00,-156.00,132.00,5,7
+2023-07-15 02:10:00,Seattle Mariners,Detroit Tigers,-1.5,115.00,-135.00,-198.00,166.00,4,5
+2023-07-15 00:15:00,St. Louis Cardinals,Washington Nationals,-1.5,110.00,-130.00,-198.00,166.00,5,7
+2023-07-15 01:40:00,Oakland Athletics,Minnesota Twins,1.5,102.00,-124.00,172.00,-205.00,4,5
+2023-07-15 19:07:00,Toronto Blue Jays,Arizona Diamondbacks,-1.5,140.00,-165.00,-154.00,130.00,5,2
+2023-07-15 20:05:00,Texas Rangers,Cleveland Guardians,-1.5,130.00,-150.00,-164.00,138.00,2,0
+2023-07-16 00:10:00,Colorado Rockies,New York Yankees,1.5,-120.00,100.00,132.00,-156.00,3,6
+2023-07-16 01:40:00,Seattle Mariners,Detroit Tigers,-1.5,100.00,-120.00,-225.00,188.00,0,6
+2023-07-15 23:05:00,Baltimore Orioles,Miami Marlins,1.5,-190.00,160.00,132.00,-168.00,6,5
+2023-07-15 23:15:00,Atlanta Braves,Chicago White Sox,-1.5,-150.00,130.00,154.00,-200.00,5,6
+2023-07-16 00:15:00,St. Louis Cardinals,Washington Nationals,-1.5,100.00,-120.00,-196.00,164.00,9,6
+2023-07-16 01:07:00,Los Angeles Angels,Houston Astros,1.5,-150.00,130.00,130.00,-154.00,13,12
+2023-07-16 17:35:00,Atlanta Braves,Chicago White Sox,-1.5,115.00,-135.00,-172.00,144.00,1,8
+2023-07-16 20:30:00,Philadelphia Phillies,San Diego Padres,-1.5,135.00,-155.00,-154.00,130.00,7,6
+2023-07-16 17:37:00,Toronto Blue Jays,Arizona Diamondbacks,-1.5,120.00,-140.00,-164.00,138.00,7,5
+2023-07-16 18:10:00,Kansas City Royals,Tampa Bay Rays,1.5,130.00,-150.00,205.00,-250.00,8,4
+2023-07-16 18:20:00,Chicago Cubs,Boston Red Sox,-1.5,140.00,-170.00,-158.00,134.00,5,11
+2023-07-16 19:10:00,Colorado Rockies,New York Yankees,1.5,125.00,-145.00,198.00,-240.00,8,7
+2023-07-16 20:07:00,Oakland Athletics,Minnesota Twins,1.5,-105.00,-115.00,176.00,-210.00,4,5
+2023-07-16 20:10:00,Seattle Mariners,Detroit Tigers,-1.5,105.00,-125.00,-210.00,176.00,2,0
+2023-07-16 23:10:00,Los Angeles Angels,Houston Astros,1.5,-135.00,115.00,132.00,-156.00,8,9
+2023-07-16 21:30:00,New York Mets,Los Angeles Dodgers,-1.5,155.00,-180.00,-168.00,132.00,2,1
+2023-07-17 23:11:28,Cincinnati Reds,San Francisco Giants,1.5,-115.00,-105.00,132.00,-156.00,2,4
+2023-07-18 01:40:00,Oakland Athletics,Boston Red Sox,1.5,-124.00,102.00,134.00,-158.00,0,7
+2023-07-18 22:40:00,Philadelphia Phillies,Milwaukee Brewers,-1.5,-110.00,-110.00,-198.00,166.00,4,3
+2023-07-18 23:20:00,Atlanta Braves,Arizona Diamondbacks,-1.5,-110.00,-110.00,-230.00,190.00,13,16
+2023-07-19 00:05:00,Chicago Cubs,Washington Nationals,-1.5,110.00,-132.00,-188.00,158.00,17,3
+2023-07-18 23:07:00,Toronto Blue Jays,San Diego Padres,1.5,-170.00,145.00,158.00,-205.00,1,9
+2023-07-18 23:45:00,St. Louis Cardinals,Miami Marlins,-1.5,-125.00,-105.00,-240.00,182.00,5,2
+2023-07-19 00:10:00,Kansas City Royals,Detroit Tigers,1.5,-135.00,115.00,146.00,-174.00,11,10
+2023-07-19 00:40:00,Colorado Rockies,Houston Astros,1.5,120.00,-140.00,184.00,-220.00,4,3
+2023-07-19 01:40:00,Oakland Athletics,Boston Red Sox,1.5,-104.00,-115.00,152.00,-180.00,3,0
+2023-07-19 17:05:00,Baltimore Orioles,Los Angeles Dodgers,1.5,-125.00,105.00,142.00,-168.00,8,5
+2023-07-19 23:10:00,New York Mets,Chicago White Sox,-1.5,-105.00,-115.00,-200.00,168.00,5,1
+2023-07-19 23:20:00,Atlanta Braves,Arizona Diamondbacks,-1.5,-120.00,100.00,-230.00,190.00,3,5
+2023-07-20 01:40:00,Seattle Mariners,Minnesota Twins,-1.5,135.00,-155.00,-166.00,140.00,3,6
+2023-07-19 22:40:00,Philadelphia Phillies,Milwaukee Brewers,1.5,-105.00,-125.00,172.00,-225.00,3,5
+2023-07-19 23:10:00,Cincinnati Reds,San Francisco Giants,1.5,-145.00,125.00,-235.00,180.00,3,2
+2023-07-20 00:05:00,Chicago Cubs,Washington Nationals,-1.5,125.00,-145.00,-162.00,136.00,8,3
+2023-07-20 16:20:00,Atlanta Braves,Arizona Diamondbacks,-1.5,100.00,-120.00,-188.00,158.00,7,5
+2023-07-20 22:39:58,Tampa Bay Rays,Baltimore Orioles,-1.5,120.00,-140.00,-184.00,154.00,3,4
+2023-07-21 01:40:00,Oakland Athletics,Houston Astros,1.5,-110.00,-110.00,158.00,-188.00,1,3
+2023-07-21 22:40:00,Tampa Bay Rays,Baltimore Orioles,-1.5,130.00,-150.00,-178.00,150.00,3,0
+2023-07-21 23:05:00,New York Yankees,Kansas City Royals,-1.5,-105.00,-115.00,-215.00,180.00,5,4
+2023-07-21 23:05:00,Washington Nationals,San Francisco Giants,1.5,-130.00,110.00,130.00,-154.00,5,3
+2023-07-22 00:10:00,Minnesota Twins,Chicago White Sox,-1.5,125.00,-145.00,-174.00,146.00,9,4
+2023-07-22 01:38:00,Los Angeles Angels,Pittsburgh Pirates,-1.5,115.00,-135.00,-188.00,158.00,8,5
+2023-07-21 23:10:00,Cincinnati Reds,Arizona Diamondbacks,-1.5,155.00,-180.00,-174.00,136.00,9,6
+2023-07-21 23:10:00,Cleveland Guardians,Philadelphia Phillies,1.5,-155.00,135.00,-200.00,154.00,6,5
+2023-07-22 01:40:00,Oakland Athletics,Houston Astros,1.5,120.00,-140.00,198.00,-240.00,4,6
+2023-07-22 17:05:00,New York Yankees,Kansas City Royals,-1.5,-110.00,-110.00,-220.00,184.00,5,2
+2023-07-22 20:10:00,Tampa Bay Rays,Baltimore Orioles,-1.5,110.00,-130.00,-168.00,142.00,5,6
+2023-07-22 23:05:00,Washington Nationals,San Francisco Giants,1.5,-110.00,-110.00,152.00,-180.00,10,1
+2023-07-23 01:07:00,Oakland Athletics,Houston Astros,1.5,105.00,-125.00,166.00,-198.00,4,1
+2023-07-23 01:07:00,Los Angeles Angels,Pittsburgh Pirates,-1.5,110.00,-130.00,-178.00,150.00,0,3
+2023-07-22 23:44:00,Minnesota Twins,Chicago White Sox,-1.5,140.00,-165.00,-174.00,136.00,3,2
+2023-07-23 17:35:00,New York Yankees,Kansas City Royals,-1.5,110.00,-130.00,-188.00,158.00,8,5
+2023-07-23 18:10:00,Milwaukee Brewers,Atlanta Braves,1.5,-105.00,-115.00,152.00,-180.00,2,4
+2023-07-23 18:10:00,Minnesota Twins,Chicago White Sox,-1.5,135.00,-155.00,-156.00,132.00,5,4
+2023-07-23 20:07:00,Oakland Athletics,Houston Astros,1.5,110.00,-130.00,194.00,-240.00,2,3
+2023-07-23 23:10:00,Boston Red Sox,New York Mets,-1.5,120.00,-150.00,-166.00,130.00,6,1
+2023-07-24 23:10:00,Cleveland Guardians,Kansas City Royals,-1.5,105.00,-125.00,-196.00,164.00,3,5
+2023-07-25 01:40:00,San Diego Padres,Pittsburgh Pirates,-1.5,-120.00,100.00,-245.00,200.00,4,8
+2023-07-24 23:05:14,Washington Nationals,Colorado Rockies,1.5,-120.00,-110.00,168.00,-215.00,6,10
+2023-07-25 01:40:00,Arizona Diamondbacks,St. Louis Cardinals,-1.5,125.00,-145.00,-162.00,136.00,6,10
+2023-07-25 22:40:00,Tampa Bay Rays,Miami Marlins,-1.5,110.00,-130.00,-210.00,176.00,4,1
+2023-07-25 23:10:00,Cleveland Guardians,Kansas City Royals,-1.5,115.00,-135.00,-215.00,180.00,5,1
+2023-07-26 00:10:00,Milwaukee Brewers,Cincinnati Reds,-1.5,135.00,-155.00,-162.00,136.00,3,4
+2023-07-26 02:10:00,Los Angeles Dodgers,Toronto Blue Jays,-1.5,120.00,-140.00,-168.00,142.00,8,7
+2023-07-25 22:40:00,Philadelphia Phillies,Baltimore Orioles,-1.5,150.00,-175.00,138.00,-176.00,4,3
+2023-07-25 22:40:00,Detroit Tigers,Los Angeles Angels,1.5,-200.00,170.00,200.00,-270.00,6,7
+2023-07-25 23:05:00,New York Yankees,New York Mets,1.5,-140.00,120.00,132.00,-168.00,3,9
+2023-07-26 16:10:00,Tampa Bay Rays,Miami Marlins,-1.5,150.00,-175.00,-166.00,140.00,1,7
+2023-07-26 20:10:00,San Diego Padres,Pittsburgh Pirates,-1.5,-105.00,-115.00,-198.00,166.00,2,3
+2023-07-26 23:05:00,New York Yankees,New York Mets,-1.5,130.00,-150.00,-164.00,138.00,3,1
+2023-07-26 23:10:00,Boston Red Sox,Atlanta Braves,1.5,-110.00,-110.00,136.00,-162.00,5,3
+2023-07-27 00:10:00,Houston Astros,Texas Rangers,-1.5,125.00,-145.00,-178.00,150.00,5,13
+2023-07-27 01:45:00,San Francisco Giants,Oakland Athletics,-1.5,-115.00,-105.00,-235.00,194.00,8,3
+2023-07-27 23:09:32,New York Mets,Washington Nationals,-1.5,100.00,-120.00,-196.00,164.00,2,1
+2023-07-28 23:05:00,Pittsburgh Pirates,Philadelphia Phillies,1.5,-125.00,105.00,136.00,-162.00,1,2
+2023-07-28 23:07:00,Toronto Blue Jays,Los Angeles Angels,-1.5,100.00,-120.00,-225.00,188.00,4,1
+2023-07-28 23:10:00,New York Mets,Washington Nationals,-1.5,115.00,-135.00,-178.00,150.00,5,1
+2023-07-28 23:50:00,Atlanta Braves,Milwaukee Brewers,-1.5,100.00,-120.00,-184.00,154.00,10,7
+2023-07-29 00:10:00,Kansas City Royals,Minnesota Twins,1.5,-115.00,-105.00,148.00,-176.00,8,5
+2023-07-29 01:40:00,San Diego Padres,Texas Rangers,-1.5,110.00,-130.00,-164.00,138.00,7,1
+2023-07-29 02:10:00,Los Angeles Dodgers,Cincinnati Reds,-1.5,-110.00,-110.00,-255.00,210.00,5,6
+2023-07-29 02:15:00,San Francisco Giants,Boston Red Sox,-1.5,140.00,-165.00,-156.00,132.00,2,3
+2023-07-28 23:10:00,Chicago White Sox,Cleveland Guardians,-1.5,105.00,-135.00,-220.00,170.00,3,0
+2023-07-29 00:15:00,St. Louis Cardinals,Chicago Cubs,-1.5,135.00,-155.00,-162.00,136.00,2,3
+2023-07-29 23:05:00,Pittsburgh Pirates,Philadelphia Phillies,1.5,-115.00,-105.00,138.00,-164.00,7,6
+2023-07-29 23:10:00,Kansas City Royals,Minnesota Twins,1.5,-105.00,-115.00,156.00,-186.00,10,7
+2023-07-30 00:10:00,New York Mets,Washington Nationals,-1.5,115.00,-135.00,-158.00,134.00,6,11
+2023-07-30 00:40:00,San Diego Padres,Texas Rangers,-1.5,115.00,-135.00,-180.00,152.00,4,0
+2023-07-30 01:10:00,Los Angeles Dodgers,Cincinnati Reds,-1.5,-110.00,-110.00,-230.00,190.00,3,2
+2023-07-29 23:10:00,Chicago White Sox,Cleveland Guardians,-1.5,135.00,-165.00,-190.00,146.00,7,2
+2023-07-29 23:15:00,San Francisco Giants,Boston Red Sox,-1.5,120.00,-150.00,-215.00,162.00,3,2
+2023-07-30 16:05:00,Toronto Blue Jays,Los Angeles Angels,-1.5,100.00,-120.00,-210.00,176.00,2,3
+2023-07-30 18:10:00,Chicago White Sox,Cleveland Guardians,1.5,-130.00,110.00,130.00,-154.00,0,5
+2023-07-30 18:10:00,Kansas City Royals,Minnesota Twins,1.5,-115.00,-105.00,144.00,-172.00,2,1
+2023-07-30 20:10:00,Los Angeles Dodgers,Cincinnati Reds,-1.5,110.00,-130.00,-190.00,160.00,0,9
+2023-07-31 23:05:00,Washington Nationals,Milwaukee Brewers,1.5,-105.00,-115.00,164.00,-196.00,5,3
+2023-07-31 23:20:00,Atlanta Braves,Los Angeles Angels,-1.5,-120.00,100.00,-250.00,205.00,1,4
+2023-07-31 23:07:00,Toronto Blue Jays,Baltimore Orioles,-1.5,140.00,-165.00,178.00,-230.00,2,4
+2023-08-01 00:10:00,Houston Astros,Cleveland Guardians,-1.5,110.00,-130.00,-184.00,154.00,7,3
+2023-08-01 01:30:00,Colorado Rockies,San Diego Padres,1.5,130.00,-150.00,184.00,-220.00,4,3
+2023-08-01 23:06:26,Washington Nationals,Milwaukee Brewers,1.5,-130.00,110.00,130.00,-154.00,4,6
+2023-08-02 00:05:00,Chicago Cubs,Cincinnati Reds,-1.5,126.00,-152.00,-168.00,142.00,20,9
+2023-08-02 00:10:00,Houston Astros,Cleveland Guardians,-1.5,100.00,-120.00,-190.00,160.00,2,0
+2023-08-02 00:10:00,Kansas City Royals,New York Mets,1.5,-125.00,105.00,130.00,-154.00,7,6
+2023-08-02 00:05:00,Texas Rangers,Chicago White Sox,-1.5,-108.00,-112.00,-200.00,168.00,2,0
+2023-08-02 00:40:00,Colorado Rockies,San Diego Padres,1.5,100.00,-120.00,150.00,-178.00,5,8
+2023-08-02 16:20:00,Atlanta Braves,Los Angeles Angels,-1.5,120.00,-142.00,-158.00,134.00,12,5
+2023-08-02 19:10:00,Colorado Rockies,San Diego Padres,1.5,124.00,-148.00,194.00,-240.00,1,11
+2023-08-03 00:05:00,Chicago Cubs,Cincinnati Reds,-1.5,125.00,-150.00,-156.00,132.00,16,6
+2023-08-03 00:10:00,Kansas City Royals,New York Mets,1.5,110.00,-130.00,164.00,-196.00,4,0
+2023-08-02 23:07:00,Toronto Blue Jays,Baltimore Orioles,-1.5,160.00,-192.00,-174.00,136.00,4,1
+2023-08-03 00:05:00,Texas Rangers,Chicago White Sox,-1.5,124.00,-148.00,-168.00,142.00,11,1
+2023-08-03 01:45:00,San Francisco Giants,Arizona Diamondbacks,-1.5,120.00,-142.00,-188.00,158.00,4,2
+2023-08-03 18:05:00,Texas Rangers,Chicago White Sox,-1.5,-115.00,-105.00,-250.00,205.00,5,3
+2023-08-03 19:07:00,Toronto Blue Jays,Baltimore Orioles,-1.5,140.00,-166.00,-158.00,134.00,1,6
+2023-08-03 23:45:00,St. Louis Cardinals,Minnesota Twins,1.5,-122.00,102.00,130.00,-154.00,3,5
+2023-08-04 00:05:00,Chicago Cubs,Cincinnati Reds,1.5,105.00,-125.00,-158.00,134.00,5,3
+2023-08-04 01:38:00,Los Angeles Angels,Seattle Mariners,-1.5,140.00,-166.00,-154.00,130.00,3,5
+2023-08-03 23:15:00,New York Yankees,Houston Astros,1.5,-180.00,150.00,-200.00,154.00,4,3
+2023-08-04 18:20:00,Chicago Cubs,Atlanta Braves,1.5,-114.00,-105.00,144.00,-172.00,0,8
+2023-08-04 22:40:00,Cincinnati Reds,Washington Nationals,-1.5,110.00,-130.00,-188.00,158.00,3,6
+2023-08-04 23:05:00,Philadelphia Phillies,Kansas City Royals,-1.5,-120.00,100.00,-250.00,205.00,5,7
+2023-08-04 23:10:00,Boston Red Sox,Toronto Blue Jays,-1.5,124.00,-148.00,-164.00,138.00,3,7
+2023-08-04 23:10:00,Cleveland Guardians,Chicago White Sox,-1.5,124.00,-148.00,-168.00,142.00,4,2
+2023-08-05 00:05:00,Texas Rangers,Miami Marlins,-1.5,130.00,-155.00,-156.00,132.00,6,2
+2023-08-05 00:10:00,Milwaukee Brewers,Pittsburgh Pirates,-1.5,120.00,-142.00,-174.00,146.00,4,8
+2023-08-05 00:15:00,St. Louis Cardinals,Colorado Rockies,-1.5,114.00,-135.00,-190.00,160.00,4,9
+2023-08-05 22:05:00,Philadelphia Phillies,Kansas City Royals,-1.5,-108.00,-112.00,-225.00,188.00,9,6
+2023-08-05 23:45:00,Minnesota Twins,Arizona Diamondbacks,-1.5,124.00,-148.00,-164.00,138.00,12,1
+2023-08-05 23:14:53,St. Louis Cardinals,Colorado Rockies,-1.5,-102.00,-118.00,-230.00,190.00,6,2
+2023-08-05 23:07:00,Oakland Athletics,San Francisco Giants,1.5,-115.00,-105.00,148.00,-190.00,2,1
+2023-08-06 00:40:00,San Diego Padres,Los Angeles Dodgers,-1.5,120.00,-142.00,-164.00,138.00,8,3
+2023-08-06 17:35:00,Baltimore Orioles,New York Mets,-1.5,130.00,-155.00,-158.00,134.00,2,0
+2023-08-06 17:35:00,Philadelphia Phillies,Kansas City Royals,-1.5,-110.00,-110.00,-225.00,188.00,8,4
+2023-08-06 17:40:00,Detroit Tigers,Tampa Bay Rays,1.5,-102.00,-118.00,158.00,-188.00,6,10
+2023-08-06 18:10:00,Minnesota Twins,Arizona Diamondbacks,1.5,-135.00,114.00,132.00,-156.00,5,3
+2023-08-06 18:10:00,Milwaukee Brewers,Pittsburgh Pirates,-1.5,105.00,-125.00,-196.00,164.00,1,4
+2023-08-06 20:07:00,Oakland Athletics,San Francisco Giants,1.5,-105.00,-115.00,164.00,-196.00,8,6
+2023-08-07 22:39:00,Detroit Tigers,Minnesota Twins,1.5,-120.00,100.00,140.00,-166.00,3,9
+2023-08-07 23:10:00,Boston Red Sox,Kansas City Royals,-1.5,-110.00,-110.00,-198.00,166.00,6,2
+2023-08-08 00:10:00,Chicago White Sox,New York Yankees,1.5,-125.00,105.00,144.00,-172.00,5,1
+2023-08-08 00:10:00,Milwaukee Brewers,Colorado Rockies,-1.5,-115.00,-105.00,-235.00,194.00,12,1
+2023-08-08 01:40:00,Oakland Athletics,Texas Rangers,1.5,105.00,-125.00,188.00,-225.00,3,5
+2023-08-08 22:39:00,Tampa Bay Rays,St. Louis Cardinals,-1.5,124.00,-148.00,-172.00,144.00,4,2
+2023-08-08 23:05:00,Pittsburgh Pirates,Atlanta Braves,1.5,-135.00,114.00,130.00,-154.00,6,8
+2023-08-08 23:10:00,Boston Red Sox,Kansas City Royals,-1.5,100.00,-120.00,-198.00,166.00,3,9
+2023-08-09 00:10:00,Chicago White Sox,New York Yankees,1.5,-130.00,110.00,130.00,-154.00,1,7
+2023-08-09 00:10:00,Milwaukee Brewers,Colorado Rockies,-1.5,-105.00,-115.00,-215.00,180.00,3,7
+2023-08-09 01:40:00,Arizona Diamondbacks,Los Angeles Dodgers,1.5,-115.00,-105.00,130.00,-154.00,4,5
+2023-08-09 01:40:00,Oakland Athletics,Texas Rangers,1.5,110.00,-130.00,200.00,-245.00,1,6
+2023-08-09 18:10:00,Milwaukee Brewers,Colorado Rockies,-1.5,-115.00,-105.00,-240.00,198.00,7,6
+2023-08-09 22:39:50,Detroit Tigers,Minnesota Twins,1.5,-118.00,-102.00,136.00,-162.00,9,5
+2023-08-09 22:40:00,Philadelphia Phillies,Washington Nationals,-1.5,105.00,-125.00,-190.00,160.00,7,0
+2023-08-09 23:09:00,New York Mets,Chicago Cubs,1.5,-175.00,145.00,178.00,-235.00,4,3
+2023-08-09 23:10:00,Boston Red Sox,Kansas City Royals,-1.5,135.00,-175.00,-205.00,158.00,4,3
+2023-08-09 23:10:00,Cleveland Guardians,Toronto Blue Jays,1.5,-135.00,114.00,168.00,-215.00,0,1
+2023-08-10 01:40:00,Seattle Mariners,San Diego Padres,1.5,-125.00,105.00,130.00,-154.00,6,1
+2023-08-10 16:35:00,Pittsburgh Pirates,Atlanta Braves,1.5,110.00,-130.00,176.00,-210.00,7,5
+2023-08-10 22:40:00,Tampa Bay Rays,St. Louis Cardinals,-1.5,120.00,-142.00,-180.00,152.00,2,5
+2023-08-10 22:40:00,Philadelphia Phillies,Washington Nationals,-1.5,-130.00,110.00,-235.00,180.00,6,2
+2023-08-10 23:10:00,Boston Red Sox,Kansas City Royals,-1.5,-142.00,120.00,-225.00,172.00,2,0
+2023-08-11 22:39:00,Tampa Bay Rays,Cleveland Guardians,-1.5,110.00,-130.00,-200.00,168.00,9,8
+2023-08-11 23:07:00,Toronto Blue Jays,Chicago Cubs,-1.5,120.00,-142.00,-162.00,136.00,2,6
+2023-08-11 23:09:00,New York Mets,Atlanta Braves,1.5,-112.00,-108.00,156.00,-186.00,0,7
+2023-08-12 00:10:00,Chicago White Sox,Milwaukee Brewers,1.5,-112.00,-108.00,148.00,-176.00,6,7
+2023-08-12 00:10:00,Houston Astros,Los Angeles Angels,-1.5,110.00,-130.00,-188.00,158.00,11,3
+2023-08-12 01:40:00,Arizona Diamondbacks,San Diego Padres,1.5,-120.00,100.00,142.00,-168.00,5,10
+2023-08-12 20:10:00,Boston Red Sox,Detroit Tigers,-1.5,-105.00,-115.00,-200.00,168.00,2,6
+2023-08-12 23:10:00,Kansas City Royals,St. Louis Cardinals,1.5,-108.00,-112.00,138.00,-164.00,4,5
+2023-08-12 23:15:00,Houston Astros,Los Angeles Angels,-1.5,100.00,-120.00,-205.00,172.00,11,3
+2023-08-13 01:40:00,Seattle Mariners,Baltimore Orioles,-1.5,124.00,-148.00,-158.00,134.00,0,1
+2023-08-12 23:15:00,New York Mets,Atlanta Braves,1.5,-140.00,110.00,130.00,-166.00,0,6
+2023-08-13 17:40:00,Tampa Bay Rays,Cleveland Guardians,-1.5,110.00,-130.00,-215.00,180.00,2,9
+2023-08-13 18:10:00,Houston Astros,Los Angeles Angels,-1.5,130.00,-155.00,-164.00,138.00,1,2
+2023-08-13 22:05:00,Pittsburgh Pirates,Cincinnati Reds,-1.5,190.00,-250.00,-200.00,154.00,5,6
+2023-08-14 22:40:32,Miami Marlins,Houston Astros,1.5,-135.00,114.00,130.00,-154.00,5,1
+2023-08-14 23:20:03,Atlanta Braves,New York Yankees,-1.5,100.00,-120.00,-220.00,184.00,11,3
+2023-08-14 23:47:03,St. Louis Cardinals,Oakland Athletics,-1.5,100.00,-120.00,-210.00,176.00,7,5
+2023-08-15 00:05:00,Texas Rangers,Los Angeles Angels,-1.5,120.00,-142.00,-174.00,146.00,12,0
+2023-08-14 23:10:00,New York Mets,Pittsburgh Pirates,-1.5,-105.00,-125.00,-240.00,182.00,7,2
+2023-08-15 00:40:00,Colorado Rockies,Arizona Diamondbacks,1.5,124.00,-148.00,188.00,-225.00,6,4
+2023-08-15 23:05:00,Washington Nationals,Boston Red Sox,1.5,-118.00,-102.00,138.00,-164.00,4,5
+2023-08-15 23:20:00,Atlanta Braves,New York Yankees,-1.5,-110.00,-110.00,-220.00,184.00,5,0
+2023-08-15 23:40:00,Minnesota Twins,Detroit Tigers,-1.5,110.00,-130.00,-196.00,164.00,5,3
+2023-08-16 00:05:00,Chicago Cubs,Chicago White Sox,-1.5,126.00,-152.00,-168.00,142.00,3,5
+2023-08-16 00:05:00,Texas Rangers,Los Angeles Angels,-1.5,120.00,-142.00,-180.00,152.00,7,3
+2023-08-16 00:10:00,Kansas City Royals,Seattle Mariners,1.5,-125.00,105.00,134.00,-158.00,8,10
+2023-08-16 02:10:00,Los Angeles Dodgers,Milwaukee Brewers,-1.5,100.00,-120.00,-200.00,168.00,6,2
+2023-08-16 00:40:00,Colorado Rockies,Arizona Diamondbacks,1.5,-115.00,-105.00,132.00,-156.00,5,8
+2023-08-16 17:10:00,Minnesota Twins,Detroit Tigers,-1.5,120.00,-142.00,-178.00,150.00,7,8
+2023-08-16 22:44:19,St. Louis Cardinals,Oakland Athletics,-1.5,114.00,-135.00,-184.00,154.00,0,8
+2023-08-16 23:04:40,Washington Nationals,Boston Red Sox,1.5,-120.00,100.00,142.00,-168.00,6,2
+2023-08-16 23:07:00,Toronto Blue Jays,Philadelphia Phillies,-1.5,130.00,-155.00,-164.00,138.00,4,9
+2023-08-17 00:40:00,San Diego Padres,Baltimore Orioles,-1.5,124.00,-148.00,-166.00,140.00,5,2
+2023-08-17 02:10:00,Los Angeles Dodgers,Milwaukee Brewers,-1.5,-105.00,-115.00,-240.00,198.00,7,1
+2023-08-17 00:05:00,Chicago Cubs,Chicago White Sox,-1.5,114.00,-135.00,-166.00,140.00,4,3
+2023-08-17 00:05:00,Texas Rangers,Los Angeles Angels,-1.5,114.00,-135.00,-180.00,152.00,0,2
+2023-08-17 00:10:00,Kansas City Royals,Seattle Mariners,1.5,105.00,-125.00,172.00,-205.00,5,6
+2023-08-17 20:05:00,Washington Nationals,Boston Red Sox,1.5,100.00,-120.00,166.00,-198.00,10,7
+2023-08-18 02:10:00,Los Angeles Dodgers,Milwaukee Brewers,-1.5,142.00,-170.00,-154.00,130.00,1,0
+2023-08-18 18:20:00,Chicago Cubs,Kansas City Royals,-1.5,110.00,-130.00,-196.00,164.00,3,4
+2023-08-18 23:05:00,Washington Nationals,Philadelphia Phillies,1.5,-102.00,-118.00,156.00,-186.00,8,7
+2023-08-18 23:20:00,Atlanta Braves,San Francisco Giants,-1.5,-105.00,-115.00,-215.00,180.00,4,0
+2023-08-19 00:10:00,Minnesota Twins,Pittsburgh Pirates,-1.5,100.00,-120.00,-235.00,194.00,5,1
+2023-08-19 01:40:00,San Diego Padres,Arizona Diamondbacks,-1.5,120.00,-142.00,-184.00,154.00,4,0
+2023-08-19 01:40:00,Oakland Athletics,Baltimore Orioles,1.5,-115.00,-105.00,154.00,-184.00,4,9
+2023-08-19 17:05:00,New York Yankees,Boston Red Sox,-1.5,128.00,-162.00,-178.00,150.00,1,8
+2023-08-19 18:20:00,Chicago Cubs,Kansas City Royals,-1.5,110.00,-130.00,-200.00,168.00,6,4
+2023-08-19 20:05:00,Washington Nationals,Philadelphia Phillies,1.5,-115.00,-105.00,148.00,-176.00,3,12
+2023-08-19 22:40:00,Cincinnati Reds,Toronto Blue Jays,1.5,-118.00,-102.00,130.00,-154.00,3,4
+2023-08-19 23:10:00,Cleveland Guardians,Detroit Tigers,-1.5,130.00,-155.00,-164.00,138.00,3,4
+2023-08-19 23:10:00,Houston Astros,Seattle Mariners,-1.5,130.00,-155.00,-162.00,136.00,3,10
+2023-08-19 23:10:00,Minnesota Twins,Pittsburgh Pirates,-1.5,120.00,-142.00,-178.00,150.00,4,7
+2023-08-19 23:15:00,St. Louis Cardinals,New York Mets,1.5,-185.00,154.00,144.00,-186.00,2,13
+2023-08-20 00:40:00,San Diego Padres,Arizona Diamondbacks,-1.5,114.00,-135.00,-190.00,160.00,1,8
+2023-08-20 01:07:00,Oakland Athletics,Baltimore Orioles,1.5,-105.00,-115.00,148.00,-176.00,2,7
+2023-08-20 01:10:00,Los Angeles Dodgers,Miami Marlins,-1.5,114.00,-135.00,-188.00,158.00,3,1
+2023-08-20 17:05:00,Houston Astros,Seattle Mariners,-1.5,120.00,-142.00,-184.00,154.00,6,7
+2023-08-20 18:20:00,Chicago Cubs,Kansas City Royals,-1.5,-115.00,-105.00,-240.00,198.00,4,3
+2023-08-20 18:35:00,Texas Rangers,Milwaukee Brewers,-1.5,105.00,-125.00,-178.00,150.00,2,6
+2023-08-20 19:10:00,Colorado Rockies,Chicago White Sox,1.5,-115.00,-105.00,136.00,-162.00,5,10
+2023-08-20 20:07:00,Oakland Athletics,Baltimore Orioles,1.5,-105.00,-115.00,160.00,-190.00,1,12
+2023-08-20 23:10:00,Washington Nationals,Philadelphia Phillies,1.5,110.00,-130.00,188.00,-225.00,4,3
+2023-08-22 00:10:00,Chicago White Sox,Seattle Mariners,1.5,-112.00,-108.00,144.00,-172.00,2,14
+2023-08-22 01:40:00,Arizona Diamondbacks,Texas Rangers,1.5,-148.00,124.00,138.00,-164.00,4,3
+2023-08-22 01:40:00,San Diego Padres,Miami Marlins,-1.5,102.00,-122.00,-200.00,168.00,6,2
+2023-08-22 23:05:00,New York Yankees,Washington Nationals,-1.5,110.00,-130.00,-196.00,164.00,1,2
+2023-08-22 23:10:00,Cleveland Guardians,Los Angeles Dodgers,1.5,110.00,-130.00,168.00,-200.00,8,3
+2023-08-22 23:20:00,Atlanta Braves,New York Mets,-1.5,-122.00,102.00,-235.00,194.00,3,2
+2023-08-23 00:10:00,Houston Astros,Boston Red Sox,-1.5,124.00,-148.00,-166.00,140.00,7,3
+2023-08-23 01:40:00,San Diego Padres,Miami Marlins,-1.5,114.00,-135.00,-188.00,158.00,0,3
+2023-08-22 22:40:00,Philadelphia Phillies,San Francisco Giants,-1.5,130.00,-155.00,-280.00,200.00,4,3
+2023-08-23 00:10:00,Chicago White Sox,Seattle Mariners,1.5,-125.00,105.00,130.00,-154.00,3,6
+2023-08-23 01:38:00,Los Angeles Angels,Cincinnati Reds,-1.5,136.00,-162.00,-156.00,132.00,3,4
+2023-08-23 18:10:00,Chicago White Sox,Seattle Mariners,1.5,100.00,-120.00,172.00,-205.00,5,4
+2023-08-24 01:38:00,Los Angeles Angels,Cincinnati Reds,-1.5,124.00,-148.00,-180.00,152.00,3,7
+2023-08-23 23:10:00,Cleveland Guardians,Los Angeles Dodgers,1.5,105.00,-125.00,180.00,-215.00,1,6
+2023-08-23 23:20:00,Atlanta Braves,New York Mets,-1.5,105.00,-125.00,-184.00,154.00,7,0
+2023-08-25 00:10:00,Chicago White Sox,Oakland Athletics,-1.5,124.00,-148.00,-158.00,134.00,5,8
+2023-08-25 01:40:00,Arizona Diamondbacks,Cincinnati Reds,-1.5,114.00,-135.00,-172.00,144.00,3,2
+2023-08-24 23:10:00,Minnesota Twins,Texas Rangers,-1.5,150.00,-180.00,152.00,-196.00,7,5
+2023-08-25 22:39:00,Detroit Tigers,Houston Astros,1.5,-110.00,-110.00,146.00,-174.00,4,1
+2023-08-25 22:40:00,Miami Marlins,Washington Nationals,-1.5,100.00,-120.00,-225.00,188.00,4,7
+2023-08-25 23:10:00,Chicago White Sox,Oakland Athletics,-1.5,100.00,-120.00,-210.00,176.00,4,12
+2023-08-26 01:40:00,Arizona Diamondbacks,Cincinnati Reds,-1.5,124.00,-148.00,-164.00,138.00,10,8
+2023-08-26 02:10:00,Seattle Mariners,Kansas City Royals,-1.5,105.00,-125.00,-200.00,168.00,7,5
+2023-08-25 22:39:55,Tampa Bay Rays,New York Yankees,-1.5,150.00,-180.00,194.00,-260.00,2,6
+2023-08-26 19:07:00,Toronto Blue Jays,Cleveland Guardians,-1.5,130.00,-155.00,-164.00,138.00,8,3
+2023-08-26 20:10:00,Seattle Mariners,Kansas City Royals,-1.5,-112.00,-108.00,-255.00,210.00,15,2
+2023-08-26 20:10:00,Miami Marlins,Washington Nationals,-1.5,102.00,-122.00,-200.00,168.00,2,3
+2023-08-26 20:10:00,Tampa Bay Rays,New York Yankees,-1.5,120.00,-142.00,-196.00,164.00,3,0
+2023-08-26 23:15:00,Philadelphia Phillies,St. Louis Cardinals,-1.5,100.00,-120.00,-196.00,164.00,12,1
+2023-08-26 23:15:00,Pittsburgh Pirates,Chicago Cubs,-1.5,145.00,-190.00,-182.00,142.00,6,10
+2023-08-26 23:15:00,Minnesota Twins,Texas Rangers,1.5,-180.00,150.00,160.00,-210.00,2,6
+2023-08-27 17:35:00,Philadelphia Phillies,St. Louis Cardinals,-1.5,100.00,-120.00,-198.00,166.00,3,0
+2023-08-27 17:37:00,Toronto Blue Jays,Cleveland Guardians,-1.5,102.00,-122.00,-220.00,184.00,7,10
+2023-08-27 17:40:00,Detroit Tigers,Houston Astros,1.5,-105.00,-115.00,148.00,-176.00,4,17
+2023-08-27 23:10:00,San Francisco Giants,Atlanta Braves,-1.5,-110.00,-120.00,-215.00,166.00,8,5
+2023-08-28 23:05:00,Baltimore Orioles,Chicago White Sox,-1.5,-110.00,-110.00,-225.00,188.00,9,0
+2023-08-28 23:07:00,Toronto Blue Jays,Washington Nationals,-1.5,-118.00,-102.00,-250.00,205.00,6,3
+2023-08-28 23:40:00,Minnesota Twins,Cleveland Guardians,-1.5,124.00,-148.00,-164.00,138.00,10,6
+2023-08-28 23:45:00,St. Louis Cardinals,San Diego Padres,1.5,-105.00,-115.00,146.00,-174.00,1,4
+2023-08-28 22:40:00,Detroit Tigers,New York Yankees,1.5,-175.00,145.00,205.00,-280.00,1,4
+2023-08-28 22:40:00,Philadelphia Phillies,Los Angeles Angels,-1.5,136.00,-162.00,-200.00,156.00,6,4
+2023-08-29 00:40:00,Colorado Rockies,Atlanta Braves,1.5,130.00,-155.00,200.00,-245.00,4,14
+2023-08-29 22:40:00,Philadelphia Phillies,Los Angeles Angels,-1.5,114.00,-135.00,-172.00,144.00,12,7
+2023-08-29 23:05:00,Baltimore Orioles,Chicago White Sox,-1.5,-110.00,-110.00,-235.00,194.00,9,3
+2023-08-29 23:07:00,Toronto Blue Jays,Washington Nationals,-1.5,102.00,-122.00,-205.00,172.00,4,5
+2023-08-29 23:40:00,Minnesota Twins,Cleveland Guardians,-1.5,120.00,-142.00,-180.00,152.00,2,4
+2023-08-30 00:40:00,Colorado Rockies,Atlanta Braves,1.5,136.00,-162.00,205.00,-250.00,1,3
+2023-08-30 01:45:00,San Francisco Giants,Cincinnati Reds,-1.5,120.00,-142.00,-180.00,152.00,6,1
+2023-08-30 02:10:00,Los Angeles Dodgers,Arizona Diamondbacks,-1.5,105.00,-125.00,-205.00,172.00,9,1
+2023-08-29 22:40:00,Miami Marlins,Tampa Bay Rays,-1.5,164.00,-198.00,-260.00,192.00,2,11
+2023-08-29 23:10:00,Boston Red Sox,Houston Astros,-1.5,160.00,-192.00,186.00,-240.00,2,6
+2023-08-29 23:45:00,St. Louis Cardinals,San Diego Padres,1.5,-142.00,120.00,150.00,-192.00,6,5
+2023-08-30 17:05:00,Baltimore Orioles,Chicago White Sox,-1.5,124.00,-148.00,-162.00,136.00,5,10
+2023-08-30 17:05:00,Philadelphia Phillies,Los Angeles Angels,-1.5,130.00,-155.00,-168.00,142.00,8,10
+2023-08-30 17:10:00,Minnesota Twins,Cleveland Guardians,-1.5,142.00,-170.00,-156.00,132.00,2,5
+2023-08-30 19:07:00,Toronto Blue Jays,Washington Nationals,-1.5,-110.00,-110.00,-235.00,194.00,7,0
+2023-08-30 19:45:00,San Francisco Giants,Cincinnati Reds,-1.5,130.00,-155.00,-172.00,144.00,1,4
+2023-08-31 00:40:00,Colorado Rockies,Atlanta Braves,1.5,145.00,-175.00,210.00,-255.00,3,7
+2023-08-31 02:10:00,Los Angeles Dodgers,Arizona Diamondbacks,-1.5,114.00,-135.00,-166.00,140.00,7,0
+2023-08-31 23:05:00,Washington Nationals,Miami Marlins,1.5,-118.00,-102.00,146.00,-174.00,1,6
+2023-09-01 23:05:00,Washington Nationals,Miami Marlins,1.5,-120.00,100.00,136.00,-162.00,5,8
+2023-09-01 23:10:00,Cleveland Guardians,Tampa Bay Rays,1.5,-120.00,100.00,152.00,-180.00,3,2
+2023-09-02 00:10:00,Kansas City Royals,Boston Red Sox,1.5,105.00,-125.00,168.00,-200.00,13,2
+2023-09-02 00:10:00,Houston Astros,New York Yankees,-1.5,-105.00,-115.00,-210.00,176.00,2,6
+2023-09-02 00:40:00,Colorado Rockies,Toronto Blue Jays,1.5,100.00,-120.00,158.00,-188.00,9,13
+2023-09-02 01:40:00,Oakland Athletics,Los Angeles Angels,1.5,-135.00,114.00,136.00,-162.00,9,2
+2023-09-01 23:10:00,New York Mets,Seattle Mariners,1.5,-166.00,140.00,-192.00,150.00,2,1
+2023-09-02 00:05:00,Texas Rangers,Minnesota Twins,-1.5,136.00,-162.00,-156.00,132.00,1,5
+2023-09-02 23:10:00,Houston Astros,New York Yankees,-1.5,100.00,-120.00,-190.00,160.00,4,5
+2023-09-02 23:15:00,Texas Rangers,Minnesota Twins,-1.5,100.00,-120.00,-200.00,168.00,7,9
+2023-09-03 00:10:00,Colorado Rockies,Toronto Blue Jays,1.5,100.00,-120.00,148.00,-176.00,8,7
+2023-09-03 00:40:00,San Diego Padres,San Francisco Giants,-1.5,120.00,-142.00,-166.00,140.00,6,1
+2023-09-02 22:10:00,Cleveland Guardians,Tampa Bay Rays,1.5,-162.00,136.00,174.00,-230.00,7,6
+2023-09-03 17:40:00,New York Mets,Seattle Mariners,1.5,-130.00,110.00,134.00,-158.00,6,3
+2023-09-03 23:10:00,Houston Astros,New York Yankees,-1.5,130.00,-155.00,-162.00,136.00,1,6
+2023-09-04 20:07:00,Oakland Athletics,Toronto Blue Jays,1.5,-102.00,-118.00,168.00,-200.00,5,6
+2023-09-04 20:10:00,Arizona Diamondbacks,Colorado Rockies,-1.5,-118.00,-102.00,-240.00,198.00,4,2
+2023-09-05 01:38:00,Los Angeles Angels,Baltimore Orioles,1.5,-110.00,-110.00,144.00,-172.00,3,6
+2023-09-05 22:39:58,Tampa Bay Rays,Boston Red Sox,-1.5,142.00,-170.00,-162.00,136.00,8,6
+2023-09-05 22:40:00,Cincinnati Reds,Seattle Mariners,1.5,-118.00,-102.00,152.00,-180.00,7,6
+2023-09-05 22:40:00,Miami Marlins,Los Angeles Dodgers,1.5,-142.00,120.00,134.00,-158.00,6,3
+2023-09-05 23:05:00,New York Yankees,Detroit Tigers,-1.5,-115.00,-105.00,-250.00,205.00,5,1
+2023-09-05 23:04:48,Washington Nationals,New York Mets,1.5,-135.00,114.00,130.00,-154.00,5,11
+2023-09-06 01:40:00,Arizona Diamondbacks,Colorado Rockies,-1.5,102.00,-122.00,-190.00,160.00,2,3
+2023-09-06 01:40:00,Oakland Athletics,Toronto Blue Jays,1.5,-110.00,-110.00,176.00,-210.00,1,7
+2023-09-05 23:20:00,Atlanta Braves,St. Louis Cardinals,2.5,-115.00,-115.00,200.00,-280.00,6,10
+2023-09-06 01:38:00,Los Angeles Angels,Baltimore Orioles,1.5,-148.00,124.00,156.00,-186.00,4,5
+2023-09-06 19:37:00,Oakland Athletics,Toronto Blue Jays,1.5,-118.00,-102.00,152.00,-180.00,5,2
+2023-09-06 19:40:00,Arizona Diamondbacks,Colorado Rockies,-1.5,105.00,-125.00,-200.00,168.00,12,5
+2023-09-06 23:05:00,New York Yankees,Detroit Tigers,-1.5,124.00,-148.00,-166.00,140.00,4,3
+2023-09-06 22:40:00,Miami Marlins,Los Angeles Dodgers,1.5,-160.00,124.00,156.00,-200.00,11,4
+2023-09-06 23:05:00,Washington Nationals,New York Mets,1.5,-115.00,-115.00,172.00,-225.00,3,2
+2023-09-06 23:20:00,Atlanta Braves,St. Louis Cardinals,-1.5,-130.00,110.00,162.00,-210.00,6,11
+2023-09-07 23:05:00,New York Yankees,Detroit Tigers,-1.5,120.00,-142.00,-164.00,138.00,3,10
+2023-09-07 22:40:00,Miami Marlins,Los Angeles Dodgers,1.5,-155.00,130.00,180.00,-235.00,0,10
+2023-09-07 22:40:00,Tampa Bay Rays,Seattle Mariners,1.5,-180.00,150.00,150.00,-192.00,0,1
+2023-09-08 23:05:00,Philadelphia Phillies,Miami Marlins,-1.5,136.00,-162.00,-156.00,132.00,2,3
+2023-09-09 02:15:00,San Francisco Giants,Colorado Rockies,-1.5,102.00,-122.00,-215.00,180.00,9,8
+2023-09-08 22:40:00,Tampa Bay Rays,Seattle Mariners,1.5,-185.00,154.00,162.00,-210.00,7,4
+2023-09-08 23:20:00,Atlanta Braves,Pittsburgh Pirates,-1.5,100.00,-120.00,-215.00,164.00,8,2
+2023-09-09 00:05:00,Texas Rangers,Oakland Athletics,-1.5,-120.00,100.00,-250.00,205.00,3,6
+2023-09-10 00:15:00,Washington Nationals,Los Angeles Dodgers,1.5,110.00,-130.00,194.00,-235.00,7,6
+2023-09-09 22:20:00,Philadelphia Phillies,Miami Marlins,-1.5,110.00,-130.00,-196.00,164.00,8,4
+2023-09-09 23:20:00,Atlanta Braves,Pittsburgh Pirates,-1.5,-135.00,114.00,-225.00,174.00,4,8
+2023-09-10 17:37:00,Toronto Blue Jays,Kansas City Royals,-1.5,110.00,-130.00,-180.00,152.00,5,2
+2023-09-10 18:10:00,Minnesota Twins,New York Mets,-1.5,110.00,-130.00,-200.00,168.00,0,2
+2023-09-10 18:35:00,Texas Rangers,Oakland Athletics,-1.5,-118.00,-102.00,-255.00,210.00,9,4
+2023-09-10 20:07:00,Los Angeles Angels,Cleveland Guardians,1.5,-115.00,-105.00,172.00,-205.00,2,1
+2023-09-11 00:10:00,San Francisco Giants,Colorado Rockies,-1.5,-105.00,-115.00,-215.00,180.00,6,3
+2023-09-11 22:35:00,Baltimore Orioles,St. Louis Cardinals,-1.5,124.00,-148.00,-162.00,136.00,11,5
+2023-09-12 01:40:00,Seattle Mariners,Los Angeles Angels,-1.5,105.00,-125.00,-225.00,188.00,5,8
+2023-09-11 23:07:00,Toronto Blue Jays,Texas Rangers,-1.5,136.00,-162.00,-182.00,144.00,4,10
+2023-09-11 23:40:00,Minnesota Twins,Tampa Bay Rays,1.5,-155.00,130.00,180.00,-235.00,4,7
+2023-09-12 00:40:00,Colorado Rockies,Chicago Cubs,1.5,102.00,-122.00,148.00,-176.00,4,5
+2023-09-12 02:10:00,Los Angeles Dodgers,San Diego Padres,-1.5,110.00,-130.00,-174.00,146.00,8,11
+2023-09-12 22:35:00,Baltimore Orioles,St. Louis Cardinals,-1.5,105.00,-125.00,-200.00,168.00,2,5
+2023-09-13 00:40:00,Colorado Rockies,Chicago Cubs,1.5,105.00,-125.00,160.00,-190.00,6,4
+2023-09-13 01:40:00,Seattle Mariners,Los Angeles Angels,-1.5,102.00,-122.00,-210.00,176.00,8,0
+2023-09-13 02:10:00,Los Angeles Dodgers,San Diego Padres,-1.5,124.00,-148.00,-162.00,136.00,11,2
+2023-09-12 22:40:00,Philadelphia Phillies,Atlanta Braves,1.5,-155.00,130.00,132.00,-168.00,6,7
+2023-09-13 01:45:00,San Francisco Giants,Cleveland Guardians,-1.5,150.00,-180.00,-180.00,152.00,1,3
+2023-09-13 19:10:00,Colorado Rockies,Chicago Cubs,1.5,-102.00,-118.00,142.00,-168.00,7,3
+2023-09-13 22:35:00,Baltimore Orioles,St. Louis Cardinals,-1.5,124.00,-148.00,-162.00,136.00,0,1
+2023-09-13 22:40:00,Philadelphia Phillies,Atlanta Braves,1.5,100.00,-120.00,152.00,-180.00,1,4
+2023-09-13 22:39:52,Detroit Tigers,Cincinnati Reds,-1.5,160.00,-192.00,138.00,-176.00,3,4
+2023-09-13 23:40:00,Chicago White Sox,Kansas City Royals,-1.5,114.00,-145.00,-174.00,138.00,1,7
+2023-09-14 16:35:00,Pittsburgh Pirates,Washington Nationals,-1.5,120.00,-142.00,-168.00,142.00,2,0
+2023-09-14 23:09:05,Toronto Blue Jays,Texas Rangers,-1.5,136.00,-162.00,-166.00,140.00,2,9
+2023-09-14 23:15:00,Boston Red Sox,New York Yankees,3.5,-110.00,-120.00,-260.00,194.00,5,8
+2023-09-14 23:16:32,Baltimore Orioles,Tampa Bay Rays,-1.5,145.00,-175.00,-186.00,144.00,3,4
+2023-09-14 23:40:35,Chicago White Sox,Minnesota Twins,1.5,-135.00,105.00,166.00,-215.00,2,10
+2023-09-15 22:35:00,Pittsburgh Pirates,New York Yankees,1.5,-125.00,105.00,144.00,-172.00,5,7
+2023-09-15 22:40:00,Miami Marlins,Atlanta Braves,1.5,100.00,-120.00,148.00,-176.00,9,6
+2023-09-16 00:10:00,Kansas City Royals,Houston Astros,1.5,100.00,-120.00,176.00,-210.00,4,2
+2023-09-16 00:10:00,Milwaukee Brewers,Washington Nationals,-1.5,114.00,-135.00,-200.00,168.00,5,3
+2023-09-16 01:40:00,Oakland Athletics,San Diego Padres,1.5,105.00,-125.00,172.00,-205.00,3,8
+2023-09-16 00:40:00,Colorado Rockies,San Francisco Giants,1.5,124.00,-148.00,194.00,-240.00,3,2
+2023-09-16 20:07:00,Oakland Athletics,San Diego Padres,1.5,-130.00,110.00,134.00,-158.00,2,5
+2023-09-16 23:10:02,Chicago White Sox,Minnesota Twins,1.5,114.00,-135.00,184.00,-220.00,7,6
+2023-09-16 23:46:52,Kansas City Royals,Houston Astros,1.5,-130.00,110.00,134.00,-158.00,10,8
+2023-09-16 22:10:48,Cleveland Guardians,Texas Rangers,1.5,-192.00,160.00,150.00,-192.00,2,1
+2023-09-16 22:35:00,Pittsburgh Pirates,New York Yankees,1.5,-140.00,110.00,160.00,-210.00,3,6
+2023-09-16 23:16:30,St. Louis Cardinals,Philadelphia Phillies,1.5,-170.00,142.00,205.00,-280.00,1,6
+2023-09-17 00:10:00,Colorado Rockies,San Francisco Giants,1.5,-108.00,-112.00,142.00,-168.00,5,2
+2023-09-17 18:10:00,Chicago White Sox,Minnesota Twins,1.5,-122.00,102.00,144.00,-172.00,0,4
+2023-09-17 19:10:00,Colorado Rockies,San Francisco Giants,1.5,-102.00,-118.00,144.00,-172.00,10,11
+2023-09-17 20:07:00,Oakland Athletics,San Diego Padres,1.5,-110.00,-110.00,130.00,-154.00,1,10
+2023-09-17 23:10:00,Arizona Diamondbacks,Chicago Cubs,1.5,-162.00,136.00,-270.00,200.00,6,2
+2023-09-18 23:45:00,St. Louis Cardinals,Milwaukee Brewers,1.5,-118.00,-102.00,140.00,-166.00,1,0
+2023-09-19 00:05:00,Texas Rangers,Boston Red Sox,-1.5,124.00,-148.00,-166.00,140.00,2,4
+2023-09-19 00:10:00,Houston Astros,Baltimore Orioles,-1.5,142.00,-170.00,-154.00,130.00,7,8
+2023-09-19 01:40:00,Oakland Athletics,Seattle Mariners,1.5,-122.00,102.00,144.00,-172.00,0,5
+2023-09-18 22:40:00,Miami Marlins,New York Mets,-1.5,130.00,-155.00,-230.00,176.00,1,2
+2023-09-18 23:19:53,Atlanta Braves,Philadelphia Phillies,-1.5,154.00,-185.00,192.00,-260.00,1,7
+2023-09-19 02:10:00,Los Angeles Dodgers,Detroit Tigers,-1.5,114.00,-135.00,-188.00,158.00,8,3
+2023-09-19 22:39:43,Tampa Bay Rays,Los Angeles Angels,-1.5,102.00,-122.00,-205.00,172.00,6,2
+2023-09-19 22:40:00,Miami Marlins,New York Mets,-1.5,130.00,-155.00,-156.00,132.00,4,3
+2023-09-19 23:20:00,Atlanta Braves,Philadelphia Phillies,-1.5,-110.00,-110.00,-215.00,180.00,9,3
+2023-09-20 01:40:00,Oakland Athletics,Seattle Mariners,1.5,-102.00,-118.00,172.00,-205.00,2,7
+2023-09-19 23:05:00,Washington Nationals,Chicago White Sox,1.5,-180.00,150.00,158.00,-205.00,4,3
+2023-09-20 00:05:00,Texas Rangers,Boston Red Sox,-1.5,140.00,-166.00,-156.00,132.00,6,4
+2023-09-20 00:10:00,Houston Astros,Baltimore Orioles,-1.5,160.00,-192.00,-184.00,154.00,5,9
+2023-09-20 00:20:00,Chicago Cubs,Pittsburgh Pirates,-1.5,120.00,-142.00,-164.00,138.00,14,1
+2023-09-20 02:10:00,Los Angeles Dodgers,Detroit Tigers,-1.5,-118.00,-102.00,-250.00,205.00,3,2
+2023-09-20 18:10:00,Kansas City Royals,Cleveland Guardians,1.5,-125.00,105.00,130.00,-154.00,6,2
+2023-09-21 02:10:00,Los Angeles Dodgers,Detroit Tigers,-1.5,-120.00,100.00,-250.00,205.00,2,4
+2023-09-20 23:05:00,New York Yankees,Toronto Blue Jays,1.5,-170.00,142.00,134.00,-172.00,1,6
+2023-09-20 23:39:50,Chicago Cubs,Pittsburgh Pirates,-1.5,110.00,-140.00,-200.00,154.00,7,13
+2023-09-21 23:15:00,Philadelphia Phillies,New York Mets,-1.5,114.00,-142.00,-174.00,146.00,5,4
+2023-09-21 23:40:00,Chicago Cubs,Pittsburgh Pirates,-1.5,130.00,-150.00,-166.00,140.00,6,8
+2023-09-22 01:40:00,Oakland Athletics,Detroit Tigers,1.5,-105.00,-115.00,158.00,-188.00,3,7
+2023-09-22 02:10:00,Los Angeles Dodgers,San Francisco Giants,-1.5,110.00,-130.00,-180.00,152.00,7,2
+2023-09-22 18:20:00,Chicago Cubs,Colorado Rockies,-1.5,110.00,-130.00,-200.00,168.00,6,0
+2023-09-22 22:40:00,Tampa Bay Rays,Toronto Blue Jays,-1.5,142.00,-170.00,-158.00,134.00,2,6
+2023-09-22 23:05:00,Philadelphia Phillies,New York Mets,-1.5,124.00,-148.00,-162.00,136.00,5,4
+2023-09-22 23:10:00,Boston Red Sox,Chicago White Sox,-1.5,-105.00,-115.00,-225.00,188.00,3,2
+2023-09-23 00:10:00,Houston Astros,Kansas City Royals,-1.5,-112.00,-108.00,-240.00,198.00,5,7
+2023-09-22 23:10:00,Cleveland Guardians,Baltimore Orioles,1.5,-175.00,145.00,-270.00,200.00,9,8
+2023-09-23 01:40:00,Oakland Athletics,Detroit Tigers,1.5,-155.00,130.00,136.00,-162.00,8,2
+2023-09-23 01:40:00,San Diego Padres,St. Louis Cardinals,-1.5,130.00,-155.00,-184.00,154.00,4,2
+2023-09-23 02:10:00,Los Angeles Dodgers,San Francisco Giants,-1.5,124.00,-148.00,-168.00,142.00,1,5
+2023-09-23 20:05:00,Philadelphia Phillies,New York Mets,-1.5,114.00,-135.00,-184.00,154.00,7,5
+2023-09-24 00:40:00,San Diego Padres,St. Louis Cardinals,-1.5,124.00,-148.00,-162.00,136.00,2,5
+2023-09-23 23:05:00,Texas Rangers,Seattle Mariners,-1.5,100.00,-130.00,-260.00,192.00,2,0
+2023-09-23 23:09:00,Houston Astros,Kansas City Royals,-1.5,100.00,-130.00,-235.00,180.00,2,3
+2023-09-24 01:10:00,Los Angeles Dodgers,San Francisco Giants,-1.5,100.00,-120.00,-205.00,172.00,7,0
+2023-09-24 22:05:00,Philadelphia Phillies,New York Mets,-1.5,114.00,-135.00,-180.00,152.00,5,2
+2023-09-24 20:10:00,San Diego Padres,St. Louis Cardinals,-1.5,-105.00,-115.00,-225.00,188.00,12,2
+2023-09-26 01:38:00,Los Angeles Angels,Texas Rangers,1.5,-108.00,-112.00,152.00,-180.00,1,5
+2023-09-26 23:40:00,Milwaukee Brewers,St. Louis Cardinals,-1.5,140.00,-166.00,-162.00,136.00,1,4
+2023-09-26 22:10:00,Cleveland Guardians,Cincinnati Reds,1.5,-185.00,154.00,-215.00,166.00,7,11
+2023-09-26 23:07:00,Toronto Blue Jays,New York Yankees,-1.5,160.00,-192.00,-235.00,180.00,0,2
+2023-09-26 23:20:00,Atlanta Braves,Chicago Cubs,-1.5,136.00,-162.00,142.00,-182.00,7,6
+2023-09-26 23:40:00,Minnesota Twins,Oakland Athletics,-1.5,100.00,-130.00,-235.00,180.00,11,3
+2023-09-27 00:40:00,Colorado Rockies,Los Angeles Dodgers,1.5,130.00,-150.00,194.00,-235.00,2,11
+2023-09-27 01:38:00,Los Angeles Angels,Texas Rangers,1.5,-115.00,-105.00,138.00,-164.00,9,3
+2023-09-27 22:35:00,Baltimore Orioles,Washington Nationals,-1.5,-105.00,-115.00,-250.00,205.00,5,1
+2023-09-28 01:38:00,Los Angeles Angels,Texas Rangers,1.5,-125.00,105.00,138.00,-164.00,0,5
+2023-09-28 00:40:00,Colorado Rockies,Los Angeles Dodgers,1.5,130.00,-155.00,184.00,-220.00,2,8
+2023-09-28 20:10:00,Milwaukee Brewers,St. Louis Cardinals,-1.5,105.00,-125.00,-198.00,166.00,3,0
+2023-09-28 23:07:00,Toronto Blue Jays,New York Yankees,-1.5,114.00,-135.00,-180.00,152.00,6,0
+2023-09-28 22:06:59,Philadelphia Phillies,Pittsburgh Pirates,1.5,110.00,-145.00,205.00,-280.00,2,3
+2023-09-29 00:40:00,Colorado Rockies,Los Angeles Dodgers,1.5,118.00,-143.00,188.00,-225.00,14,5
+2023-09-30 00:10:00,Colorado Rockies,Minnesota Twins,1.5,110.00,-130.00,156.00,-186.00,6,7
+2023-09-30 00:10:00,Kansas City Royals,New York Yankees,1.5,-122.00,102.00,130.00,-154.00,12,5
+2023-10-01 01:05:00,San Francisco Giants,Los Angeles Dodgers,1.5,-120.00,100.00,150.00,-178.00,2,1
+2023-09-30 22:35:00,Pittsburgh Pirates,Miami Marlins,1.5,100.00,-130.00,156.00,-200.00,3,7
+2023-09-30 23:10:00,Milwaukee Brewers,Chicago Cubs,1.5,-140.00,110.00,156.00,-200.00,6,10
+2023-09-30 23:10:00,Kansas City Royals,New York Yankees,-1.5,135.00,-175.00,-215.00,164.00,2,5
+2023-09-30 23:20:00,Atlanta Braves,Washington Nationals,-1.5,-155.00,130.00,142.00,-182.00,5,3
+2023-10-01 19:05:00,San Francisco Giants,Los Angeles Dodgers,1.5,-105.00,-115.00,136.00,-162.00,2,5
+2023-10-01 19:10:00,Kansas City Royals,New York Yankees,1.5,-120.00,100.00,148.00,-176.00,5,2
+2023-10-03 23:08:00,Milwaukee Brewers,Arizona Diamondbacks,-1.5,114.00,-135.00,-184.00,154.00,3,6
+2023-10-07 20:45:00,Houston Astros,Minnesota Twins,-1.5,140.00,-166.00,-156.00,132.00,6,4
+2023-10-07 22:07:00,Atlanta Braves,Philadelphia Phillies,-1.5,100.00,-120.00,-196.00,164.00,0,3
+2023-10-08 01:20:00,Los Angeles Dodgers,Arizona Diamondbacks,-1.5,100.00,-120.00,-196.00,164.00,2,11
+2023-10-09 22:07:00,Atlanta Braves,Philadelphia Phillies,-1.5,130.00,-155.00,-158.00,134.00,5,4
+2023-10-10 01:07:00,Los Angeles Dodgers,Arizona Diamondbacks,-1.5,136.00,-166.00,-158.00,134.00,2,4
+2023-10-17 00:07:00,Philadelphia Phillies,Arizona Diamondbacks,-1.5,130.00,-155.00,-162.00,136.00,5,3
+2023-10-18 00:07:00,Philadelphia Phillies,Arizona Diamondbacks,-1.5,130.00,-155.00,-166.00,140.00,10,0
+2023-10-19 21:07:00,Arizona Diamondbacks,Philadelphia Phillies,1.5,-142.00,120.00,-260.00,192.00,2,1
+2023-10-23 21:07:00,Philadelphia Phillies,Arizona Diamondbacks,-1.5,114.00,-135.00,-184.00,154.00,1,5
+2023-10-25 00:07:00,Philadelphia Phillies,Arizona Diamondbacks,-1.5,120.00,-142.00,-168.00,142.00,2,4
+2023-10-28 00:03:00,Texas Rangers,Arizona Diamondbacks,-1.5,124.00,-148.00,-162.00,136.00,6,5
+2023-10-29 00:03:00,Texas Rangers,Arizona Diamondbacks,-1.5,136.00,-162.00,-154.00,130.00,1,9
+2024-03-20 10:05:00,San Diego Padres,Los Angeles Dodgers,1.5,-105.00,-115.00,162.00,-194.00,2,5
+2024-03-21 10:05:00,Los Angeles Dodgers,San Diego Padres,-1.5,130.00,-155.00,-166.00,140.00,11,15
+2024-03-28 19:05:00,Baltimore Orioles,Los Angeles Angels,-1.5,118.00,-142.00,-162.00,136.00,11,3
+2024-03-28 20:10:00,Chicago White Sox,Detroit Tigers,1.5,-140.00,115.00,138.00,-164.00,0,1
+2024-03-28 20:10:00,Cincinnati Reds,Washington Nationals,-1.5,110.00,-135.00,-162.00,136.00,8,2
+2024-03-28 20:10:00,Houston Astros,New York Yankees,-1.5,128.00,-154.00,-156.00,132.00,4,5
+2024-03-29 02:07:00,Oakland Athletics,Cleveland Guardians,1.5,-128.00,106.00,132.00,-156.00,0,8
+2024-03-29 02:10:00,Arizona Diamondbacks,Colorado Rockies,-1.5,-105.00,-115.00,-245.00,200.00,16,1
+2024-03-29 02:10:00,Seattle Mariners,Boston Red Sox,-1.5,120.00,-144.00,-166.00,140.00,4,6
+2024-03-28 20:10:00,Los Angeles Dodgers,St. Louis Cardinals,-1.5,-114.00,-105.00,-210.00,176.00,7,1
+2024-03-30 01:40:00,Arizona Diamondbacks,Colorado Rockies,-1.5,-108.00,-112.00,-220.00,184.00,7,3
+2024-03-30 01:40:00,Seattle Mariners,Boston Red Sox,-1.5,136.00,-162.00,-166.00,140.00,1,0
+2024-03-30 02:10:00,Los Angeles Dodgers,St. Louis Cardinals,-1.5,-118.00,-102.00,-225.00,188.00,6,3
+2024-03-30 20:05:00,Baltimore Orioles,Los Angeles Angels,-1.5,120.00,-142.00,-164.00,138.00,13,4
+2024-03-30 20:10:00,Cincinnati Reds,Washington Nationals,-1.5,124.00,-148.00,-164.00,138.00,6,7
+2024-03-31 00:10:00,Arizona Diamondbacks,Colorado Rockies,-1.5,105.00,-125.00,-184.00,154.00,4,9
+2024-03-31 01:10:00,Los Angeles Dodgers,St. Louis Cardinals,-1.5,-105.00,-115.00,-200.00,168.00,5,6
+2024-03-31 01:40:00,Seattle Mariners,Boston Red Sox,-1.5,142.00,-170.00,-156.00,132.00,4,3
+2024-03-30 23:05:00,Texas Rangers,Chicago Cubs,-1.5,160.00,-192.00,-180.00,138.00,11,2
+2024-03-30 23:15:00,San Diego Padres,San Francisco Giants,-1.5,154.00,-185.00,186.00,-240.00,6,9
+2024-03-31 17:35:00,Baltimore Orioles,Los Angeles Angels,-1.5,124.00,-148.00,-154.00,130.00,1,4
+2024-03-31 17:40:00,Cincinnati Reds,Washington Nationals,-1.5,110.00,-130.00,-168.00,142.00,6,5
+2024-03-31 20:10:00,Arizona Diamondbacks,Colorado Rockies,-1.5,-102.00,-118.00,-200.00,168.00,5,1
+2024-03-31 20:10:00,Seattle Mariners,Boston Red Sox,-1.5,130.00,-155.00,-154.00,130.00,1,5
+2024-03-31 23:10:00,Los Angeles Dodgers,St. Louis Cardinals,-1.5,110.00,-130.00,-178.00,150.00,5,4
+2024-04-01 18:20:00,Chicago Cubs,Colorado Rockies,-1.5,116.00,-140.00,-198.00,166.00,5,0
+2024-04-01 22:40:32,Philadelphia Phillies,Cincinnati Reds,-1.5,124.00,-148.00,-158.00,134.00,3,6
+2024-04-02 02:10:00,Los Angeles Dodgers,San Francisco Giants,-1.5,-106.00,-113.00,-230.00,190.00,8,3
+2024-04-02 01:40:00,Oakland Athletics,Boston Red Sox,1.5,-148.00,124.00,130.00,-154.00,0,9
+2024-04-02 22:35:00,Baltimore Orioles,Kansas City Royals,-1.5,130.00,-155.00,-168.00,142.00,1,4
+2024-04-02 23:40:00,Chicago White Sox,Atlanta Braves,1.5,120.00,-142.00,184.00,-220.00,3,2
+2024-04-02 23:40:00,Chicago Cubs,Colorado Rockies,-1.5,125.00,-150.00,-196.00,164.00,12,2
+2024-04-03 00:10:00,Houston Astros,Toronto Blue Jays,-1.5,130.00,-155.00,-158.00,134.00,1,2
+2024-04-02 22:40:00,Philadelphia Phillies,Cincinnati Reds,-1.5,142.00,-170.00,-260.00,198.00,9,4
+2024-04-02 22:40:00,Miami Marlins,Los Angeles Angels,-1.5,142.00,-170.00,210.00,-290.00,1,3
+2024-04-03 22:05:06,Baltimore Orioles,Kansas City Royals,-1.5,138.00,-152.00,-158.00,134.00,4,3
+2024-04-04 00:00:00,Philadelphia Phillies,Cincinnati Reds,-1.5,124.00,-137.00,-180.00,152.00,1,4
+2024-04-03 20:10:00,Seattle Mariners,Cleveland Guardians,-1.5,138.00,-152.00,-162.00,136.00,0,8
+2024-04-03 22:45:00,Washington Nationals,Pittsburgh Pirates,1.5,-124.00,112.00,130.00,-154.00,5,3
+2024-04-04 02:10:00,Los Angeles Dodgers,San Francisco Giants,-1.5,-101.00,-111.00,-240.00,198.00,5,4
+2024-04-04 00:00:00,Chicago Cubs,Colorado Rockies,-1.5,105.00,-125.00,-215.00,180.00,9,8
+2024-04-04 00:10:00,Houston Astros,Toronto Blue Jays,-1.5,148.00,-163.00,-156.00,132.00,8,0
+2024-04-04 23:40:00,Kansas City Royals,Chicago White Sox,-1.5,130.00,-155.00,-162.00,136.00,10,1
+2024-04-05 17:05:00,New York Yankees,Toronto Blue Jays,-1.5,140.00,-160.00,-162.00,136.00,0,3
+2024-04-05 17:10:00,Detroit Tigers,Oakland Athletics,-1.5,-110.00,-110.00,-235.00,194.00,5,4
+2024-04-05 18:20:00,Chicago Cubs,Los Angeles Dodgers,1.5,-120.00,100.00,154.00,-184.00,9,7
+2024-04-05 20:10:00,Colorado Rockies,Tampa Bay Rays,1.5,-112.00,-108.00,148.00,-176.00,10,7
+2024-04-05 22:45:00,Washington Nationals,Philadelphia Phillies,1.5,-106.00,-106.00,152.00,-180.00,0,4
+2024-04-05 23:40:00,Kansas City Royals,Chicago White Sox,-1.5,119.00,-131.00,-174.00,146.00,2,1
+2024-04-05 22:40:00,Cincinnati Reds,New York Mets,-1.5,162.00,-178.00,-250.00,188.00,2,3
+2024-04-06 17:10:00,Detroit Tigers,Oakland Athletics,-1.5,118.00,-144.00,-168.00,142.00,0,4
+2024-04-06 18:10:00,Minnesota Twins,Cleveland Guardians,-1.5,126.00,-152.00,-158.00,134.00,1,3
+2024-04-06 20:05:00,Chicago Cubs,Los Angeles Dodgers,1.5,-110.00,-110.00,154.00,-184.00,1,4
+2024-04-06 23:10:00,Kansas City Royals,Chicago White Sox,-1.5,112.00,-134.00,-178.00,150.00,3,0
+2024-04-06 23:20:00,Atlanta Braves,Arizona Diamondbacks,-1.5,-102.00,-118.00,-200.00,168.00,9,8
+2024-04-06 23:05:00,Texas Rangers,Houston Astros,1.5,-164.00,136.00,-210.00,160.00,7,2
+2024-04-07 17:35:00,Atlanta Braves,Arizona Diamondbacks,-1.5,-102.00,-110.00,-215.00,180.00,5,2
+2024-04-07 17:35:00,Washington Nationals,Philadelphia Phillies,1.5,-118.00,106.00,134.00,-158.00,3,2
+2024-04-07 17:40:00,Detroit Tigers,Oakland Athletics,-1.5,126.00,-139.00,-174.00,146.00,1,7
+2024-04-07 19:10:00,Colorado Rockies,Tampa Bay Rays,1.5,-104.00,-108.00,130.00,-154.00,2,3
+2024-04-07 20:05:00,San Francisco Giants,San Diego Padres,-1.5,129.00,-142.00,-172.00,144.00,3,2
+2024-04-08 23:20:00,Atlanta Braves,New York Mets,-1.5,-115.00,-105.00,-210.00,176.00,7,8
+2024-04-09 00:40:00,Colorado Rockies,Arizona Diamondbacks,1.5,-102.00,-118.00,146.00,-174.00,7,5
+2024-04-09 01:45:00,San Francisco Giants,Washington Nationals,-1.5,-115.00,-105.00,-215.00,180.00,1,8
+2024-04-08 23:40:00,Minnesota Twins,Los Angeles Dodgers,1.5,-135.00,114.00,148.00,-190.00,2,4
+2024-04-09 22:10:00,Cleveland Guardians,Chicago White Sox,-1.5,105.00,-125.00,-196.00,164.00,5,7
+2024-04-09 23:05:00,New York Yankees,Miami Marlins,-1.5,114.00,-135.00,-190.00,160.00,3,2
+2024-04-09 23:20:00,Atlanta Braves,New York Mets,-1.5,105.00,-125.00,-188.00,158.00,6,5
+2024-04-09 23:40:00,Minnesota Twins,Los Angeles Dodgers,1.5,-120.00,100.00,156.00,-186.00,3,6
+2024-04-10 00:40:00,Colorado Rockies,Arizona Diamondbacks,1.5,105.00,-125.00,154.00,-184.00,2,3
+2024-04-10 01:45:00,San Francisco Giants,Washington Nationals,-1.5,130.00,-155.00,-174.00,146.00,3,5
+2024-04-09 22:40:00,Cincinnati Reds,Milwaukee Brewers,-1.5,130.00,-155.00,170.00,-220.00,5,9
+2024-04-09 23:40:00,Kansas City Royals,Houston Astros,1.5,-155.00,130.00,152.00,-196.00,4,3
+2024-04-10 00:05:00,Texas Rangers,Oakland Athletics,-1.5,105.00,-127.00,-215.00,180.00,3,4
+2024-04-10 17:10:00,Minnesota Twins,Los Angeles Dodgers,1.5,-110.00,-110.00,154.00,-184.00,3,2
+2024-04-10 19:45:00,San Francisco Giants,Washington Nationals,-1.5,102.00,-122.00,-200.00,168.00,7,1
+2024-04-10 23:05:00,New York Yankees,Miami Marlins,-1.5,102.00,-122.00,-200.00,168.00,2,5
+2024-04-11 00:05:00,Texas Rangers,Oakland Athletics,-1.5,108.00,-130.00,-184.00,154.00,6,2
+2024-04-10 23:10:00,Boston Red Sox,Baltimore Orioles,-1.5,130.00,-166.00,-200.00,154.00,5,7
+2024-04-11 16:20:00,Atlanta Braves,New York Mets,-1.5,110.00,-130.00,-162.00,136.00,4,16
+2024-04-11 18:35:00,Texas Rangers,Oakland Athletics,-1.5,110.00,-130.00,-188.00,158.00,0,1
+2024-04-11 22:40:00,Philadelphia Phillies,Pittsburgh Pirates,-1.5,140.00,-166.00,-156.00,132.00,5,1
+2024-04-12 22:40:00,Philadelphia Phillies,Pittsburgh Pirates,-1.5,130.00,-155.00,-168.00,142.00,2,5
+2024-04-12 23:07:00,Toronto Blue Jays,Colorado Rockies,-1.5,-110.00,-110.00,-220.00,184.00,4,12
+2024-04-12 23:10:00,Miami Marlins,Atlanta Braves,1.5,-110.00,-110.00,168.00,-200.00,1,8
+2024-04-12 23:40:00,Chicago White Sox,Cincinnati Reds,1.5,-110.00,-110.00,152.00,-180.00,1,11
+2024-04-13 02:10:00,Los Angeles Dodgers,San Diego Padres,-1.5,110.00,-130.00,-200.00,168.00,7,8
+2024-04-12 22:50:00,Tampa Bay Rays,San Francisco Giants,-1.5,140.00,-180.00,-230.00,176.00,2,1
+2024-04-12 23:45:00,Detroit Tigers,Minnesota Twins,-1.5,180.00,-218.00,-240.00,184.00,8,2
+2024-04-13 17:40:00,New York Mets,Kansas City Royals,-1.5,124.00,-148.00,-158.00,134.00,7,11
+2024-04-13 19:07:00,Toronto Blue Jays,Colorado Rockies,-1.5,110.00,-130.00,-190.00,160.00,5,3
+2024-04-13 20:10:00,Miami Marlins,Atlanta Braves,1.5,-102.00,-118.00,166.00,-198.00,5,1
+2024-04-14 01:10:00,Los Angeles Dodgers,San Diego Padres,-1.5,100.00,-120.00,-196.00,164.00,5,2
+2024-04-14 17:35:00,Baltimore Orioles,Milwaukee Brewers,-1.5,114.00,-135.00,-190.00,160.00,6,4
+2024-04-14 17:35:00,Philadelphia Phillies,Pittsburgh Pirates,-1.5,114.00,-135.00,-178.00,150.00,2,9
+2024-04-14 17:37:00,Toronto Blue Jays,Colorado Rockies,-1.5,-112.00,-108.00,-240.00,198.00,5,0
+2024-04-14 18:10:00,Chicago White Sox,Cincinnati Reds,1.5,-118.00,-102.00,148.00,-176.00,4,11
+2024-04-14 23:45:00,Los Angeles Dodgers,San Diego Padres,-1.5,130.00,-155.00,-172.00,144.00,3,6
+2024-04-15 22:49:59,Tampa Bay Rays,Los Angeles Angels,-1.5,136.00,-162.00,-162.00,136.00,3,7
+2024-04-16 01:40:00,Oakland Athletics,St. Louis Cardinals,1.5,-118.00,-102.00,142.00,-168.00,1,3
+2024-04-16 01:42:00,Seattle Mariners,Cincinnati Reds,-1.5,142.00,-170.00,-158.00,134.00,9,3
+2024-04-15 22:40:00,Philadelphia Phillies,Colorado Rockies,-1.5,-122.00,102.00,-270.00,200.00,2,1
+2024-04-15 23:07:00,Toronto Blue Jays,New York Yankees,1.5,-185.00,154.00,-186.00,146.00,3,1
+2024-04-15 23:41:04,Chicago White Sox,Kansas City Royals,1.5,-130.00,100.00,140.00,-180.00,0,2
+2024-04-16 01:40:00,Arizona Diamondbacks,Chicago Cubs,-1.5,142.00,-170.00,-158.00,134.00,2,3
+2024-04-16 22:35:00,Baltimore Orioles,Minnesota Twins,-1.5,130.00,-155.00,-166.00,140.00,11,3
+2024-04-16 22:40:00,Philadelphia Phillies,Colorado Rockies,-1.5,-112.00,-108.00,-250.00,205.00,5,0
+2024-04-16 22:50:00,Tampa Bay Rays,Los Angeles Angels,-1.5,140.00,-166.00,-162.00,136.00,7,6
+2024-04-17 01:40:00,Oakland Athletics,St. Louis Cardinals,1.5,-142.00,120.00,130.00,-154.00,2,3
+2024-04-16 23:10:00,Boston Red Sox,Cleveland Guardians,1.5,-180.00,150.00,178.00,-235.00,7,10
+2024-04-17 22:05:00,Philadelphia Phillies,Colorado Rockies,-1.5,-101.00,-111.00,-225.00,188.00,7,6
+2024-04-17 22:50:00,Tampa Bay Rays,Los Angeles Angels,-1.5,170.00,-205.00,-190.00,148.00,4,5
+2024-04-17 23:10:00,Boston Red Sox,Cleveland Guardians,-1.5,136.00,-162.00,-240.00,184.00,2,0
+2024-04-19 01:45:00,San Francisco Giants,Arizona Diamondbacks,-1.5,130.00,-155.00,-180.00,152.00,5,0
+2024-04-19 22:40:00,Philadelphia Phillies,Chicago White Sox,-1.5,130.00,-155.00,-174.00,146.00,7,0
+2024-04-19 22:45:00,Washington Nationals,Houston Astros,1.5,-115.00,-105.00,148.00,-176.00,3,5
+2024-04-19 23:10:00,Cleveland Guardians,Oakland Athletics,-1.5,118.00,-142.00,-178.00,150.00,10,2
+2024-04-19 23:20:00,Atlanta Braves,Texas Rangers,-1.5,102.00,-122.00,-188.00,158.00,8,3
+2024-04-20 02:10:00,Los Angeles Dodgers,New York Mets,-1.5,105.00,-125.00,-200.00,168.00,4,9
+2024-04-19 23:09:49,New York Yankees,Tampa Bay Rays,-1.5,100.00,-133.00,-210.00,160.00,5,3
+2024-04-20 20:05:00,Washington Nationals,Houston Astros,1.5,-105.00,-114.00,158.00,-188.00,5,4
+2024-04-20 22:10:00,Cleveland Guardians,Oakland Athletics,-1.5,134.00,-162.00,-162.00,136.00,6,3
+2024-04-20 23:20:00,Atlanta Braves,Texas Rangers,-1.5,132.00,-160.00,-154.00,130.00,5,2
+2024-04-21 00:10:00,Colorado Rockies,Seattle Mariners,1.5,-102.00,-118.00,154.00,-184.00,0,7
+2024-04-21 17:35:00,Washington Nationals,Houston Astros,1.5,-105.00,-115.00,164.00,-196.00,6,0
+2024-04-21 17:40:00,Cleveland Guardians,Oakland Athletics,-1.5,120.00,-142.00,-184.00,154.00,6,2
+2024-04-21 18:15:00,St. Louis Cardinals,Milwaukee Brewers,-1.5,130.00,-155.00,-162.00,136.00,0,2
+2024-04-22 00:10:00,Colorado Rockies,Seattle Mariners,1.5,102.00,-122.00,164.00,-196.00,2,10
+2024-04-21 23:10:00,Atlanta Braves,Texas Rangers,-1.5,126.00,-146.00,-154.00,130.00,4,6
+2024-04-22 17:05:00,New York Yankees,Oakland Athletics,-1.5,-108.00,-112.00,-255.00,210.00,0,2
+2024-04-22 23:40:00,Minnesota Twins,Chicago White Sox,-1.5,120.00,-142.00,-178.00,150.00,7,0
+2024-04-23 00:40:00,Colorado Rockies,San Diego Padres,1.5,-102.00,-118.00,172.00,-205.00,1,3
+2024-04-22 23:20:00,Atlanta Braves,Miami Marlins,-1.5,-115.00,-115.00,-240.00,186.00,3,0
+2024-04-23 22:45:11,Washington Nationals,Los Angeles Dodgers,1.5,115.00,-138.00,184.00,-220.00,1,4
+2024-04-23 23:07:19,New York Yankees,Oakland Athletics,-1.5,102.00,-122.00,-220.00,184.00,4,3
+2024-04-23 23:19:50,Atlanta Braves,Miami Marlins,-1.5,-115.00,-102.00,-235.00,194.00,5,0
+2024-04-24 00:40:00,Colorado Rockies,San Diego Padres,1.5,-115.00,-104.00,138.00,-164.00,7,4
+2024-04-24 01:45:00,San Francisco Giants,New York Mets,-1.5,130.00,-156.00,-162.00,136.00,5,1
+2024-04-23 22:40:00,Pittsburgh Pirates,Milwaukee Brewers,-1.5,124.00,-160.00,-280.00,205.00,2,1
+2024-04-23 23:40:16,Chicago Cubs,Houston Astros,-1.5,-130.00,100.00,-280.00,205.00,7,2
+2024-04-23 23:44:51,St. Louis Cardinals,Arizona Diamondbacks,-1.5,145.00,-180.00,-230.00,178.00,1,14
+2024-04-24 01:38:00,Los Angeles Angels,Baltimore Orioles,1.5,-130.00,108.00,132.00,-156.00,7,4
+2024-04-24 22:45:00,Washington Nationals,Los Angeles Dodgers,1.5,100.00,-120.00,160.00,-190.00,2,11
+2024-04-24 23:05:00,New York Yankees,Oakland Athletics,-1.5,-102.00,-118.00,-225.00,188.00,7,3
+2024-04-24 23:40:00,Minnesota Twins,Chicago White Sox,-1.5,126.00,-152.00,-200.00,168.00,6,3
+2024-04-24 22:40:00,Cincinnati Reds,Philadelphia Phillies,1.5,-192.00,158.00,142.00,-182.00,7,4
+2024-04-24 23:39:44,Chicago Cubs,Houston Astros,1.5,-215.00,176.00,-210.00,160.00,4,3
+2024-04-24 23:40:00,Kansas City Royals,Toronto Blue Jays,1.5,-176.00,146.00,-186.00,144.00,3,2
+2024-04-25 00:40:00,Colorado Rockies,San Diego Padres,1.5,-120.00,100.00,132.00,-156.00,2,5
+2024-04-25 17:10:00,Minnesota Twins,Chicago White Sox,-1.5,-104.00,-115.00,-240.00,198.00,6,3
+2024-04-25 17:10:00,Cincinnati Reds,Philadelphia Phillies,1.5,-125.00,105.00,130.00,-154.00,0,5
+2024-04-25 20:05:00,Washington Nationals,Los Angeles Dodgers,1.5,-105.00,-115.00,176.00,-210.00,1,2
+2024-04-25 23:05:00,New York Yankees,Oakland Athletics,-1.5,-115.00,-105.00,-250.00,205.00,1,3
+2024-04-26 23:10:00,Miami Marlins,Washington Nationals,-1.5,125.00,-150.00,-172.00,144.00,1,3
+2024-04-26 23:20:00,Atlanta Braves,Cleveland Guardians,-1.5,105.00,-125.00,-210.00,176.00,6,2
+2024-04-26 23:40:00,Chicago White Sox,Tampa Bay Rays,1.5,110.00,-130.00,205.00,-250.00,9,4
+2024-04-27 00:05:00,Texas Rangers,Cincinnati Reds,-1.5,124.00,-148.00,-162.00,136.00,2,1
+2024-04-26 23:05:00,Baltimore Orioles,Oakland Athletics,-1.5,-122.00,102.00,-250.00,188.00,2,3
+2024-04-27 19:07:00,Toronto Blue Jays,Los Angeles Dodgers,1.5,-130.00,110.00,138.00,-164.00,2,4
+2024-04-27 20:05:00,Baltimore Orioles,Oakland Athletics,-1.5,120.00,-142.00,-174.00,146.00,7,0
+2024-04-27 22:26:59,Colorado Rockies,Houston Astros,1.5,130.00,-155.00,184.00,-220.00,4,12
+2024-04-27 23:10:00,Chicago White Sox,Tampa Bay Rays,1.5,110.00,-130.00,198.00,-240.00,8,7
+2024-04-27 23:20:00,Atlanta Braves,Cleveland Guardians,-1.5,110.00,-130.00,-184.00,154.00,2,4
+2024-04-28 01:40:00,Seattle Mariners,Arizona Diamondbacks,-1.5,136.00,-162.00,-162.00,136.00,3,1
+2024-04-28 17:35:00,Atlanta Braves,Cleveland Guardians,-1.5,114.00,-135.00,-178.00,150.00,4,3
+2024-04-28 17:35:00,Baltimore Orioles,Oakland Athletics,-1.5,114.00,-135.00,-168.00,142.00,6,7
+2024-04-28 17:40:00,Detroit Tigers,Kansas City Royals,-1.5,142.00,-170.00,-154.00,130.00,4,1
+2024-04-28 18:10:00,Chicago White Sox,Tampa Bay Rays,1.5,-105.00,-115.00,158.00,-188.00,4,2
+2024-04-29 22:40:00,Miami Marlins,Washington Nationals,-1.5,136.00,-162.00,-154.00,130.00,2,7
+2024-04-29 23:40:00,Chicago White Sox,Minnesota Twins,1.5,-125.00,105.00,136.00,-162.00,2,3
+2024-04-30 01:40:00,Seattle Mariners,Atlanta Braves,1.5,-142.00,120.00,132.00,-156.00,2,1
+2024-04-30 23:40:00,Chicago White Sox,Minnesota Twins,1.5,-118.00,-102.00,140.00,-166.00,5,6
+2024-05-01 00:10:00,Houston Astros,Cleveland Guardians,-1.5,140.00,-166.00,-154.00,130.00,10,9
+2024-05-01 00:05:00,Texas Rangers,Washington Nationals,-1.5,123.00,-150.00,-158.00,134.00,7,1
+2024-05-01 01:38:00,Los Angeles Angels,Philadelphia Phillies,1.5,-135.00,114.00,136.00,-162.00,5,7
+2024-05-01 01:40:00,San Diego Padres,Cincinnati Reds,-1.5,130.00,-155.00,-168.00,142.00,6,4
+2024-05-01 18:10:00,Chicago White Sox,Minnesota Twins,1.5,100.00,-120.00,172.00,-205.00,5,10
+2024-05-01 19:40:00,Seattle Mariners,Atlanta Braves,1.5,-125.00,105.00,138.00,-164.00,2,5
+2024-05-01 20:07:00,Los Angeles Angels,Philadelphia Phillies,1.5,-120.00,100.00,152.00,-180.00,1,2
+2024-05-01 22:35:00,Baltimore Orioles,New York Yankees,-1.5,130.00,-155.00,-156.00,132.00,0,2
+2024-05-02 00:05:00,Texas Rangers,Washington Nationals,-1.5,136.00,-162.00,-168.00,142.00,0,1
+2024-05-02 00:10:00,Houston Astros,Cleveland Guardians,-1.5,124.00,-148.00,-172.00,144.00,2,3
+2024-05-02 16:10:00,Miami Marlins,Colorado Rockies,-1.5,124.00,-148.00,-184.00,154.00,5,4
+2024-05-02 18:35:00,Texas Rangers,Washington Nationals,-1.5,105.00,-125.00,-210.00,176.00,6,0
+2024-05-03 22:40:00,Pittsburgh Pirates,Colorado Rockies,-1.5,114.00,-135.00,-180.00,152.00,2,3
+2024-05-03 22:45:00,Washington Nationals,Toronto Blue Jays,1.5,-110.00,-110.00,142.00,-168.00,9,3
+2024-05-03 23:05:00,New York Yankees,Detroit Tigers,-1.5,130.00,-155.00,-168.00,142.00,2,1
+2024-05-03 23:11:22,Cleveland Guardians,Los Angeles Angels,-1.5,117.00,-159.00,-200.00,154.00,0,6
+2024-05-04 17:05:00,New York Yankees,Detroit Tigers,-1.5,130.00,-155.00,-168.00,142.00,5,3
+2024-05-04 18:16:58,St. Louis Cardinals,Chicago White Sox,-1.5,120.00,-142.00,-196.00,164.00,5,6
+2024-05-04 20:05:00,Pittsburgh Pirates,Colorado Rockies,-1.5,110.00,-130.00,-205.00,172.00,1,0
+2024-05-04 20:05:00,Washington Nationals,Toronto Blue Jays,1.5,-111.00,-108.00,152.00,-180.00,3,6
+2024-05-04 23:15:00,Philadelphia Phillies,San Francisco Giants,-1.5,128.00,-154.00,-162.00,136.00,14,3
+2024-05-05 01:10:00,Los Angeles Dodgers,Atlanta Braves,-1.5,120.00,-142.00,-166.00,140.00,11,2
+2024-05-05 17:35:00,Pittsburgh Pirates,Colorado Rockies,-1.5,140.00,-166.00,-158.00,134.00,5,3
+2024-05-05 18:10:00,Minnesota Twins,Boston Red Sox,-1.5,124.00,-148.00,-162.00,136.00,2,9
+2024-05-05 23:10:00,Philadelphia Phillies,San Francisco Giants,1.5,-175.00,145.00,-166.00,130.00,5,4
+2024-05-07 22:45:00,Washington Nationals,Baltimore Orioles,1.5,-102.00,-118.00,190.00,-230.00,3,0
+2024-05-07 22:49:34,Tampa Bay Rays,Chicago White Sox,-1.5,-116.00,-109.00,-250.00,205.00,5,1
+2024-05-07 23:20:59,Atlanta Braves,Boston Red Sox,-1.5,120.00,-142.00,-166.00,140.00,4,2
+2024-05-08 00:40:00,Colorado Rockies,San Francisco Giants,1.5,-118.00,-102.00,144.00,-172.00,0,5
+2024-05-07 22:10:48,Cleveland Guardians,Detroit Tigers,-1.5,164.00,-198.00,148.00,-190.00,7,11
+2024-05-07 23:39:26,Chicago Cubs,San Diego Padres,-1.5,110.00,-148.00,-196.00,152.00,3,2
+2024-05-07 23:46:40,St. Louis Cardinals,New York Mets,-1.5,170.00,-205.00,-166.00,130.00,5,7
+2024-05-08 17:05:00,Philadelphia Phillies,Toronto Blue Jays,-1.5,136.00,-162.00,-156.00,132.00,3,5
+2024-05-08 22:46:00,Washington Nationals,Baltimore Orioles,1.5,-115.00,-105.00,148.00,-176.00,6,7
+2024-05-08 22:51:00,Tampa Bay Rays,Chicago White Sox,-1.5,-108.00,-112.00,-230.00,190.00,1,4
+2024-05-09 00:41:00,Colorado Rockies,San Francisco Giants,1.5,-108.00,-112.00,154.00,-184.00,6,8
+2024-05-08 23:41:00,Minnesota Twins,Seattle Mariners,1.5,-166.00,140.00,-210.00,160.00,6,3
+2024-05-09 19:10:00,Colorado Rockies,San Francisco Giants,1.5,-120.00,100.00,140.00,-166.00,9,1
+2024-05-10 00:25:00,Chicago White Sox,Cleveland Guardians,1.5,-135.00,115.00,132.00,-156.00,3,2
+2024-05-11 00:05:00,New York Mets,Atlanta Braves,1.5,-132.00,112.00,132.00,-156.00,2,4
+2024-05-10 23:12:13,Boston Red Sox,Washington Nationals,-1.5,-103.00,-117.00,-205.00,172.00,1,5
+2024-05-10 23:10:51,Miami Marlins,Philadelphia Phillies,1.5,-110.00,-110.00,148.00,-176.00,2,8
+2024-05-11 00:40:00,Colorado Rockies,Texas Rangers,1.5,-102.00,-118.00,156.00,-186.00,4,2
+2024-05-11 01:40:00,San Diego Padres,Los Angeles Dodgers,1.5,-119.00,-101.00,142.00,-168.00,2,1
+2024-05-11 02:15:00,San Francisco Giants,Cincinnati Reds,-1.5,144.00,-164.00,-162.00,136.00,2,4
+2024-05-10 22:49:43,Tampa Bay Rays,New York Yankees,1.5,-141.00,121.00,150.00,-196.00,0,2
+2024-05-10 23:07:23,Baltimore Orioles,Arizona Diamondbacks,-1.5,144.00,-164.00,-280.00,205.00,4,2
+2024-05-10 23:35:00,Pittsburgh Pirates,Chicago Cubs,-1.5,-114.00,-114.00,-270.00,200.00,2,7
+2024-05-11 01:40:00,Seattle Mariners,Oakland Athletics,-1.5,145.00,-180.00,-154.00,130.00,8,1
+2024-05-11 19:07:00,Toronto Blue Jays,Minnesota Twins,-1.5,135.00,-155.00,-154.00,130.00,10,8
+2024-05-11 20:05:00,Baltimore Orioles,Arizona Diamondbacks,-1.5,120.00,-140.00,-158.00,134.00,5,4
+2024-05-11 20:10:00,New York Mets,Atlanta Braves,1.5,-130.00,110.00,142.00,-168.00,1,4
+2024-05-11 20:10:00,Boston Red Sox,Washington Nationals,-1.5,135.00,-155.00,-154.00,130.00,4,2
+2024-05-11 23:10:46,Chicago White Sox,Cleveland Guardians,1.5,-125.00,105.00,142.00,-168.00,3,1
+2024-05-12 00:10:00,Colorado Rockies,Texas Rangers,1.5,-110.00,-110.00,130.00,-154.00,8,3
+2024-05-11 23:15:48,Milwaukee Brewers,St. Louis Cardinals,-1.5,120.00,-156.00,-215.00,166.00,5,3
+2024-05-12 01:38:00,Los Angeles Angels,Kansas City Royals,1.5,-140.00,120.00,138.00,-164.00,9,3
+2024-05-12 01:40:00,Seattle Mariners,Oakland Athletics,-1.5,-105.00,-115.00,-220.00,184.00,1,8
+2024-05-12 17:40:00,Miami Marlins,Philadelphia Phillies,1.5,-105.00,-115.00,194.00,-240.00,7,6
+2024-05-12 18:10:00,Chicago White Sox,Cleveland Guardians,1.5,-120.00,100.00,148.00,-176.00,0,7
+2024-05-12 20:10:00,Seattle Mariners,Oakland Athletics,-1.5,-105.00,-115.00,-250.00,205.00,8,4
+2024-05-12 23:10:39,New York Mets,Atlanta Braves,1.5,-155.00,135.00,142.00,-182.00,4,3
+2024-05-13 22:35:00,Baltimore Orioles,Toronto Blue Jays,-1.5,130.00,-150.00,-162.00,136.00,2,3
+2024-05-13 22:40:26,Detroit Tigers,Miami Marlins,-1.5,130.00,-150.00,-172.00,144.00,6,5
+2024-05-14 00:10:00,Houston Astros,Oakland Athletics,-1.5,115.00,-135.00,-162.00,136.00,9,2
+2024-05-14 01:40:00,San Diego Padres,Colorado Rockies,-1.5,105.00,-126.00,-205.00,172.00,4,5
+2024-05-13 23:20:00,Atlanta Braves,Chicago Cubs,-1.5,150.00,-170.00,-172.00,134.00,2,0
+2024-05-13 23:40:24,Milwaukee Brewers,Pittsburgh Pirates,-1.5,160.00,-180.00,154.00,-200.00,6,8
+2024-05-14 01:40:00,Arizona Diamondbacks,Cincinnati Reds,-1.5,150.00,-170.00,-158.00,134.00,6,5
+2024-05-14 01:40:00,Seattle Mariners,Kansas City Royals,-1.5,150.00,-182.00,-154.00,130.00,6,2
+2024-05-14 01:45:00,San Francisco Giants,Los Angeles Dodgers,1.5,109.00,-129.00,180.00,-215.00,4,6
+2024-05-14 22:40:29,Detroit Tigers,Miami Marlins,-1.5,116.00,-140.00,-184.00,154.00,0,1
+2024-05-14 23:21:57,Atlanta Braves,Chicago Cubs,-1.5,114.00,-137.00,-188.00,158.00,7,0
+2024-05-14 23:41:12,Milwaukee Brewers,Pittsburgh Pirates,-1.5,130.00,-156.00,-158.00,134.00,4,3
+2024-05-15 00:10:00,Houston Astros,Oakland Athletics,-1.5,112.00,-134.00,-188.00,158.00,2,1
+2024-05-15 01:40:00,Seattle Mariners,Kansas City Royals,-1.5,132.00,-160.00,-158.00,134.00,2,4
+2024-05-14 23:40:00,Minnesota Twins,New York Yankees,1.5,-144.00,120.00,-250.00,186.00,1,5
+2024-05-15 01:45:00,San Francisco Giants,Los Angeles Dodgers,1.5,-107.00,-114.00,154.00,-184.00,2,10
+2024-05-15 17:10:00,Detroit Tigers,Miami Marlins,-1.5,130.00,-150.00,-162.00,136.00,0,2
+2024-05-15 20:10:00,San Diego Padres,Colorado Rockies,-1.5,-120.00,100.00,-245.00,200.00,0,8
+2024-05-16 00:10:00,Houston Astros,Oakland Athletics,-1.5,-110.00,-110.00,-230.00,190.00,3,0
+2024-05-15 23:10:00,Boston Red Sox,Tampa Bay Rays,-1.5,145.00,-165.00,-260.00,194.00,3,4
+2024-05-15 23:21:56,Atlanta Braves,Chicago Cubs,2.0,-110.00,-120.00,182.00,-240.00,1,7
+2024-05-16 00:05:00,Texas Rangers,Cleveland Guardians,-1.5,130.00,-150.00,-184.00,154.00,4,0
+2024-05-17 00:10:00,Houston Astros,Oakland Athletics,-1.5,100.00,-120.00,-210.00,176.00,8,1
+2024-05-16 23:39:05,Chicago Cubs,Pittsburgh Pirates,-1.5,164.00,-200.00,182.00,-240.00,4,5
+2024-05-17 23:21:09,Atlanta Braves,San Diego Padres,-1.5,-105.00,-115.00,-215.00,180.00,1,3
+2024-05-18 00:05:00,Texas Rangers,Los Angeles Angels,-1.5,115.00,-135.00,-164.00,138.00,3,9
+2024-05-18 02:10:00,Los Angeles Dodgers,Cincinnati Reds,-1.5,-105.00,-115.00,-198.00,166.00,7,3
+2024-05-18 02:15:00,San Francisco Giants,Colorado Rockies,-1.5,125.00,-145.00,-172.00,144.00,10,5
+2024-05-17 23:06:00,New York Yankees,Chicago White Sox,-1.5,-115.00,-105.00,-196.00,152.00,4,2
+2024-05-17 23:11:36,Cleveland Guardians,Minnesota Twins,-1.5,170.00,-195.00,140.00,-180.00,3,2
+2024-05-17 23:40:00,Kansas City Royals,Oakland Athletics,-1.5,-120.00,-110.00,-240.00,182.00,6,2
+2024-05-18 18:20:00,Chicago Cubs,Pittsburgh Pirates,-1.5,122.00,-146.00,-184.00,154.00,1,0
+2024-05-18 20:05:00,San Francisco Giants,Colorado Rockies,-1.5,106.00,-128.00,-200.00,168.00,14,4
+2024-05-18 22:31:51,Philadelphia Phillies,Washington Nationals,-1.5,120.00,-140.00,-178.00,150.00,4,3
+2024-05-18 23:10:51,Houston Astros,Milwaukee Brewers,-1.5,145.00,-165.00,-162.00,136.00,2,4
+2024-05-18 23:10:29,Kansas City Royals,Oakland Athletics,-1.5,115.00,-135.00,-174.00,146.00,5,3
+2024-05-19 01:10:00,Los Angeles Dodgers,Cincinnati Reds,-1.5,-105.00,-115.00,-210.00,176.00,4,0
+2024-05-18 23:17:20,St. Louis Cardinals,Boston Red Sox,1.5,-160.00,140.00,-174.00,136.00,7,2
+2024-05-19 17:40:00,Miami Marlins,New York Mets,1.5,-135.00,115.00,132.00,-156.00,3,7
+2024-05-19 18:10:00,Kansas City Royals,Oakland Athletics,-1.5,120.00,-140.00,-164.00,138.00,8,4
+2024-05-19 18:35:00,Texas Rangers,Los Angeles Angels,-1.5,135.00,-155.00,-172.00,144.00,1,4
+2024-05-19 20:05:00,San Francisco Giants,Colorado Rockies,-1.5,115.00,-135.00,-200.00,168.00,4,1
+2024-05-20 19:07:00,Toronto Blue Jays,Chicago White Sox,-1.5,114.00,-137.00,-190.00,160.00,9,3
+2024-05-20 22:21:21,Atlanta Braves,San Diego Padres,1.5,-188.00,155.00,-200.00,168.00,3,0
+2024-05-20 22:45:13,Washington Nationals,Minnesota Twins,1.5,-120.00,100.00,154.00,-184.00,12,3
+2024-05-21 00:10:00,Houston Astros,Los Angeles Angels,-1.5,110.00,-130.00,-205.00,172.00,7,9
+2024-05-21 02:10:00,Los Angeles Dodgers,Arizona Diamondbacks,-1.5,-105.00,-114.00,-225.00,188.00,6,4
+2024-05-20 23:45:00,St. Louis Cardinals,Baltimore Orioles,1.5,-188.00,155.00,-196.00,152.00,6,3
+2024-05-21 22:41:19,Philadelphia Phillies,Texas Rangers,-1.5,128.00,-154.00,-162.00,136.00,5,2
+2024-05-21 22:45:25,Washington Nationals,Minnesota Twins,1.5,102.00,-122.00,164.00,-196.00,0,10
+2024-05-21 23:09:08,New York Yankees,Seattle Mariners,-1.5,126.00,-152.00,-166.00,140.00,3,6
+2024-05-21 23:06:49,Toronto Blue Jays,Chicago White Sox,-1.5,116.00,-140.00,-188.00,158.00,0,5
+2024-05-22 00:10:00,Houston Astros,Los Angeles Angels,-1.5,104.00,-126.00,-196.00,164.00,6,5
+2024-05-22 02:10:00,Los Angeles Dodgers,Arizona Diamondbacks,-1.5,118.00,-142.00,-168.00,142.00,3,7
+2024-05-21 22:40:00,Pittsburgh Pirates,San Francisco Giants,1.5,-144.00,118.00,198.00,-260.00,7,6
+2024-05-22 18:10:00,Houston Astros,Los Angeles Angels,-1.5,110.00,-130.00,-172.00,144.00,1,2
+2024-05-22 23:08:00,Toronto Blue Jays,Chicago White Sox,-1.5,-115.00,-105.00,-225.00,188.00,9,2
+2024-05-22 22:40:00,Pittsburgh Pirates,San Francisco Giants,-1.5,-106.00,-122.00,-280.00,205.00,5,9
+2024-05-23 17:05:00,Philadelphia Phillies,Texas Rangers,-1.5,-102.00,-118.00,-210.00,176.00,5,2
+2024-05-23 23:40:00,Chicago White Sox,Baltimore Orioles,1.5,120.00,-140.00,205.00,-250.00,6,8
+2024-05-23 22:40:00,Detroit Tigers,Toronto Blue Jays,1.5,-150.00,120.00,192.00,-260.00,1,9
+2024-05-24 23:09:55,Cincinnati Reds,Los Angeles Dodgers,1.5,-110.00,-110.00,134.00,-158.00,9,6
+2024-05-25 00:40:00,Colorado Rockies,Philadelphia Phillies,1.5,110.00,-130.00,172.00,-205.00,3,2
+2024-05-25 01:40:00,Arizona Diamondbacks,Miami Marlins,-1.5,110.00,-130.00,-178.00,150.00,0,3
+2024-05-25 01:40:00,Oakland Athletics,Houston Astros,1.5,-125.00,105.00,138.00,-164.00,3,6
+2024-05-24 22:50:00,Tampa Bay Rays,Kansas City Royals,1.5,-108.00,-120.00,205.00,-280.00,1,8
+2024-05-25 00:15:00,Chicago White Sox,Baltimore Orioles,1.5,130.00,-150.00,205.00,-250.00,4,6
+2024-05-25 20:05:00,Pittsburgh Pirates,Atlanta Braves,1.5,-120.00,100.00,134.00,-158.00,4,1
+2024-05-25 23:17:15,Cincinnati Reds,Los Angeles Dodgers,1.5,-118.00,-102.00,132.00,-156.00,3,1
+2024-05-26 01:10:00,Colorado Rockies,Philadelphia Phillies,1.5,134.00,-162.00,194.00,-235.00,4,8
+2024-05-26 02:10:00,Arizona Diamondbacks,Miami Marlins,-1.5,108.00,-130.00,-190.00,160.00,3,2
+2024-05-25 23:15:00,St. Louis Cardinals,Chicago Cubs,-1.5,165.00,-215.00,-190.00,148.00,7,6
+2024-05-26 17:35:00,Pittsburgh Pirates,Atlanta Braves,1.5,105.00,-125.00,176.00,-210.00,1,8
+2024-05-26 18:10:00,Chicago White Sox,Baltimore Orioles,1.5,-130.00,110.00,140.00,-166.00,1,4
+2024-05-26 19:10:00,Colorado Rockies,Philadelphia Phillies,1.5,120.00,-140.00,184.00,-220.00,5,2
+2024-05-26 20:07:00,Oakland Athletics,Houston Astros,1.5,-115.00,-105.00,136.00,-162.00,2,5
+2024-05-27 17:05:00,Baltimore Orioles,Boston Red Sox,-1.5,130.00,-150.00,-162.00,136.00,11,3
+2024-05-27 18:10:00,Chicago White Sox,Toronto Blue Jays,1.5,104.00,-125.00,168.00,-200.00,1,5
+2024-05-27 18:10:00,Minnesota Twins,Kansas City Royals,-1.5,125.00,-145.00,-154.00,130.00,6,5
+2024-05-27 20:10:00,Atlanta Braves,Washington Nationals,-1.5,105.00,-125.00,-198.00,166.00,4,8
+2024-05-27 22:42:26,San Diego Padres,Miami Marlins,-1.5,120.00,-140.00,-174.00,146.00,2,1
+2024-05-28 22:35:00,Baltimore Orioles,Boston Red Sox,-1.5,128.00,-154.00,-158.00,134.00,3,8
+2024-05-28 23:20:00,Atlanta Braves,Washington Nationals,-1.5,-118.00,-102.00,-250.00,205.00,2,0
+2024-05-29 00:20:00,Chicago White Sox,Toronto Blue Jays,1.5,114.00,-137.00,190.00,-230.00,2,7
+2024-05-29 01:38:00,Los Angeles Angels,New York Yankees,1.5,-106.00,-113.00,154.00,-184.00,4,3
+2024-05-28 22:50:00,Tampa Bay Rays,Oakland Athletics,-1.5,165.00,-215.00,-192.00,150.00,0,3
+2024-05-28 23:40:08,Milwaukee Brewers,Chicago Cubs,-1.5,140.00,-170.00,-180.00,140.00,3,6
+2024-05-28 23:41:42,New York Mets,Los Angeles Dodgers,1.5,-110.00,-120.00,150.00,-192.00,0,3
+2024-05-29 01:45:00,San Francisco Giants,Philadelphia Phillies,1.5,102.00,-122.00,164.00,-196.00,1,0
+2024-05-29 20:10:00,San Diego Padres,Miami Marlins,-1.5,130.00,-150.00,-164.00,138.00,1,9
+2024-05-29 22:35:00,Baltimore Orioles,Boston Red Sox,-1.5,115.00,-135.00,-174.00,146.00,6,1
+2024-05-29 23:20:00,Atlanta Braves,Washington Nationals,-1.5,135.00,-155.00,-162.00,136.00,2,7
+2024-05-29 23:40:00,Chicago White Sox,Toronto Blue Jays,1.5,-115.00,-105.00,150.00,-178.00,1,3
+2024-05-30 00:40:00,Colorado Rockies,Cleveland Guardians,1.5,-118.00,-102.00,132.00,-156.00,7,4
+2024-05-30 01:38:00,Los Angeles Angels,New York Yankees,1.5,-115.00,-105.00,162.00,-194.00,1,2
+2024-05-29 23:40:00,Milwaukee Brewers,Chicago Cubs,1.5,-150.00,130.00,-260.00,190.00,10,6
+2024-05-30 23:21:15,Atlanta Braves,Washington Nationals,-1.5,100.00,-120.00,-235.00,194.00,1,3
+2024-05-31 01:38:00,Los Angeles Angels,New York Yankees,1.5,-115.00,-105.00,148.00,-176.00,3,8
+2024-05-31 18:20:00,Chicago Cubs,Cincinnati Reds,-1.5,140.00,-170.00,-154.00,130.00,4,5
+2024-05-31 22:41:34,Philadelphia Phillies,St. Louis Cardinals,-1.5,113.00,-133.00,-190.00,160.00,4,2
+2024-05-31 23:10:44,Boston Red Sox,Detroit Tigers,-1.5,145.00,-165.00,-158.00,134.00,7,3
+2024-05-31 23:11:17,Cleveland Guardians,Washington Nationals,-1.5,-103.00,-117.00,-200.00,168.00,7,1
+2024-06-01 00:10:00,Milwaukee Brewers,Chicago White Sox,-1.5,134.00,-154.00,-174.00,146.00,12,5
+2024-05-31 23:07:00,Toronto Blue Jays,Pittsburgh Pirates,-1.5,154.00,-205.00,-196.00,152.00,5,3
+2024-06-01 02:10:00,Seattle Mariners,Los Angeles Angels,-1.5,136.00,-164.00,-158.00,134.00,5,4
+2024-06-01 19:07:00,Toronto Blue Jays,Pittsburgh Pirates,-1.5,130.00,-150.00,-154.00,130.00,1,8
+2024-06-01 20:05:00,Baltimore Orioles,Tampa Bay Rays,-1.5,130.00,-150.00,-158.00,134.00,9,5
+2024-06-01 20:10:00,Cleveland Guardians,Washington Nationals,-1.5,135.00,-155.00,-162.00,136.00,3,2
+2024-06-01 23:16:09,Seattle Mariners,Los Angeles Angels,-1.5,130.00,-150.00,-164.00,138.00,9,0
+2024-06-02 20:05:00,San Francisco Giants,New York Yankees,1.5,-135.00,115.00,130.00,-154.00,5,7
+2024-06-02 20:10:00,Seattle Mariners,Los Angeles Angels,-1.5,115.00,-135.00,-210.00,176.00,5,1
+2024-06-02 23:10:00,Philadelphia Phillies,St. Louis Cardinals,-1.5,150.00,-170.00,-166.00,130.00,4,5
+2024-06-04 00:10:00,Houston Astros,St. Louis Cardinals,-1.5,125.00,-145.00,-164.00,138.00,7,4
+2024-06-03 23:08:56,Toronto Blue Jays,Baltimore Orioles,1.5,-160.00,140.00,186.00,-250.00,2,7
+2024-06-04 22:42:47,Pittsburgh Pirates,Los Angeles Dodgers,1.5,-112.00,-108.00,158.00,-188.00,1,0
+2024-06-04 23:05:00,New York Yankees,Minnesota Twins,-1.5,135.00,-155.00,-168.00,142.00,5,1
+2024-06-04 23:16:00,Boston Red Sox,Atlanta Braves,1.5,-115.00,-105.00,134.00,-158.00,3,8
+2024-06-05 01:40:00,Oakland Athletics,Seattle Mariners,1.5,-130.00,110.00,136.00,-162.00,3,4
+2024-06-04 22:40:00,Philadelphia Phillies,Milwaukee Brewers,1.5,-190.00,145.00,132.00,-168.00,2,1
+2024-06-05 00:10:00,Houston Astros,St. Louis Cardinals,-1.5,140.00,-160.00,-158.00,134.00,8,5
+2024-06-05 18:10:00,Houston Astros,St. Louis Cardinals,-1.5,120.00,-140.00,-162.00,136.00,2,4
+2024-06-05 20:05:00,Washington Nationals,New York Mets,1.5,-126.00,105.00,130.00,-154.00,1,9
+2024-06-05 23:09:03,New York Yankees,Minnesota Twins,-1.5,106.00,-128.00,-190.00,160.00,9,5
+2024-06-06 00:05:00,Chicago Cubs,Chicago White Sox,-1.5,108.00,-130.00,-196.00,164.00,7,6
+2024-06-06 01:40:00,Oakland Athletics,Seattle Mariners,1.5,-128.00,106.00,130.00,-154.00,2,1
+2024-06-06 01:38:00,Los Angeles Angels,San Diego Padres,1.5,-134.00,112.00,142.00,-168.00,3,2
+2024-06-06 22:40:00,Pittsburgh Pirates,Los Angeles Dodgers,1.5,-102.00,-118.00,158.00,-188.00,7,11
+2024-06-06 22:45:18,Washington Nationals,Atlanta Braves,1.5,-106.00,-113.00,156.00,-186.00,2,5
+2024-06-06 23:45:00,St. Louis Cardinals,Colorado Rockies,-1.5,100.00,-120.00,-220.00,184.00,2,3
+2024-06-07 00:10:00,Chicago White Sox,Boston Red Sox,1.5,115.00,-138.00,190.00,-230.00,2,14
+2024-06-06 23:05:00,New York Yankees,Minnesota Twins,-1.5,138.00,-166.00,-215.00,166.00,8,5
+2024-06-06 23:10:49,Cincinnati Reds,Chicago Cubs,-1.5,125.00,-164.00,-210.00,160.00,8,4
+2024-06-07 22:45:46,Washington Nationals,Atlanta Braves,1.5,-105.00,-115.00,188.00,-225.00,2,1
+2024-06-08 00:15:00,St. Louis Cardinals,Colorado Rockies,-1.5,110.00,-130.00,-188.00,158.00,8,5
+2024-06-08 01:38:00,Los Angeles Angels,Houston Astros,1.5,-113.00,-107.00,164.00,-196.00,1,7
+2024-06-07 22:40:00,Pittsburgh Pirates,Minnesota Twins,1.5,-165.00,145.00,-260.00,196.00,3,0
+2024-06-08 01:40:00,Oakland Athletics,Toronto Blue Jays,1.5,-117.00,-103.00,140.00,-166.00,2,1
+2024-06-08 17:10:00,New York Mets,Philadelphia Phillies,1.5,-114.00,-105.00,136.00,-162.00,2,7
+2024-06-08 20:07:00,Oakland Athletics,Toronto Blue Jays,1.5,-138.00,115.00,130.00,-154.00,0,7
+2024-06-08 20:10:00,Chicago White Sox,Boston Red Sox,1.5,106.00,-128.00,176.00,-210.00,6,1
+2024-06-08 20:15:00,St. Louis Cardinals,Colorado Rockies,-1.5,128.00,-154.00,-178.00,150.00,5,6
+2024-06-08 23:41:57,Miami Marlins,Cleveland Guardians,1.5,-114.00,-106.00,194.00,-260.00,0,8
+2024-06-09 02:07:00,Los Angeles Angels,Houston Astros,1.5,-126.00,105.00,148.00,-176.00,1,6
+2024-06-09 17:35:00,Washington Nationals,Atlanta Braves,1.5,-113.00,-107.00,146.00,-174.00,8,5
+2024-06-09 17:40:00,Detroit Tigers,Milwaukee Brewers,-1.5,121.00,-141.00,-166.00,140.00,10,2
+2024-06-09 18:15:00,St. Louis Cardinals,Colorado Rockies,-1.5,112.00,-132.00,-178.00,150.00,5,1
+2024-06-09 20:07:00,Los Angeles Angels,Houston Astros,1.5,-122.00,102.00,130.00,-154.00,9,7
+2024-06-10 22:50:12,Tampa Bay Rays,Baltimore Orioles,1.5,-125.00,105.00,132.00,-156.00,2,5
+2024-06-10 23:40:00,Minnesota Twins,Colorado Rockies,-1.5,102.00,-122.00,-225.00,188.00,5,0
+2024-06-11 01:40:00,Seattle Mariners,Chicago White Sox,-1.5,-110.00,-110.00,-230.00,190.00,8,4
+2024-06-11 01:40:00,San Diego Padres,Oakland Athletics,-1.5,113.00,-133.00,-210.00,176.00,6,1
+2024-06-11 23:12:08,Boston Red Sox,Philadelphia Phillies,1.5,-126.00,105.00,134.00,-158.00,1,4
+2024-06-12 01:40:00,Arizona Diamondbacks,Los Angeles Angels,-1.5,115.00,-138.00,-180.00,152.00,9,4
+2024-06-12 01:40:00,Seattle Mariners,Chicago White Sox,-1.5,-104.00,-115.00,-235.00,194.00,4,3
+2024-06-12 01:40:00,San Diego Padres,Oakland Athletics,-1.5,138.00,-166.00,-154.00,130.00,4,3
+2024-06-11 22:50:20,Tampa Bay Rays,Chicago Cubs,1.5,100.00,-130.00,210.00,-280.00,5,2
+2024-06-11 23:12:28,New York Mets,Miami Marlins,-1.5,160.00,-194.00,-280.00,205.00,2,4
+2024-06-11 23:40:14,Minnesota Twins,Colorado Rockies,-1.5,-110.00,-110.00,-235.00,180.00,4,5
+2024-06-12 02:10:00,Los Angeles Dodgers,Texas Rangers,-1.5,124.00,-148.00,-166.00,140.00,15,2
+2024-06-12 17:10:00,Minnesota Twins,Colorado Rockies,-1.5,-102.00,-118.00,-245.00,200.00,17,9
+2024-06-12 20:10:00,San Diego Padres,Oakland Athletics,-1.5,114.00,-137.00,-196.00,164.00,5,4
+2024-06-12 23:45:00,St. Louis Cardinals,Pittsburgh Pirates,-1.5,126.00,-152.00,-166.00,140.00,4,2
+2024-06-13 01:40:00,Seattle Mariners,Chicago White Sox,-1.5,-102.00,-118.00,-240.00,198.00,2,1
+2024-06-12 22:50:34,Tampa Bay Rays,Chicago Cubs,1.5,-182.00,150.00,-235.00,178.00,3,4
+2024-06-12 23:10:00,Cincinnati Reds,Cleveland Guardians,1.5,-176.00,146.00,-172.00,134.00,4,2
+2024-06-13 00:10:00,Kansas City Royals,New York Yankees,1.5,102.00,-122.00,136.00,-162.00,5,11
+2024-06-13 01:40:00,Arizona Diamondbacks,Los Angeles Angels,-1.5,141.00,-161.00,-154.00,130.00,3,8
+2024-06-13 02:10:00,Los Angeles Dodgers,Texas Rangers,-1.5,124.00,-148.00,-164.00,138.00,2,3
+2024-06-13 17:10:00,Detroit Tigers,Washington Nationals,-1.5,134.00,-162.00,-158.00,134.00,7,2
+2024-06-13 23:10:00,New York Mets,Miami Marlins,-1.5,115.00,-135.00,-190.00,160.00,3,2
+2024-06-14 01:40:00,Arizona Diamondbacks,Los Angeles Angels,-1.5,120.00,-140.00,-178.00,150.00,11,1
+2024-06-14 01:40:00,Seattle Mariners,Chicago White Sox,-1.5,130.00,-150.00,-178.00,150.00,2,3
+2024-06-13 23:41:49,Minnesota Twins,Oakland Athletics,-1.5,-138.00,118.00,-250.00,188.00,6,2
+2024-06-14 02:10:00,Los Angeles Dodgers,Texas Rangers,-1.5,-115.00,-105.00,-196.00,164.00,1,3
+2024-06-14 23:41:59,Boston Red Sox,New York Yankees,1.5,-118.00,-102.00,136.00,-162.00,1,8
+2024-06-14 23:20:00,Atlanta Braves,Tampa Bay Rays,-1.5,106.00,-128.00,-196.00,164.00,7,3
+2024-06-15 00:10:00,Minnesota Twins,Oakland Athletics,-1.5,122.00,-146.00,-178.00,150.00,6,5
+2024-06-15 01:40:00,Arizona Diamondbacks,Chicago White Sox,-1.5,114.00,-137.00,-184.00,154.00,7,1
+2024-06-15 02:10:00,Los Angeles Dodgers,Kansas City Royals,-1.5,134.00,-162.00,-164.00,138.00,4,3
+2024-06-14 23:08:43,Toronto Blue Jays,Cleveland Guardians,-1.5,168.00,-205.00,130.00,-166.00,1,3
+2024-06-15 00:10:00,Milwaukee Brewers,Cincinnati Reds,-1.5,155.00,-188.00,-168.00,142.00,5,6
+2024-06-15 18:20:00,Chicago Cubs,St. Louis Cardinals,-1.5,132.00,-160.00,-162.00,136.00,5,1
+2024-06-15 20:05:00,Baltimore Orioles,Philadelphia Phillies,-1.5,122.00,-146.00,-178.00,150.00,6,2
+2024-06-15 20:10:00,Atlanta Braves,Tampa Bay Rays,-1.5,126.00,-152.00,-158.00,134.00,9,2
+2024-06-15 23:16:51,Boston Red Sox,New York Yankees,1.5,-118.00,-102.00,138.00,-164.00,8,4
+2024-06-16 01:10:00,Colorado Rockies,Pittsburgh Pirates,1.5,104.00,-125.00,158.00,-188.00,16,4
+2024-06-16 01:10:00,Los Angeles Dodgers,Kansas City Royals,-1.5,106.00,-128.00,-215.00,180.00,2,7
+2024-06-16 02:10:00,Arizona Diamondbacks,Chicago White Sox,-1.5,130.00,-155.00,-162.00,136.00,2,9
+2024-06-17 23:10:00,Pittsburgh Pirates,Cincinnati Reds,-1.5,110.00,-130.00,-188.00,158.00,4,1
+2024-06-17 22:40:00,Miami Marlins,St. Louis Cardinals,1.5,-130.00,110.00,132.00,-156.00,6,7
+2024-06-17 22:40:00,Philadelphia Phillies,San Diego Padres,-1.5,125.00,-145.00,-166.00,140.00,9,2
+2024-06-17 23:20:00,Atlanta Braves,Detroit Tigers,-1.5,-110.00,-110.00,-200.00,168.00,2,1
+2024-06-17 23:07:14,Toronto Blue Jays,Boston Red Sox,-1.5,175.00,-205.00,205.00,-280.00,3,7
+2024-06-18 00:40:00,Colorado Rockies,Los Angeles Dodgers,1.5,-110.00,-110.00,146.00,-174.00,5,9
+2024-06-18 23:20:30,Atlanta Braves,Detroit Tigers,-1.5,120.00,-140.00,-162.00,136.00,2,1
+2024-06-18 23:40:00,Minnesota Twins,Tampa Bay Rays,-1.5,140.00,-160.00,-158.00,134.00,7,6
+2024-06-19 00:10:00,Chicago White Sox,Houston Astros,1.5,100.00,-120.00,180.00,-215.00,2,0
+2024-06-19 00:40:00,Colorado Rockies,Los Angeles Dodgers,1.5,105.00,-125.00,166.00,-198.00,9,11
+2024-06-18 23:08:14,New York Yankees,Baltimore Orioles,-1.5,135.00,-155.00,-235.00,178.00,4,2
+2024-06-18 23:09:29,Toronto Blue Jays,Boston Red Sox,1.5,-180.00,160.00,-225.00,172.00,3,4
+2024-06-19 17:05:00,Philadelphia Phillies,San Diego Padres,-1.5,128.00,-154.00,-156.00,132.00,2,5
+2024-06-19 20:05:00,Washington Nationals,Arizona Diamondbacks,1.5,-113.00,-106.00,136.00,-162.00,3,1
+2024-06-19 23:09:07,New York Yankees,Baltimore Orioles,-1.5,112.00,-134.00,-188.00,158.00,6,7
+2024-06-19 23:41:59,Minnesota Twins,Tampa Bay Rays,-1.5,130.00,-156.00,-162.00,136.00,2,3
+2024-06-20 00:40:00,Colorado Rockies,Los Angeles Dodgers,1.5,115.00,-138.00,180.00,-215.00,7,6
+2024-06-20 01:38:00,Los Angeles Angels,Milwaukee Brewers,1.5,-125.00,104.00,130.00,-154.00,0,2
+2024-06-20 01:40:00,Oakland Athletics,Kansas City Royals,1.5,-115.00,-104.00,148.00,-176.00,5,1
+2024-06-20 19:10:00,Colorado Rockies,Los Angeles Dodgers,1.5,138.00,-158.00,205.00,-250.00,3,5
+2024-06-21 22:40:00,Detroit Tigers,Chicago White Sox,-1.5,118.00,-142.00,-180.00,152.00,2,1
+2024-06-21 23:11:28,Miami Marlins,Seattle Mariners,1.5,-126.00,105.00,132.00,-156.00,3,2
+2024-06-22 00:10:00,Houston Astros,Baltimore Orioles,1.5,-118.00,-102.00,140.00,-166.00,14,11
+2024-06-22 01:40:00,San Diego Padres,Milwaukee Brewers,-1.5,146.00,-176.00,-156.00,132.00,9,5
+2024-06-22 01:40:00,Oakland Athletics,Minnesota Twins,1.5,-125.00,104.00,140.00,-166.00,6,5
+2024-06-22 02:10:00,Los Angeles Dodgers,Los Angeles Angels,-1.5,113.00,-133.00,-180.00,152.00,2,3
+2024-06-22 17:10:00,Detroit Tigers,Chicago White Sox,-1.5,132.00,-160.00,-162.00,136.00,1,5
+2024-06-22 20:05:00,Philadelphia Phillies,Arizona Diamondbacks,-1.5,-111.00,-108.00,-240.00,198.00,12,1
+2024-06-22 20:07:00,Oakland Athletics,Minnesota Twins,1.5,-126.00,105.00,132.00,-156.00,2,10
+2024-06-22 20:10:00,Houston Astros,Baltimore Orioles,1.5,-122.00,102.00,130.00,-154.00,5,1
+2024-06-23 15:35:00,Philadelphia Phillies,Arizona Diamondbacks,-1.5,100.00,-120.00,-196.00,164.00,4,1
+2024-06-23 17:35:00,Pittsburgh Pirates,Tampa Bay Rays,-1.5,143.00,-163.00,-154.00,130.00,1,3
+2024-06-23 17:40:00,Detroit Tigers,Chicago White Sox,-1.5,114.00,-134.00,-184.00,154.00,11,2
+2024-06-23 20:07:00,Oakland Athletics,Minnesota Twins,1.5,-112.00,-108.00,150.00,-178.00,0,3
+2024-06-24 22:40:00,Detroit Tigers,Philadelphia Phillies,1.5,-115.00,-104.00,140.00,-166.00,1,8
+2024-06-25 00:10:00,Kansas City Royals,Miami Marlins,-1.5,-115.00,-105.00,-240.00,198.00,4,1
+2024-06-25 01:40:00,San Diego Padres,Washington Nationals,-1.5,-105.00,-114.00,-230.00,190.00,7,6
+2024-06-24 23:11:07,Boston Red Sox,Toronto Blue Jays,-1.5,154.00,-205.00,-172.00,134.00,7,6
+2024-06-25 00:10:00,Milwaukee Brewers,Texas Rangers,-1.5,120.00,-140.00,-178.00,150.00,6,3
+2024-06-25 23:11:18,New York Mets,New York Yankees,1.5,-128.00,106.00,132.00,-156.00,9,7
+2024-06-26 00:10:00,Chicago White Sox,Los Angeles Dodgers,1.5,120.00,-144.00,198.00,-240.00,3,4
+2024-06-26 00:10:00,Houston Astros,Colorado Rockies,-1.5,-111.00,-108.00,-245.00,200.00,5,2
+2024-06-26 00:10:00,Kansas City Royals,Miami Marlins,-1.5,105.00,-126.00,-196.00,164.00,1,2
+2024-06-26 18:10:00,Houston Astros,Colorado Rockies,-1.5,108.00,-128.00,-196.00,164.00,7,1
+2024-06-26 20:10:00,San Diego Padres,Washington Nationals,-1.5,120.00,-140.00,-190.00,160.00,8,5
+2024-06-26 22:35:00,Baltimore Orioles,Cleveland Guardians,-1.5,122.00,-142.00,-180.00,152.00,4,2
+2024-06-26 23:10:00,Boston Red Sox,Toronto Blue Jays,-1.5,137.00,-157.00,-162.00,136.00,1,4
+2024-06-26 23:15:00,St. Louis Cardinals,Atlanta Braves,1.5,-113.00,-107.00,154.00,-184.00,4,1
+2024-06-27 00:10:00,Chicago White Sox,Los Angeles Dodgers,1.5,-110.00,-110.00,168.00,-200.00,0,4
+2024-06-28 01:38:00,Los Angeles Angels,Detroit Tigers,1.5,-120.00,100.00,140.00,-166.00,5,0
+2024-06-27 23:45:00,St. Louis Cardinals,Cincinnati Reds,-1.5,155.00,-175.00,132.00,-168.00,4,11
+2024-06-28 22:51:00,Tampa Bay Rays,Washington Nationals,-1.5,138.00,-166.00,-156.00,132.00,3,1
+2024-06-28 23:11:00,Boston Red Sox,San Diego Padres,-1.5,142.00,-172.00,-158.00,134.00,2,9
+2024-06-28 23:21:00,Atlanta Braves,Pittsburgh Pirates,-1.5,128.00,-154.00,-166.00,140.00,6,1
+2024-06-28 23:08:00,Toronto Blue Jays,New York Yankees,1.5,-162.00,134.00,-210.00,160.00,5,16
+2024-06-29 01:41:00,Arizona Diamondbacks,Oakland Athletics,-1.5,146.00,-178.00,-174.00,146.00,4,9
+2024-06-29 18:16:00,St. Louis Cardinals,Cincinnati Reds,-1.5,122.00,-146.00,-168.00,142.00,4,9
+2024-06-29 20:06:00,Philadelphia Phillies,Miami Marlins,-1.5,-111.00,-108.00,-250.00,205.00,2,3
+2024-06-29 20:11:00,Arizona Diamondbacks,Oakland Athletics,-1.5,114.00,-137.00,-190.00,160.00,3,0
+2024-06-29 20:11:00,Atlanta Braves,Pittsburgh Pirates,-1.5,128.00,-154.00,-164.00,138.00,2,1
+2024-06-29 23:16:00,San Francisco Giants,Los Angeles Dodgers,1.5,100.00,-120.00,180.00,-215.00,7,14
+2024-06-29 23:16:00,Baltimore Orioles,Texas Rangers,-1.5,140.00,-170.00,-182.00,144.00,6,5
+2024-06-30 15:36:00,Atlanta Braves,Pittsburgh Pirates,-1.5,114.00,-134.00,-178.00,150.00,2,4
+2024-06-30 17:36:00,Philadelphia Phillies,Miami Marlins,-1.5,-120.00,100.00,-255.00,210.00,7,6
+2024-06-30 17:41:00,New York Mets,Houston Astros,-1.5,126.00,-152.00,-162.00,136.00,5,10
+2024-06-30 17:41:00,Tampa Bay Rays,Washington Nationals,-1.5,118.00,-142.00,-178.00,150.00,5,0
+2024-06-30 18:11:00,Milwaukee Brewers,Chicago Cubs,-1.5,116.00,-140.00,-172.00,144.00,7,1
+2024-06-30 18:11:00,Chicago White Sox,Colorado Rockies,-1.5,116.00,-140.00,-184.00,154.00,4,5
+2024-06-30 20:11:00,Arizona Diamondbacks,Oakland Athletics,-1.5,106.00,-128.00,-196.00,164.00,5,1
+2024-06-30 23:10:00,Baltimore Orioles,Texas Rangers,-1.5,125.00,-150.00,-162.00,136.00,2,11
+2024-07-02 00:41:00,Colorado Rockies,Milwaukee Brewers,1.5,-110.00,-110.00,138.00,-164.00,8,7
+2024-07-02 22:41:00,Miami Marlins,Boston Red Sox,1.5,-115.00,-104.00,148.00,-176.00,3,8
+2024-07-02 22:41:00,Cleveland Guardians,Chicago White Sox,-1.5,110.00,-132.00,-188.00,158.00,7,6
+2024-07-02 23:06:00,New York Yankees,Cincinnati Reds,-1.5,105.00,-126.00,-200.00,168.00,4,5
+2024-07-02 23:21:00,Atlanta Braves,San Francisco Giants,-1.5,105.00,-126.00,-196.00,164.00,3,5
+2024-07-03 02:10:00,Los Angeles Dodgers,Arizona Diamondbacks,-1.5,108.00,-130.00,-200.00,168.00,6,5
+2024-07-02 22:44:58,Washington Nationals,New York Mets,1.5,-144.00,120.00,-220.00,170.00,2,7
+2024-07-03 22:41:00,Cleveland Guardians,Chicago White Sox,-1.5,116.00,-140.00,-188.00,158.00,2,8
+2024-07-03 23:06:00,New York Yankees,Cincinnati Reds,-1.5,114.00,-137.00,-178.00,150.00,2,3
+2024-07-03 23:21:00,Atlanta Braves,San Francisco Giants,-1.5,112.00,-134.00,-196.00,164.00,3,1
+2024-07-04 00:11:00,Minnesota Twins,Detroit Tigers,-1.5,132.00,-160.00,-166.00,140.00,2,9
+2024-07-04 00:40:00,Colorado Rockies,Milwaukee Brewers,1.5,-115.00,-105.00,140.00,-166.00,0,3
+2024-07-03 22:41:00,Miami Marlins,Boston Red Sox,1.5,-142.00,118.00,136.00,-174.00,2,7
+2024-07-03 22:41:00,Pittsburgh Pirates,St. Louis Cardinals,-1.5,164.00,-200.00,-280.00,210.00,5,4
+2024-07-03 23:08:00,Toronto Blue Jays,Houston Astros,1.5,-178.00,146.00,-180.00,140.00,2,9
+2024-07-04 00:06:00,Texas Rangers,San Diego Padres,-1.5,142.00,-172.00,-162.00,136.00,4,6
+2024-07-04 02:11:00,Los Angeles Dodgers,Arizona Diamondbacks,-1.5,105.00,-125.00,-200.00,168.00,4,12
+2024-07-04 17:06:00,New York Yankees,Cincinnati Reds,-1.5,112.00,-134.00,-178.00,150.00,4,8
+2024-07-04 17:11:00,Miami Marlins,Boston Red Sox,1.5,-114.00,-105.00,144.00,-172.00,5,6
+2024-07-04 17:11:00,Cleveland Guardians,Chicago White Sox,-1.5,-108.00,-111.00,-225.00,188.00,8,4
+2024-07-04 20:11:00,Seattle Mariners,Baltimore Orioles,1.5,-134.00,112.00,130.00,-154.00,7,3
+2024-07-05 18:21:00,Chicago Cubs,Los Angeles Angels,-1.5,106.00,-128.00,-184.00,154.00,5,1
+2024-07-05 22:46:00,Washington Nationals,St. Louis Cardinals,1.5,104.00,-125.00,154.00,-184.00,6,7
+2024-07-05 23:36:00,Cleveland Guardians,San Francisco Giants,-1.5,130.00,-156.00,-172.00,144.00,2,4
+2024-07-06 01:41:00,Oakland Athletics,Baltimore Orioles,1.5,-111.00,-108.00,150.00,-178.00,2,3
+2024-07-05 23:11:00,Cincinnati Reds,Detroit Tigers,1.5,-184.00,152.00,166.00,-215.00,4,5
+2024-07-06 00:11:00,Colorado Rockies,Kansas City Royals,1.5,-102.00,-118.00,154.00,-184.00,4,2
+2024-07-06 00:11:00,Minnesota Twins,Houston Astros,-1.5,146.00,-176.00,-154.00,130.00,12,13
+2024-07-06 02:11:00,Los Angeles Dodgers,Milwaukee Brewers,-1.5,106.00,-128.00,-215.00,180.00,8,5
+2024-07-06 17:06:00,New York Yankees,Boston Red Sox,-1.5,116.00,-140.00,-174.00,146.00,14,4
+2024-07-06 20:08:00,Oakland Athletics,Baltimore Orioles,1.5,-110.00,-110.00,152.00,-180.00,19,8
+2024-07-06 20:11:00,Miami Marlins,Chicago White Sox,1.5,-130.00,108.00,144.00,-172.00,4,3
+2024-07-07 01:11:00,Colorado Rockies,Kansas City Royals,1.5,105.00,-126.00,162.00,-194.00,3,1
+2024-07-06 23:45:00,Atlanta Braves,Philadelphia Phillies,1.5,-178.00,146.00,-205.00,158.00,5,1
+2024-07-07 17:36:00,Atlanta Braves,Philadelphia Phillies,-1.5,118.00,-142.00,-180.00,152.00,6,0
+2024-07-07 20:08:00,Oakland Athletics,Baltimore Orioles,1.5,-105.00,-114.00,162.00,-194.00,3,6
+2024-07-07 20:11:00,San Diego Padres,Arizona Diamondbacks,-1.5,126.00,-152.00,-172.00,144.00,1,9
+2024-07-07 20:11:00,Los Angeles Dodgers,Milwaukee Brewers,-1.5,118.00,-142.00,-166.00,140.00,2,9
+2024-07-07 23:11:00,New York Yankees,Boston Red Sox,-1.5,142.00,-172.00,-162.00,136.00,0,3
+2024-07-08 22:41:00,Detroit Tigers,Cleveland Guardians,1.5,-132.00,110.00,130.00,-154.00,1,0
+2024-07-08 23:11:00,Cincinnati Reds,Colorado Rockies,-1.5,114.00,-137.00,-190.00,160.00,6,0
+2024-07-09 00:10:00,Chicago White Sox,Minnesota Twins,1.5,105.00,-125.00,154.00,-184.00,6,8
+2024-07-09 01:41:00,Arizona Diamondbacks,Atlanta Braves,1.5,112.00,-134.00,180.00,-215.00,4,5
+2024-07-09 01:39:00,Los Angeles Angels,Texas Rangers,1.5,-134.00,112.00,130.00,-154.00,4,9
+2024-07-09 22:41:00,Detroit Tigers,Cleveland Guardians,1.5,-130.00,108.00,130.00,-154.00,8,9
+2024-07-09 23:11:00,Boston Red Sox,Oakland Athletics,-1.5,108.00,-130.00,-174.00,146.00,12,9
+2024-07-09 23:11:00,Cincinnati Reds,Colorado Rockies,-1.5,130.00,-156.00,-158.00,134.00,12,6
+2024-07-10 00:11:00,Houston Astros,Miami Marlins,-1.5,100.00,-120.00,-225.00,188.00,4,3
+2024-07-10 00:11:00,Milwaukee Brewers,Pittsburgh Pirates,-1.5,136.00,-164.00,-164.00,138.00,2,12
+2024-07-10 01:39:00,Los Angeles Angels,Texas Rangers,1.5,-120.00,100.00,136.00,-162.00,4,5
+2024-07-10 22:36:00,Baltimore Orioles,Chicago Cubs,-1.5,122.00,-146.00,-168.00,142.00,0,4
+2024-07-10 23:11:00,Boston Red Sox,Oakland Athletics,-1.5,100.00,-120.00,-198.00,166.00,2,5
+2024-07-10 23:15:00,Cincinnati Reds,Colorado Rockies,-1.5,112.00,-134.00,-178.00,150.00,5,6
+2024-07-10 23:11:00,New York Mets,Washington Nationals,-1.5,100.00,-120.00,-205.00,172.00,6,2
+2024-07-10 22:41:00,Detroit Tigers,Cleveland Guardians,1.5,-150.00,125.00,-180.00,140.00,5,4
+2024-07-11 00:11:00,Houston Astros,Miami Marlins,-1.5,-125.00,104.00,-240.00,198.00,9,1
+2024-07-11 00:11:00,Milwaukee Brewers,Pittsburgh Pirates,-1.5,146.00,-178.00,-162.00,136.00,9,0
+2024-07-11 01:45:00,San Francisco Giants,Toronto Blue Jays,-1.5,155.00,-175.00,-156.00,132.00,6,10
+2024-07-11 17:11:00,Cincinnati Reds,Colorado Rockies,-1.5,100.00,-120.00,-210.00,176.00,8,1
+2024-07-11 22:06:00,Philadelphia Phillies,Los Angeles Dodgers,-1.5,130.00,-150.00,-162.00,136.00,5,1
+2024-07-11 23:11:00,Boston Red Sox,Oakland Athletics,-1.5,-111.00,-108.00,-235.00,194.00,7,0
+2024-07-12 00:11:00,Houston Astros,Miami Marlins,-1.5,103.00,-123.00,-198.00,166.00,6,3
+2024-07-12 01:39:00,Los Angeles Angels,Seattle Mariners,1.5,-126.00,105.00,130.00,-154.00,0,11
+2024-07-12 23:11:00,Cincinnati Reds,Miami Marlins,-1.5,135.00,-155.00,-162.00,136.00,7,4
+2024-07-12 23:11:00,New York Mets,Colorado Rockies,-1.5,-113.00,-106.00,-235.00,194.00,7,6
+2024-07-13 00:11:00,Houston Astros,Texas Rangers,-1.5,143.00,-163.00,-164.00,138.00,6,3
+2024-07-13 00:11:00,Milwaukee Brewers,Washington Nationals,-1.5,112.00,-134.00,-196.00,164.00,2,5
+2024-07-13 00:16:00,St. Louis Cardinals,Chicago Cubs,-1.5,112.00,-134.00,-198.00,166.00,1,5
+2024-07-12 22:41:00,Detroit Tigers,Los Angeles Dodgers,-1.5,164.00,-200.00,-196.00,152.00,3,4
+2024-07-12 22:51:00,Tampa Bay Rays,Cleveland Guardians,-1.5,160.00,-180.00,-230.00,178.00,2,0
+2024-07-12 23:06:00,Baltimore Orioles,New York Yankees,1.5,-134.00,112.00,150.00,-192.00,1,4
+2024-07-13 00:11:00,Chicago White Sox,Pittsburgh Pirates,-1.5,132.00,-160.00,-162.00,136.00,1,4
+2024-07-13 18:11:00,Chicago White Sox,Pittsburgh Pirates,1.5,-125.00,104.00,130.00,-154.00,2,6
+2024-07-13 20:05:00,Philadelphia Phillies,Oakland Athletics,-1.5,107.00,-127.00,-205.00,172.00,11,5
+2024-07-13 20:10:00,Cincinnati Reds,Miami Marlins,-1.5,128.00,-148.00,-166.00,140.00,10,6
+2024-07-13 20:10:00,New York Mets,Colorado Rockies,-1.5,-113.00,-107.00,-225.00,188.00,7,3
+2024-07-14 01:38:00,Los Angeles Angels,Seattle Mariners,1.5,-125.00,105.00,132.00,-156.00,2,1
+2024-07-13 23:16:00,San Diego Padres,Atlanta Braves,-1.5,122.00,-160.00,-230.00,174.00,4,0
+2024-07-14 17:36:00,Philadelphia Phillies,Oakland Athletics,-1.5,-113.00,-106.00,-225.00,188.00,3,18
+2024-07-14 17:40:00,Cincinnati Reds,Miami Marlins,-1.5,110.00,-130.00,-198.00,166.00,2,3
+2024-07-14 17:41:00,New York Mets,Colorado Rockies,-1.5,-105.00,-114.00,-225.00,188.00,5,8
+2024-07-14 18:11:00,Chicago White Sox,Pittsburgh Pirates,1.5,-102.00,-118.00,172.00,-205.00,4,9
+2024-07-14 18:11:00,Houston Astros,Texas Rangers,-1.5,134.00,-162.00,-154.00,130.00,2,4
+2024-07-14 20:08:00,Los Angeles Angels,Seattle Mariners,1.5,-108.00,-111.00,158.00,-188.00,3,2
+2024-07-14 20:10:00,Arizona Diamondbacks,Toronto Blue Jays,-1.5,139.00,-159.00,-162.00,136.00,7,8
+2024-07-19 23:05:00,New York Yankees,Tampa Bay Rays,-1.5,122.00,-146.00,-178.00,150.00,6,1
+2024-07-20 00:05:00,Texas Rangers,Baltimore Orioles,1.5,-130.00,108.00,130.00,-154.00,1,9
+2024-07-20 00:10:00,Kansas City Royals,Chicago White Sox,-1.5,100.00,-120.00,-200.00,168.00,7,1
+2024-07-20 00:40:00,Colorado Rockies,San Francisco Giants,1.5,-118.00,-102.00,140.00,-166.00,7,3
+2024-07-19 23:10:00,Cleveland Guardians,San Diego Padres,-1.5,162.00,-196.00,-170.00,132.00,7,0
+2024-07-20 17:06:00,New York Yankees,Tampa Bay Rays,-1.5,132.00,-160.00,-162.00,136.00,1,9
+2024-07-20 20:11:00,Miami Marlins,New York Mets,1.5,-120.00,100.00,142.00,-168.00,0,1
+2024-07-20 22:41:00,Pittsburgh Pirates,Philadelphia Phillies,1.5,-115.00,-104.00,142.00,-168.00,4,1
+2024-07-20 23:11:00,Kansas City Royals,Chicago White Sox,-1.5,102.00,-122.00,-200.00,168.00,6,1
+2024-07-20 23:11:00,Cleveland Guardians,San Diego Padres,1.5,-182.00,150.00,-196.00,152.00,0,7
+2024-07-20 23:16:00,Los Angeles Dodgers,Boston Red Sox,-1.5,142.00,-172.00,-174.00,136.00,7,6
+2024-07-21 00:11:00,Colorado Rockies,San Francisco Giants,1.5,-115.00,-104.00,138.00,-164.00,4,3
+2024-07-21 17:06:00,Minnesota Twins,Milwaukee Brewers,-1.5,130.00,-156.00,-156.00,132.00,7,8
+2024-07-21 17:36:00,Atlanta Braves,St. Louis Cardinals,-1.5,140.00,-170.00,-156.00,132.00,2,6
+2024-07-21 18:11:00,Kansas City Royals,Chicago White Sox,-1.5,-106.00,-113.00,-230.00,190.00,4,1
+2024-07-21 19:10:00,Colorado Rockies,San Francisco Giants,1.5,-120.00,100.00,130.00,-154.00,2,3
+2024-07-22 17:05:00,New York Yankees,Tampa Bay Rays,-1.5,135.00,-155.00,-158.00,134.00,9,1
+2024-07-22 22:40:00,Miami Marlins,New York Mets,1.5,-120.00,100.00,144.00,-172.00,4,6
+2024-07-23 00:20:00,Atlanta Braves,Cincinnati Reds,-1.5,140.00,-160.00,-156.00,132.00,1,4
+2024-07-23 00:06:00,Texas Rangers,Chicago White Sox,-1.5,130.00,-156.00,-162.00,136.00,4,3
+2024-07-23 00:40:00,Colorado Rockies,Boston Red Sox,1.5,100.00,-120.00,158.00,-188.00,9,8
+2024-07-22 22:41:00,Pittsburgh Pirates,St. Louis Cardinals,-1.5,155.00,-175.00,-240.00,182.00,2,1
+2024-07-23 00:11:00,Kansas City Royals,Arizona Diamondbacks,-1.5,130.00,-156.00,-156.00,132.00,10,4
+2024-07-23 01:41:00,Seattle Mariners,Los Angeles Angels,-1.5,134.00,-162.00,-162.00,136.00,1,3
+2024-07-23 22:41:00,Pittsburgh Pirates,St. Louis Cardinals,-1.5,128.00,-154.00,-172.00,144.00,1,2
+2024-07-23 23:06:00,New York Yankees,New York Mets,-1.5,134.00,-162.00,-158.00,134.00,2,3
+2024-07-23 23:08:00,Toronto Blue Jays,Tampa Bay Rays,-1.5,128.00,-154.00,-162.00,136.00,2,4
+2024-07-24 01:41:00,Seattle Mariners,Los Angeles Angels,-1.5,122.00,-146.00,-180.00,152.00,1,5
+2024-07-24 00:41:00,Colorado Rockies,Boston Red Sox,1.5,-113.00,-106.00,132.00,-156.00,0,6
+2024-07-24 02:11:00,Los Angeles Dodgers,San Francisco Giants,-1.5,152.00,-184.00,-154.00,130.00,5,2
+2024-07-24 19:11:00,Colorado Rockies,Boston Red Sox,1.5,-113.00,-106.00,136.00,-162.00,20,7
+2024-07-24 19:37:00,Oakland Athletics,Houston Astros,1.5,-130.00,110.00,138.00,-164.00,1,8
+2024-07-24 19:41:00,Seattle Mariners,Los Angeles Angels,-1.5,105.00,-126.00,-210.00,176.00,1,2
+2024-07-24 23:06:00,New York Yankees,New York Mets,-1.5,126.00,-152.00,-166.00,140.00,3,12
+2024-07-25 00:06:00,Texas Rangers,Chicago White Sox,-1.5,-110.00,-110.00,-250.00,205.00,10,2
+2024-07-25 02:10:00,Los Angeles Dodgers,San Francisco Giants,-1.5,110.00,-130.00,-210.00,176.00,3,8
+2024-07-24 22:43:00,Cleveland Guardians,Detroit Tigers,-1.5,158.00,-192.00,130.00,-166.00,2,1
+2024-07-25 16:06:00,Washington Nationals,San Diego Padres,1.5,-102.00,-118.00,152.00,-180.00,0,3
+2024-07-25 17:11:00,Cleveland Guardians,Detroit Tigers,-1.5,128.00,-154.00,-178.00,150.00,0,3
+2024-07-25 18:36:00,Texas Rangers,Chicago White Sox,-1.5,-115.00,-104.00,-240.00,198.00,2,1
+2024-07-25 23:11:00,New York Mets,Atlanta Braves,1.5,-162.00,134.00,138.00,-178.00,3,2
+2024-07-26 22:41:00,Philadelphia Phillies,Cleveland Guardians,-1.5,125.00,-150.00,-174.00,146.00,1,3
+2024-07-26 22:41:00,Detroit Tigers,Minnesota Twins,1.5,-125.00,104.00,142.00,-168.00,3,9
+2024-07-26 23:06:00,Baltimore Orioles,San Diego Padres,-1.5,104.00,-125.00,-205.00,172.00,4,6
+2024-07-27 00:11:00,Chicago White Sox,Seattle Mariners,1.5,-122.00,102.00,138.00,-164.00,0,10
+2024-07-27 00:11:00,Milwaukee Brewers,Miami Marlins,-1.5,-105.00,-114.00,-220.00,184.00,2,6
+2024-07-27 00:16:00,St. Louis Cardinals,Washington Nationals,-1.5,130.00,-156.00,-162.00,136.00,8,10
+2024-07-27 01:41:00,Arizona Diamondbacks,Pittsburgh Pirates,-1.5,118.00,-142.00,-178.00,150.00,4,3
+2024-07-27 02:16:00,San Francisco Giants,Colorado Rockies,-1.5,126.00,-152.00,-168.00,142.00,11,4
+2024-07-26 23:08:00,Toronto Blue Jays,Texas Rangers,1.5,-184.00,152.00,-245.00,186.00,6,5
+2024-07-27 22:06:00,Philadelphia Phillies,Cleveland Guardians,-1.5,122.00,-146.00,-172.00,144.00,8,0
+2024-07-28 02:06:00,San Francisco Giants,Colorado Rockies,-1.5,116.00,-138.00,-198.00,166.00,5,0
+2024-07-27 23:11:00,Milwaukee Brewers,Miami Marlins,-1.5,140.00,-170.00,-162.00,136.00,3,7
+2024-07-28 00:11:00,Arizona Diamondbacks,Pittsburgh Pirates,-1.5,134.00,-162.00,-162.00,136.00,9,5
+2024-07-27 23:11:00,Houston Astros,Los Angeles Dodgers,-1.5,140.00,-170.00,164.00,-215.00,7,6
+2024-07-27 23:19:00,Boston Red Sox,New York Yankees,1.5,-162.00,134.00,-265.00,200.00,8,11
+2024-07-28 17:36:00,Baltimore Orioles,San Diego Padres,-1.5,130.00,-160.00,-162.00,136.00,8,6
+2024-07-28 17:41:00,Detroit Tigers,Minnesota Twins,1.5,-111.00,-108.00,148.00,-176.00,0,5
+2024-07-28 18:11:00,Kansas City Royals,Chicago Cubs,-1.5,125.00,-150.00,-164.00,138.00,3,7
+2024-07-28 18:11:00,Milwaukee Brewers,Miami Marlins,-1.5,105.00,-126.00,-205.00,172.00,6,2
+2024-07-28 20:06:00,San Francisco Giants,Colorado Rockies,-1.5,112.00,-134.00,-196.00,164.00,5,4
+2024-07-29 22:41:00,Philadelphia Phillies,New York Yankees,-1.5,136.00,-164.00,-154.00,130.00,4,14
+2024-07-30 00:11:00,Chicago White Sox,Kansas City Royals,1.5,-122.00,100.00,138.00,-164.00,5,8
+2024-07-30 00:11:00,Houston Astros,Pittsburgh Pirates,1.5,-130.00,108.00,134.00,-158.00,3,5
+2024-07-30 01:41:00,Arizona Diamondbacks,Washington Nationals,-1.5,122.00,-146.00,-164.00,138.00,9,8
+2024-07-30 22:51:00,Tampa Bay Rays,Miami Marlins,-1.5,130.00,-156.00,-172.00,144.00,9,3
+2024-07-31 00:11:00,Chicago White Sox,Kansas City Royals,1.5,-111.00,-108.00,152.00,-180.00,3,4
+2024-07-31 01:41:00,Arizona Diamondbacks,Washington Nationals,-1.5,126.00,-152.00,-168.00,142.00,17,0
+2024-07-31 01:46:00,San Francisco Giants,Oakland Athletics,-1.5,120.00,-144.00,-184.00,154.00,2,5
+2024-07-31 00:11:00,Houston Astros,Pittsburgh Pirates,-1.5,104.00,-125.00,-198.00,166.00,2,6
+2024-07-31 18:11:00,Chicago White Sox,Kansas City Royals,1.5,105.00,-126.00,164.00,-196.00,3,10
+2024-07-31 19:40:00,Arizona Diamondbacks,Washington Nationals,-1.5,118.00,-142.00,-172.00,144.00,5,4
+2024-07-31 23:20:57,Cincinnati Reds,Chicago Cubs,-1.5,130.00,-156.00,-154.00,130.00,4,13
+2024-08-01 01:45:00,San Francisco Giants,Oakland Athletics,-1.5,112.00,-134.00,-200.00,168.00,1,0
+2024-08-01 00:10:00,Houston Astros,Pittsburgh Pirates,-1.5,100.00,-120.00,-225.00,188.00,5,4
+2024-08-01 22:41:00,Detroit Tigers,Kansas City Royals,1.5,-120.00,100.00,144.00,-172.00,1,7
+2024-08-01 23:21:00,Atlanta Braves,Miami Marlins,-1.5,110.00,-132.00,-200.00,168.00,4,2
+2024-08-03 00:31:00,New York Yankees,Toronto Blue Jays,-1.5,116.00,-138.00,-172.00,144.00,5,8
+2024-08-03 00:11:00,Houston Astros,Tampa Bay Rays,-1.5,128.00,-154.00,-156.00,132.00,3,2
+2024-08-03 01:41:00,San Diego Padres,Colorado Rockies,-1.5,126.00,-152.00,-178.00,150.00,2,5
+2024-08-03 01:41:00,Oakland Athletics,Los Angeles Dodgers,1.5,-114.00,-105.00,144.00,-172.00,6,5
+2024-08-02 22:41:00,Detroit Tigers,Kansas City Royals,1.5,-220.00,180.00,200.00,-265.00,2,9
+2024-08-02 22:46:00,Washington Nationals,Milwaukee Brewers,1.5,-162.00,134.00,140.00,-180.00,3,8
+2024-08-02 23:11:00,Cleveland Guardians,Baltimore Orioles,1.5,-156.00,130.00,-230.00,176.00,8,4
+2024-08-02 23:21:00,Atlanta Braves,Miami Marlins,-1.5,-126.00,105.00,144.00,-186.00,5,3
+2024-08-03 23:21:42,Minnesota Twins,Chicago White Sox,-1.5,130.00,-150.00,-166.00,140.00,6,2
+2024-08-03 23:15:00,Houston Astros,Tampa Bay Rays,-1.5,135.00,-155.00,-154.00,130.00,1,6
+2024-08-03 23:19:59,Atlanta Braves,Miami Marlins,-1.5,-113.00,-106.00,-245.00,200.00,3,4
+2024-08-04 00:40:00,San Diego Padres,Colorado Rockies,-1.5,115.00,-138.00,-198.00,166.00,3,2
+2024-08-04 01:07:00,Oakland Athletics,Los Angeles Dodgers,1.5,-115.00,-105.00,146.00,-174.00,0,10
+2024-08-03 22:35:34,Detroit Tigers,Kansas City Royals,1.5,-142.00,118.00,190.00,-250.00,6,5
+2024-08-03 22:43:03,Pittsburgh Pirates,Arizona Diamondbacks,-1.5,175.00,-205.00,-265.00,200.00,4,2
+2024-08-03 23:15:00,Cincinnati Reds,San Francisco Giants,-1.5,150.00,-170.00,-235.00,180.00,6,4
+2024-08-04 17:36:00,Pittsburgh Pirates,Arizona Diamondbacks,-1.5,134.00,-162.00,-164.00,138.00,5,6
+2024-08-04 17:36:00,New York Yankees,Toronto Blue Jays,-1.5,-108.00,-111.00,-215.00,180.00,4,3
+2024-08-04 17:41:00,Detroit Tigers,Kansas City Royals,1.5,-126.00,105.00,134.00,-158.00,2,3
+2024-08-04 18:11:00,Houston Astros,Tampa Bay Rays,-1.5,128.00,-154.00,-166.00,140.00,0,1
+2024-08-04 20:08:00,Los Angeles Angels,New York Mets,1.5,-118.00,-102.00,134.00,-158.00,3,2
+2024-08-04 20:08:00,Oakland Athletics,Los Angeles Dodgers,1.5,-125.00,104.00,134.00,-158.00,2,3
+2024-08-04 23:11:00,Chicago Cubs,St. Louis Cardinals,-1.5,140.00,-170.00,180.00,-235.00,6,2
+2024-08-05 22:46:00,Washington Nationals,San Francisco Giants,1.5,104.00,-125.00,164.00,-196.00,1,4
+2024-08-06 01:41:00,Oakland Athletics,Chicago White Sox,-1.5,128.00,-154.00,-172.00,144.00,5,1
+2024-08-06 22:41:00,Miami Marlins,Cincinnati Reds,1.5,-128.00,106.00,134.00,-158.00,2,8
+2024-08-06 22:43:46,Pittsburgh Pirates,San Diego Padres,1.5,-126.00,105.00,136.00,-162.00,0,6
+2024-08-07 00:41:00,Colorado Rockies,New York Mets,1.5,-106.00,-113.00,148.00,-176.00,6,3
+2024-08-07 01:41:00,Oakland Athletics,Chicago White Sox,-1.5,120.00,-144.00,-172.00,144.00,1,5
+2024-08-07 01:41:00,Seattle Mariners,Detroit Tigers,-1.5,104.00,-125.00,-205.00,172.00,2,4
+2024-08-06 23:46:00,St. Louis Cardinals,Tampa Bay Rays,-1.5,142.00,-172.00,180.00,-235.00,4,3
+2024-08-07 19:38:00,Oakland Athletics,Chicago White Sox,-1.5,-110.00,-110.00,-225.00,188.00,3,2
+2024-08-07 22:41:00,Miami Marlins,Cincinnati Reds,1.5,-125.00,104.00,136.00,-162.00,6,4
+2024-08-07 22:46:00,Washington Nationals,San Francisco Giants,1.5,-130.00,108.00,130.00,-154.00,4,7
+2024-08-07 23:23:00,Atlanta Braves,Milwaukee Brewers,-1.5,136.00,-164.00,-162.00,136.00,5,8
+2024-08-08 00:41:00,Colorado Rockies,New York Mets,1.5,-113.00,-106.00,130.00,-154.00,3,5
+2024-08-07 22:41:00,Pittsburgh Pirates,San Diego Padres,1.5,-146.00,122.00,144.00,-186.00,8,9
+2024-08-07 23:36:00,New York Yankees,Los Angeles Angels,-1.5,-130.00,105.00,-235.00,180.00,2,8
+2024-08-07 23:46:00,St. Louis Cardinals,Tampa Bay Rays,1.5,-200.00,164.00,-196.00,152.00,5,2
+2024-08-08 19:11:00,Colorado Rockies,New York Mets,1.5,-118.00,-102.00,130.00,-154.00,1,9
+2024-08-08 22:11:00,Miami Marlins,Cincinnati Reds,1.5,-111.00,-110.00,150.00,-178.00,4,10
+2024-08-08 23:06:00,New York Yankees,Los Angeles Angels,-1.5,-111.00,-108.00,-240.00,198.00,4,9
+2024-08-08 23:08:00,Toronto Blue Jays,Baltimore Orioles,1.5,-154.00,128.00,-172.00,134.00,7,6
+2024-08-08 23:16:00,St. Louis Cardinals,Tampa Bay Rays,-1.5,160.00,-194.00,-250.00,190.00,4,6
+2024-08-09 01:41:00,Seattle Mariners,Detroit Tigers,-1.5,105.00,-126.00,-205.00,172.00,4,3
+2024-08-10 00:40:00,Colorado Rockies,Atlanta Braves,1.5,-105.00,-114.00,142.00,-168.00,6,5
+2024-08-10 01:41:00,Arizona Diamondbacks,Philadelphia Phillies,1.5,-118.00,-102.00,140.00,-166.00,3,2
+2024-08-10 02:11:00,Los Angeles Dodgers,Pittsburgh Pirates,-1.5,115.00,-138.00,-184.00,154.00,9,5
+2024-08-09 22:46:00,Washington Nationals,Los Angeles Angels,1.5,-196.00,162.00,172.00,-225.00,3,2
+2024-08-09 23:11:00,Boston Red Sox,Houston Astros,-1.5,-105.00,-125.00,-245.00,186.00,4,8
+2024-08-10 00:11:00,Milwaukee Brewers,Cincinnati Reds,-1.5,152.00,-184.00,-154.00,130.00,8,3
+2024-08-10 02:16:00,San Francisco Giants,Detroit Tigers,-1.5,115.00,-138.00,-190.00,160.00,3,2
+2024-08-10 20:11:20,Miami Marlins,San Diego Padres,1.5,-115.00,-105.00,152.00,-180.00,8,9
+2024-08-10 23:16:00,Chicago White Sox,Chicago Cubs,1.5,116.00,-140.00,194.00,-235.00,1,3
+2024-08-11 00:11:00,Colorado Rockies,Atlanta Braves,1.5,104.00,-125.00,162.00,-194.00,8,11
+2024-08-10 23:11:00,Milwaukee Brewers,Cincinnati Reds,-1.5,160.00,-194.00,-178.00,138.00,1,0
+2024-08-10 23:11:12,Kansas City Royals,St. Louis Cardinals,-1.5,160.00,-194.00,134.00,-172.00,8,3
+2024-08-11 17:38:00,Toronto Blue Jays,Oakland Athletics,-1.5,136.00,-164.00,-156.00,132.00,4,8
+2024-08-11 17:41:00,Miami Marlins,San Diego Padres,1.5,100.00,-120.00,180.00,-215.00,7,6
+2024-08-11 19:10:00,Colorado Rockies,Atlanta Braves,1.5,-103.00,-117.00,154.00,-184.00,9,8
+2024-08-11 20:06:00,San Francisco Giants,Detroit Tigers,-1.5,126.00,-152.00,-172.00,144.00,4,5
+2024-08-12 23:41:00,Minnesota Twins,Kansas City Royals,-1.5,140.00,-170.00,-156.00,132.00,8,3
+2024-08-13 01:41:00,Arizona Diamondbacks,Colorado Rockies,-1.5,110.00,-132.00,-215.00,180.00,5,4
+2024-08-13 01:41:00,San Diego Padres,Pittsburgh Pirates,-1.5,136.00,-164.00,-162.00,136.00,2,1
+2024-08-12 23:11:00,Boston Red Sox,Texas Rangers,-1.5,150.00,-182.00,-200.00,154.00,5,4
+2024-08-13 22:36:00,Baltimore Orioles,Washington Nationals,-1.5,126.00,-152.00,-162.00,136.00,3,9
+2024-08-13 22:41:00,Philadelphia Phillies,Miami Marlins,-1.5,116.00,-140.00,-178.00,150.00,0,5
+2024-08-13 23:11:00,New York Mets,Oakland Athletics,-1.5,128.00,-154.00,-166.00,140.00,4,9
+2024-08-14 01:40:00,Arizona Diamondbacks,Colorado Rockies,-1.5,-115.00,-105.00,-240.00,198.00,4,3
+2024-08-14 01:40:00,San Diego Padres,Pittsburgh Pirates,-1.5,108.00,-128.00,-200.00,168.00,3,0
+2024-08-13 23:11:00,Boston Red Sox,Texas Rangers,-1.5,142.00,-172.00,-265.00,200.00,9,4
+2024-08-14 19:41:00,Arizona Diamondbacks,Colorado Rockies,-1.5,-102.00,-118.00,-220.00,184.00,11,4
+2024-08-14 22:11:00,Boston Red Sox,Texas Rangers,-1.5,125.00,-150.00,-168.00,142.00,7,9
+2024-08-14 22:36:00,Baltimore Orioles,Washington Nationals,-1.5,122.00,-146.00,-172.00,144.00,4,1
+2024-08-14 22:41:00,Philadelphia Phillies,Miami Marlins,-1.5,110.00,-132.00,-205.00,172.00,9,5
+2024-08-14 23:11:00,New York Mets,Oakland Athletics,-1.5,118.00,-142.00,-174.00,146.00,9,1
+2024-08-14 22:41:08,Detroit Tigers,Seattle Mariners,1.5,-125.00,-105.00,190.00,-250.00,3,2
+2024-08-14 22:51:00,Tampa Bay Rays,Houston Astros,1.5,-152.00,126.00,200.00,-265.00,1,2
+2024-08-15 00:11:00,Chicago White Sox,New York Yankees,1.5,132.00,-160.00,205.00,-250.00,2,10
+2024-08-15 17:11:00,Detroit Tigers,Seattle Mariners,1.5,-134.00,112.00,130.00,-154.00,2,1
+2024-08-15 17:11:00,New York Mets,Oakland Athletics,-1.5,126.00,-152.00,-168.00,142.00,6,7
+2024-08-15 22:41:00,Philadelphia Phillies,Washington Nationals,-1.5,-105.00,-114.00,-240.00,198.00,13,3
+2024-08-16 22:41:00,Detroit Tigers,New York Yankees,1.5,-104.00,-115.00,160.00,-190.00,0,3
+2024-08-16 23:06:00,Baltimore Orioles,Boston Red Sox,-1.5,-104.00,-115.00,-225.00,188.00,10,12
+2024-08-16 23:11:00,New York Mets,Miami Marlins,-1.5,-104.00,-115.00,-225.00,188.00,7,3
+2024-08-17 00:10:00,Houston Astros,Chicago White Sox,-1.5,110.00,-130.00,-198.00,166.00,4,5
+2024-08-17 00:40:00,Colorado Rockies,San Diego Padres,1.5,-110.00,-110.00,152.00,-180.00,7,3
+2024-08-17 01:38:00,Los Angeles Angels,Atlanta Braves,1.5,-130.00,110.00,132.00,-156.00,3,2
+2024-08-16 22:41:00,Pittsburgh Pirates,Seattle Mariners,-1.5,180.00,-220.00,162.00,-210.00,5,3
+2024-08-17 17:06:00,Pittsburgh Pirates,Seattle Mariners,1.5,-118.00,-102.00,140.00,-166.00,7,2
+2024-08-17 17:11:00,Detroit Tigers,New York Yankees,1.5,-106.00,-113.00,158.00,-188.00,4,0
+2024-08-17 18:21:00,Chicago Cubs,Toronto Blue Jays,-1.5,128.00,-154.00,-162.00,136.00,3,2
+2024-08-17 20:11:00,New York Mets,Miami Marlins,-1.5,108.00,-130.00,-198.00,166.00,4,0
+2024-08-17 22:38:00,Philadelphia Phillies,Washington Nationals,-1.5,105.00,-126.00,-215.00,180.00,5,1
+2024-08-17 23:16:00,St. Louis Cardinals,Los Angeles Dodgers,1.5,-105.00,-114.00,154.00,-184.00,5,2
+2024-08-18 00:11:00,Colorado Rockies,San Diego Padres,1.5,108.00,-130.00,180.00,-215.00,3,8
+2024-08-18 01:39:00,Los Angeles Angels,Atlanta Braves,1.5,108.00,-130.00,188.00,-225.00,3,11
+2024-08-17 23:16:00,Milwaukee Brewers,Cleveland Guardians,1.5,-196.00,162.00,-265.00,200.00,2,1
+2024-08-18 16:06:00,New York Mets,Miami Marlins,-1.5,108.00,-130.00,-198.00,166.00,2,3
+2024-08-18 17:36:00,Philadelphia Phillies,Washington Nationals,-1.5,116.00,-140.00,-172.00,144.00,4,6
+2024-08-18 18:21:00,Chicago Cubs,Toronto Blue Jays,-1.5,125.00,-150.00,-178.00,150.00,0,1
+2024-08-18 19:11:00,Colorado Rockies,San Diego Padres,1.5,120.00,-144.00,176.00,-210.00,3,2
+2024-08-18 20:08:00,Los Angeles Angels,Atlanta Braves,1.5,-115.00,-104.00,134.00,-158.00,1,3
+2024-08-18 20:08:00,Oakland Athletics,San Francisco Giants,1.5,-115.00,-104.00,144.00,-172.00,2,4
+2024-08-19 22:41:00,Miami Marlins,Arizona Diamondbacks,1.5,-102.00,-118.00,172.00,-205.00,6,9
+2024-08-19 23:08:00,Toronto Blue Jays,Cincinnati Reds,-1.5,126.00,-152.00,-168.00,142.00,3,6
+2024-08-20 00:11:00,Kansas City Royals,Los Angeles Angels,-1.5,108.00,-130.00,-205.00,172.00,5,3
+2024-08-20 01:46:00,San Francisco Giants,Chicago White Sox,-1.5,-102.00,-118.00,-220.00,184.00,5,3
+2024-08-20 00:06:00,Texas Rangers,Pittsburgh Pirates,-1.5,160.00,-194.00,-154.00,130.00,4,3
+2024-08-20 01:41:00,San Diego Padres,Minnesota Twins,-1.5,150.00,-182.00,-164.00,138.00,5,3
+2024-08-20 22:41:00,Miami Marlins,Arizona Diamondbacks,1.5,-137.00,114.00,130.00,-154.00,1,3
+2024-08-20 23:08:00,New York Yankees,Cleveland Guardians,-1.5,132.00,-160.00,-158.00,134.00,5,9
+2024-08-21 00:11:00,Kansas City Royals,Los Angeles Angels,-1.5,112.00,-134.00,-196.00,164.00,5,9
+2024-08-21 01:46:00,San Francisco Giants,Chicago White Sox,-1.5,-118.00,-102.00,-250.00,205.00,4,1
+2024-08-20 22:46:00,Washington Nationals,Colorado Rockies,-1.5,152.00,-184.00,150.00,-194.00,1,3
+2024-08-21 02:11:00,Los Angeles Dodgers,Seattle Mariners,-1.5,152.00,-184.00,-162.00,136.00,6,3
+2024-08-21 19:46:00,San Francisco Giants,Chicago White Sox,-1.5,-105.00,-114.00,-240.00,198.00,2,6
+2024-08-21 22:41:00,Miami Marlins,Arizona Diamondbacks,1.5,-120.00,100.00,138.00,-164.00,8,10
+2024-08-21 22:46:00,Washington Nationals,Colorado Rockies,-1.5,128.00,-154.00,-164.00,138.00,6,1
+2024-08-21 23:06:00,New York Yankees,Cleveland Guardians,-1.5,126.00,-152.00,-164.00,138.00,8,1
+2024-08-22 00:06:00,Chicago Cubs,Detroit Tigers,-1.5,138.00,-166.00,-156.00,132.00,2,8
+2024-08-22 00:11:00,Kansas City Royals,Los Angeles Angels,-1.5,108.00,-130.00,-188.00,158.00,3,0
+2024-08-22 02:11:00,Los Angeles Dodgers,Seattle Mariners,-1.5,122.00,-146.00,-180.00,152.00,8,4
+2024-08-22 17:06:00,New York Yankees,Cleveland Guardians,-1.5,132.00,-160.00,-164.00,138.00,6,0
+2024-08-22 18:21:00,Chicago Cubs,Detroit Tigers,-1.5,106.00,-128.00,-210.00,176.00,10,2
+2024-08-22 23:08:00,Toronto Blue Jays,Los Angeles Angels,-1.5,126.00,-152.00,-168.00,142.00,5,3
+2024-08-22 23:09:00,Baltimore Orioles,Houston Astros,-1.5,130.00,-156.00,-168.00,142.00,0,6
+2024-08-22 22:41:00,Pittsburgh Pirates,Cincinnati Reds,-1.5,152.00,-184.00,-180.00,140.00,7,0
+2024-08-22 23:16:00,Atlanta Braves,Philadelphia Phillies,1.5,-194.00,160.00,-170.00,132.00,3,2
+2024-08-23 01:41:00,San Diego Padres,New York Mets,-1.5,155.00,-188.00,-158.00,134.00,3,8
+2024-08-23 23:10:00,Toronto Blue Jays,Los Angeles Angels,-1.5,106.00,-128.00,-190.00,160.00,5,4
+2024-08-24 00:11:00,Chicago White Sox,Detroit Tigers,1.5,-111.00,-108.00,140.00,-166.00,2,5
+2024-08-24 02:11:00,Los Angeles Dodgers,Tampa Bay Rays,-1.5,110.00,-132.00,-188.00,158.00,7,3
+2024-08-24 02:10:00,Seattle Mariners,San Francisco Giants,-1.5,143.00,-163.00,-156.00,132.00,6,5
+2024-08-24 18:05:00,New York Yankees,Colorado Rockies,-1.5,-111.00,-108.00,-245.00,200.00,2,9
+2024-08-24 19:08:00,Toronto Blue Jays,Los Angeles Angels,-1.5,122.00,-146.00,-166.00,140.00,3,1
+2024-08-24 20:10:00,Miami Marlins,Chicago Cubs,1.5,-122.00,102.00,142.00,-168.00,2,14
+2024-08-24 23:21:00,Atlanta Braves,Washington Nationals,-1.5,118.00,-142.00,-174.00,146.00,4,2
+2024-08-25 01:11:00,Los Angeles Dodgers,Tampa Bay Rays,-1.5,118.00,-142.00,-172.00,144.00,8,9
+2024-08-24 23:11:00,Kansas City Royals,Philadelphia Phillies,1.5,-150.00,125.00,152.00,-196.00,2,11
+2024-08-25 16:06:00,Atlanta Braves,Washington Nationals,-1.5,116.00,-138.00,-190.00,160.00,1,5
+2024-08-25 17:38:00,Toronto Blue Jays,Los Angeles Angels,-1.5,130.00,-156.00,-162.00,136.00,8,2
+2024-08-25 17:41:00,Miami Marlins,Chicago Cubs,1.5,-115.00,-104.00,144.00,-172.00,7,2
+2024-08-25 20:11:00,Los Angeles Dodgers,Tampa Bay Rays,-1.5,106.00,-128.00,-198.00,166.00,3,1
+2024-08-26 22:41:00,Philadelphia Phillies,Houston Astros,-1.5,130.00,-156.00,-168.00,142.00,3,2
+2024-08-26 22:46:00,Washington Nationals,New York Yankees,1.5,-104.00,-115.00,154.00,-184.00,2,5
+2024-08-26 23:09:37,Boston Red Sox,Toronto Blue Jays,-1.5,125.00,-145.00,-154.00,130.00,3,7
+2024-08-26 23:46:00,St. Louis Cardinals,San Diego Padres,1.5,-113.00,-115.00,146.00,-188.00,4,7
+2024-08-28 00:05:00,Detroit Tigers,Los Angeles Angels,-1.5,130.00,-156.00,-154.00,130.00,6,2
+2024-08-27 22:46:00,Washington Nationals,New York Yankees,1.5,120.00,-144.00,194.00,-240.00,4,2
+2024-08-28 00:11:00,Chicago White Sox,Texas Rangers,1.5,-128.00,106.00,132.00,-156.00,1,3
+2024-08-28 02:10:00,Los Angeles Dodgers,Baltimore Orioles,-1.5,110.00,-132.00,-198.00,166.00,2,3
+2024-08-27 22:41:00,Cincinnati Reds,Oakland Athletics,-1.5,132.00,-160.00,-280.00,210.00,4,5
+2024-08-28 01:40:00,Seattle Mariners,Tampa Bay Rays,-1.5,146.00,-176.00,-164.00,138.00,2,3
+2024-08-28 16:35:00,Pittsburgh Pirates,Chicago Cubs,-1.5,130.00,-150.00,-168.00,142.00,10,14
+2024-08-28 20:11:00,Seattle Mariners,Tampa Bay Rays,-1.5,125.00,-150.00,-180.00,152.00,6,2
+2024-08-28 22:45:53,Washington Nationals,New York Yankees,1.5,-104.00,-116.00,154.00,-184.00,5,2
+2024-08-29 00:10:00,Milwaukee Brewers,San Francisco Giants,-1.5,130.00,-150.00,-158.00,134.00,5,3
+2024-08-29 00:11:00,Chicago White Sox,Texas Rangers,1.5,-108.00,-113.00,154.00,-184.00,3,4
+2024-08-28 23:40:00,Minnesota Twins,Atlanta Braves,1.5,-135.00,115.00,186.00,-245.00,1,5
+2024-08-28 23:45:00,St. Louis Cardinals,San Diego Padres,1.5,-150.00,130.00,210.00,-280.00,4,3
+2024-08-29 00:05:00,Detroit Tigers,Los Angeles Angels,-1.5,125.00,-150.00,-162.00,136.00,3,2
+2024-08-29 17:11:00,Detroit Tigers,Los Angeles Angels,-1.5,118.00,-142.00,-168.00,142.00,0,3
+2024-08-29 18:11:00,Chicago White Sox,Texas Rangers,1.5,125.00,-150.00,198.00,-240.00,1,2
+2024-08-30 00:11:00,Houston Astros,Kansas City Royals,-1.5,146.00,-176.00,-156.00,132.00,6,3
+2024-08-30 02:11:00,Los Angeles Dodgers,Baltimore Orioles,-1.5,118.00,-144.00,-164.00,138.00,6,3
+2024-08-30 22:46:00,Washington Nationals,Chicago Cubs,1.5,-125.00,104.00,136.00,-162.00,6,7
+2024-08-30 23:06:00,New York Yankees,St. Louis Cardinals,-1.5,115.00,-138.00,-172.00,144.00,6,3
+2024-08-30 23:11:00,Cleveland Guardians,Pittsburgh Pirates,-1.5,122.00,-146.00,-164.00,138.00,10,8
+2024-08-31 00:11:00,Chicago White Sox,New York Mets,1.5,108.00,-130.00,180.00,-215.00,1,5
+2024-08-31 00:11:00,Houston Astros,Kansas City Royals,-1.5,136.00,-164.00,-166.00,140.00,3,2
+2024-08-31 00:11:00,Minnesota Twins,Toronto Blue Jays,-1.5,142.00,-172.00,-158.00,134.00,2,0
+2024-08-31 00:41:00,Colorado Rockies,Baltimore Orioles,1.5,100.00,-120.00,152.00,-180.00,3,5
+2024-08-31 01:39:00,Los Angeles Angels,Seattle Mariners,1.5,-115.00,-104.00,148.00,-176.00,5,9
+2024-08-30 22:41:00,Cincinnati Reds,Milwaukee Brewers,1.5,-150.00,125.00,146.00,-192.00,0,14
+2024-08-31 17:06:00,New York Yankees,St. Louis Cardinals,-1.5,114.00,-137.00,-166.00,140.00,5,6
+2024-08-31 22:11:00,Detroit Tigers,Boston Red Sox,-1.5,142.00,-172.00,-154.00,130.00,2,1
+2024-08-31 22:11:00,Cleveland Guardians,Pittsburgh Pirates,-1.5,130.00,-156.00,-162.00,136.00,0,3
+2024-08-31 23:11:00,Chicago White Sox,New York Mets,1.5,-102.00,-118.00,164.00,-196.00,3,5
+2024-09-01 00:11:00,Colorado Rockies,Baltimore Orioles,1.5,-110.00,-110.00,142.00,-168.00,7,5
+2024-09-01 01:39:00,Los Angeles Angels,Seattle Mariners,1.5,-120.00,100.00,138.00,-164.00,5,4
+2024-08-31 23:16:00,Philadelphia Phillies,Atlanta Braves,-1.5,138.00,-166.00,-205.00,158.00,3,0
+2024-09-01 17:36:00,New York Yankees,St. Louis Cardinals,-1.5,106.00,-128.00,-200.00,168.00,7,14
+2024-09-01 18:11:00,Chicago White Sox,New York Mets,1.5,-114.00,-105.00,148.00,-176.00,0,2
+2024-09-01 18:11:00,Houston Astros,Kansas City Royals,-1.5,132.00,-160.00,-166.00,140.00,7,2
+2024-09-01 18:11:00,Minnesota Twins,Toronto Blue Jays,-1.5,114.00,-137.00,-188.00,158.00,4,3
+2024-09-01 20:06:00,San Francisco Giants,Miami Marlins,-1.5,100.00,-120.00,-235.00,194.00,5,7
+2024-09-01 20:08:00,Los Angeles Angels,Seattle Mariners,1.5,-125.00,104.00,134.00,-158.00,3,2
+2024-09-02 18:11:00,Milwaukee Brewers,St. Louis Cardinals,-1.5,132.00,-160.00,-162.00,136.00,9,3
+2024-09-02 20:11:00,Cincinnati Reds,Houston Astros,1.5,-108.00,-111.00,144.00,-172.00,5,3
+2024-09-02 22:41:00,San Diego Padres,Detroit Tigers,-1.5,132.00,-160.00,-168.00,142.00,3,0
+2024-09-03 00:06:00,Texas Rangers,New York Yankees,1.5,100.00,-120.00,154.00,-184.00,4,8
+2024-09-02 22:51:00,Tampa Bay Rays,Minnesota Twins,1.5,-176.00,146.00,200.00,-260.00,4,5
+2024-09-02 23:41:00,Chicago Cubs,Pittsburgh Pirates,-1.5,158.00,-192.00,-192.00,148.00,3,5
+2024-09-03 23:41:00,Milwaukee Brewers,St. Louis Cardinals,-1.5,134.00,-162.00,-154.00,130.00,4,7
+2024-09-04 01:39:00,Los Angeles Angels,Los Angeles Dodgers,1.5,-110.00,-110.00,146.00,-174.00,2,6
+2024-09-03 22:51:00,Tampa Bay Rays,Minnesota Twins,1.5,-178.00,146.00,-220.00,168.00,2,1
+2024-09-04 00:06:00,Texas Rangers,New York Yankees,1.5,-140.00,116.00,130.00,-154.00,7,4
+2024-09-04 01:41:00,Oakland Athletics,Seattle Mariners,1.5,-134.00,112.00,130.00,-154.00,3,2
+2024-09-04 23:41:00,Chicago Cubs,Pittsburgh Pirates,-1.5,115.00,-138.00,-190.00,160.00,12,0
+2024-09-05 01:39:00,Los Angeles Angels,Los Angeles Dodgers,1.5,104.00,-125.00,158.00,-188.00,10,1
+2024-09-05 01:41:00,San Diego Padres,Detroit Tigers,-1.5,114.00,-137.00,-188.00,158.00,6,5
+2024-09-04 23:11:00,New York Mets,Boston Red Sox,1.5,-176.00,146.00,-230.00,176.00,8,3
+2024-09-04 23:42:00,Milwaukee Brewers,St. Louis Cardinals,1.5,-164.00,136.00,162.00,-210.00,2,3
+2024-09-05 17:11:00,Cincinnati Reds,Houston Astros,1.5,-125.00,104.00,134.00,-158.00,1,0
+2024-09-05 22:41:00,Miami Marlins,Philadelphia Phillies,1.5,105.00,-126.00,176.00,-210.00,2,5
+2024-09-06 00:06:00,Texas Rangers,Los Angeles Angels,-1.5,136.00,-164.00,-154.00,130.00,3,1
+2024-09-05 23:21:00,Atlanta Braves,Colorado Rockies,-1.5,-126.00,105.00,-265.00,200.00,1,3
+2024-09-06 00:41:00,San Diego Padres,Detroit Tigers,-1.5,140.00,-170.00,-158.00,134.00,3,4
+2024-09-06 22:11:00,Milwaukee Brewers,Colorado Rockies,-1.5,104.00,-125.00,-215.00,180.00,2,3
+2024-09-06 23:11:00,New York Mets,Cincinnati Reds,-1.5,136.00,-164.00,-162.00,136.00,6,4
+2024-09-06 23:11:00,Miami Marlins,Philadelphia Phillies,1.5,114.00,-137.00,198.00,-240.00,2,16
+2024-09-06 23:21:00,Atlanta Braves,Toronto Blue Jays,-1.5,115.00,-138.00,-180.00,152.00,3,1
+2024-09-07 00:06:00,Texas Rangers,Los Angeles Angels,-1.5,116.00,-140.00,-172.00,144.00,1,5
+2024-09-07 00:11:00,Houston Astros,Arizona Diamondbacks,-1.5,138.00,-166.00,-158.00,134.00,8,0
+2024-09-07 01:41:00,Oakland Athletics,Detroit Tigers,1.5,-125.00,104.00,142.00,-168.00,7,6
+2024-09-07 02:11:00,Los Angeles Dodgers,Cleveland Guardians,-1.5,134.00,-162.00,-156.00,132.00,1,3
+2024-09-06 23:06:00,Baltimore Orioles,Tampa Bay Rays,-1.5,158.00,-192.00,-210.00,162.00,2,0
+2024-09-07 01:40:00,San Diego Padres,San Francisco Giants,-1.5,-102.00,-118.00,-210.00,176.00,5,1
+2024-09-07 20:06:00,Baltimore Orioles,Tampa Bay Rays,-1.5,120.00,-144.00,-174.00,146.00,1,7
+2024-09-07 20:11:00,Houston Astros,Arizona Diamondbacks,-1.5,130.00,-156.00,-158.00,134.00,11,5
+2024-09-07 20:11:00,Miami Marlins,Philadelphia Phillies,1.5,110.00,-132.00,190.00,-230.00,9,5
+2024-09-07 23:11:00,Milwaukee Brewers,Colorado Rockies,-1.5,-110.00,-110.00,-250.00,205.00,5,2
+2024-09-07 23:16:00,Boston Red Sox,Chicago White Sox,-1.5,102.00,-122.00,-205.00,172.00,7,5
+2024-09-07 23:21:00,Atlanta Braves,Toronto Blue Jays,-1.5,116.00,-140.00,-180.00,152.00,5,9
+2024-09-08 00:41:00,San Diego Padres,San Francisco Giants,-1.5,142.00,-172.00,-154.00,130.00,3,6
+2024-09-07 23:06:00,Texas Rangers,Los Angeles Angels,-1.5,146.00,-178.00,190.00,-250.00,6,4
+2024-09-08 16:06:00,Baltimore Orioles,Tampa Bay Rays,-1.5,114.00,-137.00,-198.00,166.00,0,2
+2024-09-08 17:36:00,Pittsburgh Pirates,Washington Nationals,-1.5,134.00,-162.00,-164.00,138.00,7,3
+2024-09-08 18:21:00,Chicago Cubs,New York Yankees,1.5,-114.00,-105.00,134.00,-158.00,2,1
+2024-09-08 18:36:00,Texas Rangers,Los Angeles Angels,-1.5,126.00,-152.00,-164.00,138.00,7,4
+2024-09-08 20:11:00,Los Angeles Dodgers,Cleveland Guardians,-1.5,122.00,-146.00,-166.00,140.00,4,0
+2024-09-08 20:11:00,San Diego Padres,San Francisco Giants,-1.5,114.00,-137.00,-205.00,172.00,6,7
+2024-09-09 22:41:00,Pittsburgh Pirates,Miami Marlins,-1.5,-111.00,-108.00,-255.00,210.00,3,2
+2024-09-09 22:41:00,Philadelphia Phillies,Tampa Bay Rays,-1.5,112.00,-134.00,-198.00,166.00,2,1
+2024-09-09 23:09:00,New York Yankees,Kansas City Royals,-1.5,108.00,-130.00,-178.00,150.00,10,4
+2024-09-09 23:41:00,Chicago White Sox,Cleveland Guardians,1.5,114.00,-137.00,184.00,-220.00,3,5
+2024-09-09 23:41:00,Minnesota Twins,Los Angeles Angels,-1.5,112.00,-134.00,-188.00,158.00,2,6
+2024-09-10 02:11:00,Los Angeles Dodgers,Chicago Cubs,-1.5,112.00,-134.00,-174.00,146.00,4,10
+2024-09-10 22:41:00,Detroit Tigers,Colorado Rockies,-1.5,130.00,-156.00,-172.00,144.00,11,0
+2024-09-10 22:41:00,Philadelphia Phillies,Tampa Bay Rays,-1.5,130.00,-160.00,-162.00,136.00,9,4
+2024-09-10 22:46:00,Washington Nationals,Atlanta Braves,1.5,-122.00,102.00,136.00,-162.00,0,12
+2024-09-10 23:41:00,Chicago White Sox,Cleveland Guardians,1.5,114.00,-137.00,184.00,-220.00,0,5
+2024-09-11 00:11:00,Houston Astros,Oakland Athletics,-1.5,114.00,-137.00,-184.00,154.00,3,4
+2024-09-11 02:11:00,Los Angeles Dodgers,Chicago Cubs,-1.5,132.00,-160.00,-154.00,130.00,3,6
+2024-09-10 23:06:00,New York Yankees,Kansas City Royals,-1.5,138.00,-166.00,200.00,-265.00,0,5
+2024-09-10 23:41:00,Minnesota Twins,Los Angeles Angels,-1.5,-113.00,-106.00,-265.00,200.00,10,5
+2024-09-10 23:46:00,St. Louis Cardinals,Cincinnati Reds,-1.5,164.00,-200.00,-210.00,162.00,0,3
+2024-09-11 01:41:00,Arizona Diamondbacks,Texas Rangers,-1.5,146.00,-178.00,-174.00,146.00,6,0
+2024-09-11 18:11:00,Chicago White Sox,Cleveland Guardians,1.5,108.00,-130.00,188.00,-225.00,4,6
+2024-09-11 22:41:00,Philadelphia Phillies,Tampa Bay Rays,-1.5,114.00,-134.00,-198.00,166.00,3,2
+2024-09-11 22:46:00,Washington Nationals,Atlanta Braves,1.5,-114.00,-105.00,148.00,-176.00,5,1
+2024-09-11 23:06:00,New York Yankees,Kansas City Royals,-1.5,134.00,-162.00,-154.00,130.00,4,3
+2024-09-11 23:11:00,Minnesota Twins,Los Angeles Angels,-1.5,106.00,-128.00,-215.00,180.00,6,4
+2024-09-12 00:10:00,Houston Astros,Oakland Athletics,-1.5,105.00,-126.00,-210.00,176.00,4,5
+2024-09-12 02:11:00,Los Angeles Dodgers,Chicago Cubs,-1.5,116.00,-140.00,-162.00,136.00,10,8
+2024-09-11 23:11:00,Boston Red Sox,Baltimore Orioles,1.5,-178.00,146.00,132.00,-170.00,5,3
+2024-09-11 23:46:00,St. Louis Cardinals,Cincinnati Reds,-1.5,152.00,-184.00,-225.00,172.00,2,1
+2024-09-12 17:11:00,Detroit Tigers,Colorado Rockies,-1.5,-111.00,-108.00,-250.00,205.00,2,4
+2024-09-12 17:16:00,St. Louis Cardinals,Cincinnati Reds,-1.5,130.00,-156.00,-168.00,142.00,6,1
+2024-09-12 18:11:00,Houston Astros,Oakland Athletics,-1.5,-104.00,-115.00,-235.00,194.00,6,3
+2024-09-12 23:16:00,New York Yankees,Boston Red Sox,-1.5,122.00,-146.00,-172.00,144.00,2,1
+2024-09-13 01:41:00,Seattle Mariners,Texas Rangers,-1.5,140.00,-170.00,-156.00,132.00,4,5
+2024-09-12 23:16:00,Cleveland Guardians,Tampa Bay Rays,-1.5,158.00,-192.00,-220.00,168.00,2,5
+2024-09-13 22:41:00,Philadelphia Phillies,New York Mets,-1.5,130.00,-156.00,-158.00,134.00,3,11
+2024-09-13 23:11:00,Cleveland Guardians,Tampa Bay Rays,-1.5,130.00,-160.00,-166.00,140.00,1,3
+2024-09-14 00:11:00,Minnesota Twins,Cincinnati Reds,-1.5,100.00,-120.00,-220.00,184.00,4,8
+2024-09-14 01:39:00,Los Angeles Angels,Houston Astros,1.5,112.00,-134.00,188.00,-225.00,3,5
+2024-09-13 22:41:00,Detroit Tigers,Baltimore Orioles,1.5,-138.00,115.00,-265.00,200.00,1,0
+2024-09-13 22:46:00,Washington Nationals,Miami Marlins,-1.5,150.00,-182.00,-235.00,180.00,4,1
+2024-09-13 23:08:00,New York Yankees,Boston Red Sox,-1.5,136.00,-164.00,-215.00,164.00,5,4
+2024-09-13 23:08:00,Toronto Blue Jays,St. Louis Cardinals,-1.5,160.00,-194.00,164.00,-215.00,4,3
+2024-09-14 17:06:00,New York Yankees,Boston Red Sox,-1.5,116.00,-140.00,-190.00,160.00,1,7
+2024-09-14 22:11:00,Detroit Tigers,Baltimore Orioles,1.5,-114.00,-105.00,146.00,-174.00,2,4
+2024-09-14 23:11:00,Chicago White Sox,Oakland Athletics,1.5,-114.00,-105.00,144.00,-172.00,7,6
+2024-09-14 23:11:00,Minnesota Twins,Cincinnati Reds,-1.5,136.00,-164.00,-156.00,132.00,1,11
+2024-09-15 01:39:00,Los Angeles Angels,Houston Astros,1.5,-128.00,106.00,134.00,-158.00,3,5
+2024-09-14 23:21:00,Atlanta Braves,Los Angeles Dodgers,1.5,-205.00,168.00,-260.00,200.00,10,1
+2024-09-15 00:11:00,Arizona Diamondbacks,Milwaukee Brewers,-1.5,155.00,-188.00,-158.00,134.00,8,15
+2024-09-15 01:06:00,San Francisco Giants,San Diego Padres,1.5,-138.00,115.00,136.00,-162.00,0,8
+2024-09-15 01:41:00,Seattle Mariners,Texas Rangers,-1.5,168.00,-205.00,-166.00,140.00,5,4
+2024-09-15 17:06:00,Minnesota Twins,Cincinnati Reds,-1.5,118.00,-142.00,-168.00,142.00,9,2
+2024-09-15 17:36:00,New York Yankees,Boston Red Sox,-1.5,114.00,-137.00,-178.00,150.00,5,2
+2024-09-15 17:36:00,Washington Nationals,Miami Marlins,-1.5,126.00,-150.00,-168.00,142.00,4,3
+2024-09-15 18:11:00,Chicago White Sox,Oakland Athletics,1.5,-113.00,-106.00,150.00,-178.00,4,3
+2024-09-15 20:08:00,Los Angeles Angels,Houston Astros,1.5,-108.00,-111.00,168.00,-200.00,4,6
+2024-09-15 20:11:00,Arizona Diamondbacks,Milwaukee Brewers,-1.5,130.00,-156.00,-166.00,140.00,11,10
+2024-09-15 20:11:00,Seattle Mariners,Texas Rangers,-1.5,136.00,-164.00,-172.00,144.00,7,0
+2024-09-16 23:11:00,New York Mets,Washington Nationals,-1.5,120.00,-140.00,-172.00,144.00,2,1
+2024-09-16 23:40:03,Chicago Cubs,Oakland Athletics,-1.5,112.00,-134.00,-188.00,158.00,9,2
+2024-09-17 00:40:00,Colorado Rockies,Arizona Diamondbacks,1.5,-115.00,-105.00,144.00,-172.00,3,2
+2024-09-17 01:38:00,Los Angeles Angels,Chicago White Sox,-1.5,115.00,-135.00,-184.00,154.00,4,8
+2024-09-17 22:41:00,Miami Marlins,Los Angeles Dodgers,1.5,102.00,-122.00,154.00,-184.00,11,9
+2024-09-17 23:11:00,New York Mets,Washington Nationals,-1.5,136.00,-164.00,-162.00,136.00,10,1
+2024-09-17 23:41:00,Kansas City Royals,Detroit Tigers,-1.5,138.00,-166.00,-156.00,132.00,1,3
+2024-09-18 01:39:00,Los Angeles Angels,Chicago White Sox,-1.5,140.00,-170.00,-154.00,130.00,5,0
+2024-09-17 22:41:00,Cleveland Guardians,Minnesota Twins,1.5,-196.00,162.00,136.00,-174.00,1,4
+2024-09-17 23:41:00,Chicago Cubs,Oakland Athletics,-1.5,142.00,-172.00,162.00,-210.00,3,4
+2024-09-18 18:21:00,Chicago Cubs,Oakland Athletics,-1.5,134.00,-162.00,-162.00,136.00,3,5
+2024-09-18 22:36:00,Baltimore Orioles,San Francisco Giants,-1.5,130.00,-156.00,-166.00,140.00,3,5
+2024-09-18 22:41:00,Miami Marlins,Los Angeles Dodgers,1.5,-110.00,-110.00,144.00,-172.00,4,8
+2024-09-18 23:11:00,New York Mets,Washington Nationals,-1.5,132.00,-160.00,-162.00,136.00,10,0
+2024-09-18 23:46:00,St. Louis Cardinals,Pittsburgh Pirates,-1.5,126.00,-152.00,-168.00,142.00,10,5
+2024-09-19 17:11:00,Cincinnati Reds,Atlanta Braves,1.5,-102.00,-118.00,172.00,-205.00,3,15
+2024-09-19 20:41:00,Miami Marlins,Los Angeles Dodgers,1.5,102.00,-122.00,176.00,-210.00,4,20
+2024-09-19 23:41:00,Chicago Cubs,Washington Nationals,-1.5,112.00,-134.00,-190.00,160.00,7,6
+2024-09-19 23:16:00,New York Mets,Philadelphia Phillies,-1.5,150.00,-182.00,-170.00,132.00,10,6
+2024-09-20 18:21:00,Chicago Cubs,Washington Nationals,-1.5,110.00,-132.00,-180.00,152.00,3,1
+2024-09-20 23:06:00,Baltimore Orioles,Detroit Tigers,-1.5,118.00,-142.00,-196.00,164.00,7,1
+2024-09-20 23:11:00,Miami Marlins,Atlanta Braves,1.5,-104.00,-115.00,158.00,-188.00,4,3
+2024-09-21 00:11:00,Houston Astros,Los Angeles Angels,-1.5,-108.00,-111.00,-235.00,194.00,9,7
+2024-09-21 00:11:00,Kansas City Royals,San Francisco Giants,-1.5,130.00,-156.00,-162.00,136.00,1,2
+2024-09-21 01:41:00,San Diego Padres,Chicago White Sox,-1.5,104.00,-125.00,-230.00,190.00,3,2
+2024-09-21 01:41:00,Oakland Athletics,New York Yankees,1.5,100.00,-120.00,168.00,-200.00,2,4
+2024-09-20 23:11:00,New York Mets,Philadelphia Phillies,1.5,-172.00,142.00,-200.00,154.00,2,12
+2024-09-21 02:11:00,Los Angeles Dodgers,Colorado Rockies,-1.5,-120.00,100.00,-255.00,210.00,6,4
+2024-09-21 20:11:00,Miami Marlins,Atlanta Braves,1.5,125.00,-150.00,194.00,-235.00,2,6
+2024-09-21 23:11:00,Houston Astros,Los Angeles Angels,-1.5,-108.00,-111.00,-250.00,205.00,10,4
+2024-09-21 23:11:00,Kansas City Royals,San Francisco Giants,-1.5,138.00,-170.00,-158.00,134.00,0,9
+2024-09-22 01:08:00,Oakland Athletics,New York Yankees,1.5,-111.00,-108.00,142.00,-168.00,0,10
+2024-09-21 23:06:00,Texas Rangers,Seattle Mariners,-1.5,160.00,-194.00,196.00,-260.00,4,8
+2024-09-21 23:11:00,Milwaukee Brewers,Arizona Diamondbacks,1.5,-188.00,155.00,186.00,-245.00,0,5
+2024-09-22 17:41:00,Miami Marlins,Atlanta Braves,1.5,104.00,-125.00,162.00,-194.00,4,5
+2024-09-22 18:21:00,Chicago Cubs,Washington Nationals,-1.5,102.00,-122.00,-200.00,168.00,5,0
+2024-09-22 20:08:00,Oakland Athletics,New York Yankees,1.5,-104.00,-115.00,152.00,-180.00,4,7
+2024-09-22 23:16:00,New York Mets,Philadelphia Phillies,1.5,-130.00,108.00,136.00,-162.00,2,1
+2024-09-24 00:11:00,Houston Astros,Seattle Mariners,-1.5,134.00,-162.00,-162.00,136.00,1,6
+2024-09-24 01:41:00,Arizona Diamondbacks,San Francisco Giants,-1.5,112.00,-134.00,-172.00,144.00,3,6
+2024-09-23 23:08:00,Toronto Blue Jays,Boston Red Sox,1.5,-182.00,150.00,210.00,-280.00,1,4
+2024-09-24 22:41:00,Cleveland Guardians,Cincinnati Reds,-1.5,126.00,-152.00,-168.00,142.00,6,1
+2024-09-24 22:41:00,Detroit Tigers,Tampa Bay Rays,-1.5,128.00,-154.00,-172.00,144.00,2,1
+2024-09-24 23:26:00,Washington Nationals,Kansas City Royals,1.5,-122.00,102.00,136.00,-162.00,0,1
+2024-09-24 23:06:00,New York Yankees,Baltimore Orioles,-1.5,128.00,-154.00,-164.00,138.00,3,5
+2024-09-24 23:42:00,Minnesota Twins,Miami Marlins,-1.5,-110.00,-110.00,-240.00,198.00,1,4
+2024-09-25 00:11:00,Houston Astros,Seattle Mariners,-1.5,136.00,-164.00,-162.00,136.00,4,3
+2024-09-25 22:06:00,Philadelphia Phillies,Chicago Cubs,-1.5,122.00,-146.00,-178.00,150.00,9,6
+2024-09-25 23:41:00,Minnesota Twins,Miami Marlins,-1.5,104.00,-125.00,-205.00,172.00,8,3
+2024-09-26 01:41:00,Arizona Diamondbacks,San Francisco Giants,-1.5,-104.00,-115.00,-220.00,184.00,8,2
+2024-09-25 22:41:00,Pittsburgh Pirates,Milwaukee Brewers,1.5,-128.00,106.00,200.00,-265.00,2,1
+2024-09-25 23:07:00,New York Yankees,Baltimore Orioles,-1.5,152.00,-184.00,186.00,-245.00,7,9
+2024-09-26 17:06:00,Washington Nationals,Kansas City Royals,1.5,-115.00,-104.00,140.00,-166.00,4,7
+2024-09-26 23:40:00,Minnesota Twins,Miami Marlins,-1.5,100.00,-120.00,-220.00,184.00,6,8
+2024-09-27 22:41:00,Detroit Tigers,Chicago White Sox,-1.5,128.00,-154.00,-164.00,138.00,4,1
+2024-09-27 22:46:00,Washington Nationals,Philadelphia Phillies,1.5,-104.00,-115.00,160.00,-190.00,9,1
+2024-09-27 23:06:00,New York Yankees,Pittsburgh Pirates,-1.5,102.00,-122.00,-190.00,160.00,2,4
+2024-09-27 23:08:00,Toronto Blue Jays,Miami Marlins,-1.5,125.00,-150.00,-174.00,146.00,5,15
+2024-09-27 23:21:00,Atlanta Braves,Kansas City Royals,-1.5,116.00,-140.00,-184.00,154.00,3,0
+2024-09-28 00:11:00,Minnesota Twins,Baltimore Orioles,-1.5,116.00,-140.00,-172.00,144.00,2,7
+2024-09-28 00:11:00,Colorado Rockies,Los Angeles Dodgers,1.5,114.00,-137.00,154.00,-184.00,4,11
+2024-09-28 01:38:00,Los Angeles Angels,Texas Rangers,1.5,-130.00,110.00,144.00,-172.00,2,5
+2024-09-27 23:11:00,Boston Red Sox,Tampa Bay Rays,-1.5,164.00,-200.00,-194.00,150.00,1,2
+2024-09-28 02:11:00,Seattle Mariners,Oakland Athletics,-1.5,128.00,-154.00,-172.00,144.00,2,0
+2024-09-28 20:06:00,Washington Nationals,Philadelphia Phillies,1.5,110.00,-132.00,184.00,-220.00,6,3
+2024-09-28 20:06:00,San Francisco Giants,St. Louis Cardinals,-1.5,130.00,-156.00,-164.00,138.00,6,5
+2024-09-28 22:11:00,Cleveland Guardians,Houston Astros,1.5,-182.00,150.00,144.00,-186.00,3,4
+2024-09-29 00:10:00,Arizona Diamondbacks,San Diego Padres,-1.5,-118.00,-102.00,-220.00,184.00,0,5
+2024-09-29 00:10:00,Colorado Rockies,Los Angeles Dodgers,1.5,145.00,-165.00,198.00,-240.00,2,13
+2024-09-29 19:06:00,New York Yankees,Pittsburgh Pirates,-1.5,-102.00,-118.00,-220.00,184.00,6,4
+2024-09-29 19:06:00,Washington Nationals,Philadelphia Phillies,1.5,-110.00,-110.00,154.00,-184.00,3,6
+2024-09-29 19:08:00,Los Angeles Angels,Texas Rangers,1.5,-122.00,102.00,138.00,-164.00,0,8
+2024-09-29 19:10:00,Arizona Diamondbacks,San Diego Padres,-1.5,115.00,-135.00,-168.00,142.00,11,2
+2024-09-29 19:11:00,Seattle Mariners,Oakland Athletics,-1.5,118.00,-142.00,-184.00,154.00,6,4
+2024-09-30 17:11:00,Atlanta Braves,New York Mets,-1.5,134.00,-162.00,-154.00,130.00,3,0
+2024-10-02 00:39:00,San Diego Padres,Atlanta Braves,-1.5,130.00,-160.00,-156.00,132.00,4,0
